@@ -1,0 +1,2 @@
+# mstelemetry
+ms-telemetry

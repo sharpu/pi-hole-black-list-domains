@@ -37,7 +37,7 @@
 0.0.0.0 photosdata-pa.googleapis.com
 0.0.0.0 peoplestack-pa.googleapis.com
 0.0.0.0 notifications-pa.googleapis.com
-# typo
+# contains typo
 #0.0.0.0 geomobileservices-pa@googleapis.com
 0.0.0.0 geomobileservices-pa.googleapis.com
 #0.0.0.0 locationhistory-pa.googleapis.com

@@ -1,6 +1,6 @@
 # see: https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Win10Telemetry
 # changed to make it accessible for pi-hole
-# https://raw.githubusercontent.com/sharpu/mstelemetry/refs/heads/main/ghuc-mstd
+# https://raw.githubusercontent.com/sharpu/pi-hole-black-list-domains/refs/heads/main/ghuc-mstd
 
 0.0.0.0 alpha.telemetry.microsoft.com
 0.0.0.0 asimov-win.settings.data.microsoft.com.akadns.net

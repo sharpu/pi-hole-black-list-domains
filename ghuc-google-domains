@@ -1,6 +1,6 @@
 # see https://github.com/TheBlockList/Blocklist/blob/master/google
 # changed to be accessible for pi-hole
-#
+# https://raw.githubusercontent.com/sharpu/mstelemetry/refs/heads/main/ghuc-google-domains
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleadservices.com
 0.0.0.0 www.googleadservices.com

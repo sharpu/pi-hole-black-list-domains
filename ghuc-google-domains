@@ -1,0 +1,42 @@
+# see https://github.com/TheBlockList/Blocklist/blob/master/google
+# changed to be accessible for pi-hole
+#
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 googleadservices.com
+0.0.0.0 www.googleadservices.com
+0.0.0.0 ssl.google-analytics.com
+0.0.0.0 digitalassetlinks.googleapis.com
+0.0.0.0 semanticlocation-pa.googleapis.com
+#0.0.0.0 people-pa.googleapis.com
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 gllto.glpals.com
+#0.0.0.0 playatoms-pa.googleapis.com
+0.0.0.0 userlocation.google.com
+#0.0.0.0 ad.doubleclick.net
+0.0.0.0 doubleclick.net
+0.0.0.0 auditrecording-pa.googleapis.com
+#0.0.0.0 userlocation.googleapis.com
+0.0.0.0 firebase-settings.crashlytics.com
+# contains typo
+#0.0.0.0 firebasemoteconfig.googleapis.com
+#0.0.0.0 firebaseremoteconfig.googleapis.com
+0.0.0.0 settings.crashlytics.com
+#0.0.0.0 app-measurement.com
+#0.0.0.0 playatoms-pa.googleapis.com
+0.0.0.0 id.google.com
+0.0.0.0 bcmls2.glpals.com
+0.0.0.0 gllto2.glpals.com
+0.0.0.0 glpals.com
+0.0.0.0 bcmls.glpals.com
+0.0.0.0 firebaseinstallations.googleapis.com
+#0.0.0.0 footprints-pa.googleapis.com
+0.0.0.0 metadata.google.internal
+0.0.0.0 voilatile-pa.googleapis.com
+0.0.0.0 jmt17.google.com
+0.0.0.0 pai.googlezip.net
+0.0.0.0 photosdata-pa.googleapis.com
+0.0.0.0 peoplestack-pa.googleapis.com
+0.0.0.0 notifications-pa.googleapis.com
+0.0.0.0 geomobileservices-pa@googleapis.com
+#0.0.0.0 locationhistory-pa.googleapis.com
+0.0.0.0 gameswhitelisted.googleapis.com

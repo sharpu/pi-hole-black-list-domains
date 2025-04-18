@@ -1965,7 +1965,7 @@
 0.0.0.0 pornktube.porn
 0.0.0.0 sexmex.xxx
 0.0.0.0 thiswebsiteisblocked.com
-0.0.0.0 webcompanion
+0.0.0.0 webcompanion.com
 0.0.0.0 megaup.net
 0.0.0.0 dloads1.cfd
 0.0.0.0 igg-games.com

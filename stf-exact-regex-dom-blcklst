@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 18.04.2025
+# updated: 24.04.2025
 #
 # Redirected extract from pihole's gravity.db with:
 # sqlite3 gravity.db "select concat('0.0.0.0 ',domain) from domainlist;" > stf-exact-regex-dom-blcklst
@@ -4246,3 +4246,36 @@
 0.0.0.0 [a-z0-9]+.xhamster.com
 0.0.0.0 [a-z0-9]+.review4.in
 0.0.0.0 review4.in
+0.0.0.0 patchmypc.com
+0.0.0.0 www.patchmypc.com
+0.0.0.0 forum.patchmypc.com	
+0.0.0.0 divi.patchmypc.com	
+0.0.0.0 staging.patchmypc.com	
+0.0.0.0 new.patchmypc.com	
+0.0.0.0 homeupdater.patchmypc.com	
+0.0.0.0 demos.patchmypc.com	
+0.0.0.0 trust.patchmypc.com	
+0.0.0.0 eu-labs.patchmypc.com	
+0.0.0.0 lms.patchmypc.com		
+0.0.0.0 get.patchmypc.com	
+0.0.0.0 portal.patchmypc.com
+0.0.0.0 lyncdiscover.patchmypc.com
+0.0.0.0 mspamp.patchmypc.com
+0.0.0.0 api.patchmypc.com
+0.0.0.0 go.patchmypc.com
+0.0.0.0 azwww01.patchmypc.com
+0.0.0.0 pmpazwww01.patchmypc.com
+0.0.0.0 basic.patchmypc.com
+0.0.0.0 swag.patchmypc.com
+0.0.0.0 partneramp.patchmypc.com		
+0.0.0.0 amp.patchmypc.com
+0.0.0.0 enterpriseenrollment.patchmypc.com	
+0.0.0.0 sip.patchmypc.com
+0.0.0.0 autodiscover.patchmypc.com
+0.0.0.0 policies.patchmypc.com		
+0.0.0.0 learn.patchmypc.com
+0.0.0.0 docs.patchmypc.com
+0.0.0.0 docs1.patchmypc.com		
+0.0.0.0 docstesting.patchmypc.com	
+0.0.0.0 ideas.patchmypc.com	
+0.0.0.0 status.patchmypc.com

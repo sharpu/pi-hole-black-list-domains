@@ -4340,3 +4340,16 @@
 0.0.0.0 mixpanel.com
 0.0.0.0 api-js.mixpanel.com
 0.0.0.0 api.mixpanel.com
+0.0.0.0 related.windowsreport.com
+0.0.0.0 staging.windowsreport.com
+0.0.0.0 test.windowsreport.com
+0.0.0.0 go.windowsreport.com
+0.0.0.0 qa.windowsreport.com
+0.0.0.0 stage.windowsreport.com
+0.0.0.0 v2.windowsreport.com
+0.0.0.0 www.windowsreport.com
+0.0.0.0 cdn2.windowsreport.com
+0.0.0.0 dev.windowsreport.com
+0.0.0.0 data.windowsreport.com
+0.0.0.0 windowsreport.com
+0.0.0.0 cdn.windowsreport.com

@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 27.04.2025
+# updated: 28.04.2025
 #
 # Redirected extract from pihole's gravity.db with:
 # sqlite3 gravity.db "select concat('0.0.0.0 ',domain) from domainlist;" > stf-exact-regex-dom-blcklst
@@ -4479,3 +4479,5 @@
 0.0.0.0 Ablebass.co.in
 0.0.0.0 izjec2.ablebass.co.in
 0.0.0.0 Enhancechain-flow.com
+0.0.0.0 Fusearch.org
+0.0.0.0 Lootsearchgood.com

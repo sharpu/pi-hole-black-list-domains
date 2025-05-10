@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 03.05.2025
+# updated: 10.05.2025
 #
 # Redirected extract from pihole's gravity.db with:
 # sqlite3 gravity.db "select concat('0.0.0.0 ',domain) from domainlist;" > stf-exact-regex-dom-blcklst
@@ -3332,7 +3332,7 @@
 0.0.0.0 [a-z0-9]+.Ovliveme.com
 0.0.0.0 ovliveme.com
 0.0.0.0 networkdefender.co.in
-0.0.0.0 [a-z0-99]+.Networkdefender.co.in
+0.0.0.0 [a-z0-9]+.Networkdefender.co.in
 0.0.0.0 [a-z0-9]+.News-xgomuvo.live
 0.0.0.0 news-xgomuvo.live
 0.0.0.0 fugerston.co.in
@@ -4482,4 +4482,42 @@
 0.0.0.0 Fusearch.org
 0.0.0.0 Lootsearchgood.com
 0.0.0.0 ogsrchrdr.com
-
+0.0.0.0 searchthatweb.com
+0.0.0.0 www.searchthatweb.com
+0.0.0.0 suggest.searchthatweb.com
+0.0.0.0 seek.searchthatweb.com
+0.0.0.0 i.searchthatweb.com
+0.0.0.0 search-crown.com
+0.0.0.0 Kurepos.co.in
+0.0.0.0 syszm.kurepos.co.in
+0.0.0.0 wg8jd.kurepos.co.in
+0.0.0.0 wubgy.kurepos.co.in
+0.0.0.0 yhlxj.kurepos.co.in
+0.0.0.0 o87cq.kurepos.co.in
+0.0.0.0 5dx82.kurepos.co.in
+0.0.0.0 kc9kj.kurepos.co.in
+0.0.0.0 qfmiz.kurepos.co.in
+0.0.0.0 odkcu.kurepos.co.in
+0.0.0.0 tatut.kurepos.co.in
+0.0.0.0 yr8m2.kurepos.co.in
+0.0.0.0 060vp.kurepos.co.in
+0.0.0.0 dgisk.kurepos.co.in
+0.0.0.0 f3cly.kurepos.co.in
+0.0.0.0 oxq50.kurepos.co.in
+0.0.0.0 fcb5t.kurepos.co.in
+0.0.0.0 s9sj2.kurepos.co.in
+0.0.0.0 xwg9o.kurepos.co.in
+0.0.0.0 thm42.kurepos.co.in
+0.0.0.0 wfvrg.kurepos.co.in
+0.0.0.0 Mobiletips.in
+0.0.0.0 cpanel.mobiletips.in
+0.0.0.0 webdisk.mobiletips.in
+0.0.0.0 webmail.mobiletips.in
+0.0.0.0 www.mobiletips.in
+0.0.0.0 cpcontacts.mobiletips.in
+0.0.0.0 mail.mobiletips.in
+0.0.0.0 swsrc4you.com
+0.0.0.0 SearchMyCurrency.com
+0.0.0.0 SpankBang.com
+0.0.0.0 [a-z0-9]+.SpankBang.com
+0.0.0.0 pdfast.com

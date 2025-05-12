@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 10.05.2025
+# updated: 12.05.2025
 #
 # Redirected extract from pihole's gravity.db with:
 # sqlite3 gravity.db "select concat('0.0.0.0 ',domain) from domainlist;" > stf-exact-regex-dom-blcklst
@@ -4559,3 +4559,98 @@
 0.0.0.0 [a-z0-9]+.bytedance.com
 # amazon kindle on PC
 0.0.0.0 unagi-na.amazon.com
+# stf
+0.0.0.0 1wxscr.com
+0.0.0.0 www.1wxscr.com
+0.0.0.0 fastnetshift.co.in
+0.0.0.0 d0ghqb0hubcc738a1et0.fastnetshift.co.in
+0.0.0.0 d0gd730hubcc7385b8tg.fastnetshift.co.in
+0.0.0.0 d0g4joohubcc73fvtho0.fastnetshift.co.in
+0.0.0.0 d0g4hdohubcc73fvsjvg.fastnetshift.co.in
+0.0.0.0 wbrdz6u1e3xhlt.fastnetshift.co.in
+0.0.0.0 d0fm678hubcc73fgkgk0.fastnetshift.co.in
+0.0.0.0 d0f5aq0hubcc73f3to80.fastnetshift.co.in
+0.0.0.0 d0eu3t8hubcc73ernaeg.fastnetshift.co.in
+0.0.0.0 cvh0tj8hubcc73cc6th0.fastnetshift.co.in
+0.0.0.0 cveqqlohubcc739rh3vg.fastnetshift.co.in
+0.0.0.0 cv7lrc0hubcc73aclu80.fastnetshift.co.in
+0.0.0.0 cucf9i0hubcc739d5lfg.fastnetshift.co.in
+0.0.0.0 cucf9iohubcc739d5m00.fastnetshift.co.in
+0.0.0.0 cuci8h0hubcc739ffc8g.fastnetshift.co.in
+0.0.0.0 cucj75ghubcc739g7p40.fastnetshift.co.in
+0.0.0.0 cucj91ohubcc739g995g.fastnetshift.co.in
+0.0.0.0 cuchf0ohubcc739ergig.fastnetshift.co.in
+0.0.0.0 cucfciohubcc739d7vqg.fastnetshift.co.in
+0.0.0.0 cucenpohubcc739cpbvg.fastnetshift.co.in
+0.0.0.0 cuch57ohubcc739ejrm0.fastnetshift.co.in
+0.0.0.0 cuchaq8hubcc739eo700.fastnetshift.co.in
+0.0.0.0 cucei3ghubcc739cli8g.fastnetshift.co.in
+0.0.0.0 cuciqeghubcc739ftd60.fastnetshift.co.in
+0.0.0.0 cucehjghubcc739cl8b0.fastnetshift.co.in
+0.0.0.0 cuch6aghubcc739eklqg.fastnetshift.co.in
+0.0.0.0 cucegjohubcc739ckhn0.fastnetshift.co.in
+0.0.0.0 cuceidohubcc739clpm0.fastnetshift.co.in
+0.0.0.0 cucj6f8hubcc739g787g.fastnetshift.co.in
+0.0.0.0 cucj150hubcc739g2tjg.fastnetshift.co.in
+0.0.0.0 cuciskghubcc739fv7d0.fastnetshift.co.in
+0.0.0.0 cucio7ghubcc739frn3g.fastnetshift.co.in
+0.0.0.0 cucin1ohubcc739fqpi0.fastnetshift.co.in
+0.0.0.0 uywtxk4tosgh5a.fastnetshift.co.in
+0.0.0.0 c8r453yhnulrqa.fastnetshift.co.in
+0.0.0.0 cucihn8hubcc739fmi90.fastnetshift.co.in
+0.0.0.0 cucidmghubcc739fjb7g.fastnetshift.co.in
+0.0.0.0 cuci9f0hubcc739fg220.fastnetshift.co.in
+0.0.0.0 cuci870hubcc739ff60g.fastnetshift.co.in
+0.0.0.0 cuchqb8hubcc739f49h0.fastnetshift.co.in
+0.0.0.0 i39ufcnsjjoyy1.fastnetshift.co.in
+0.0.0.0 zntyjoxam8n41v.fastnetshift.co.in
+0.0.0.0 cuchqlohubcc739f4ijg.fastnetshift.co.in
+0.0.0.0 cuchno0hubcc739f2bp0.fastnetshift.co.in
+0.0.0.0 cuchnpghubcc739f2cpg.fastnetshift.co.in
+0.0.0.0 cuchhlohubcc739etiug.fastnetshift.co.in
+0.0.0.0 cuchfk8hubcc739es0vg.fastnetshift.co.in
+0.0.0.0 hzo2c13sdf7nuh.fastnetshift.co.in
+0.0.0.0 cuchdiohubcc739eqbqg.fastnetshift.co.in
+0.0.0.0 cuch4kohubcc739ejf3g.fastnetshift.co.in
+0.0.0.0 cuch4lohubcc739ejfk0.fastnetshift.co.in
+0.0.0.0 p5zeyx5vafs565.fastnetshift.co.in
+0.0.0.0 cuch168hubcc739egk30.fastnetshift.co.in
+0.0.0.0 cucgtsghubcc739ee3kg.fastnetshift.co.in
+0.0.0.0 hqaq7qs4ctq93j.fastnetshift.co.in
+0.0.0.0 cucgu10hubcc739ee75g.fastnetshift.co.in
+0.0.0.0 cucgu20hubcc739ee8ag.fastnetshift.co.in
+0.0.0.0 cucgtj8hubcc739edqi0.fastnetshift.co.in
+0.0.0.0 cucg9q0hubcc739ducmg.fastnetshift.co.in
+0.0.0.0 cucg5qohubcc739drhq0.fastnetshift.co.in
+0.0.0.0 cucg51ghubcc739dqtsg.fastnetshift.co.in
+0.0.0.0 cuceqjghubcc739cr81g.fastnetshift.co.in
+0.0.0.0 9wfblg56ealsqj.fastnetshift.co.in
+0.0.0.0 cucfttghubcc739dldvg.fastnetshift.co.in
+0.0.0.0 cucfodohubcc739dgt40.fastnetshift.co.in
+0.0.0.0 cucflb0hubcc739deklg.fastnetshift.co.in
+0.0.0.0 cucfd9ghubcc739d8heg.fastnetshift.co.in
+0.0.0.0 cucfcjghubcc739d80m0.fastnetshift.co.in
+0.0.0.0 cucf5aghubcc739d2g1g.fastnetshift.co.in
+0.0.0.0 cucf0rohubcc739cvc7g.fastnetshift.co.in
+0.0.0.0 p7kpn4xik77m9m.fastnetshift.co.in
+0.0.0.0 cucevr8hubcc739cuo1g.fastnetshift.co.in
+0.0.0.0 cucev70hubcc739cual0.fastnetshift.co.in
+0.0.0.0 cuceun0hubcc739cu2ag.fastnetshift.co.in
+0.0.0.0 7bajhl1ncn7ix6.fastnetshift.co.in
+0.0.0.0 cuceovohubcc739cq7h0.fastnetshift.co.in
+0.0.0.0 cucenl0hubcc739cp8s0.fastnetshift.co.in
+0.0.0.0 jcm2sjquul24xq.fastnetshift.co.in
+0.0.0.0 pjaqe8lcsoc7xt.fastnetshift.co.in
+0.0.0.0 cuce6p0hubcc739ce7kg.fastnetshift.co.in
+0.0.0.0 cuce118hubcc739caskg.fastnetshift.co.in
+0.0.0.0 cucdj68hubcc739c2o5g.fastnetshift.co.in
+0.0.0.0 enermaruddly.co.in
+0.0.0.0 37yito.enermaruddly.co.in
+0.0.0.0 rgx54z.enermaruddly.co.in
+0.0.0.0 mkhvuv.enermaruddly.co.in
+0.0.0.0 qyt8pi.enermaruddly.co.in
+0.0.0.0 vjr2ws.enermaruddly.co.in
+0.0.0.0 invv7n.enermaruddly.co.in
+0.0.0.0 xn4iqv.enermaruddly.co.in
+
+

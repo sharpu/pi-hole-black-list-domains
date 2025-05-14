@@ -2691,8 +2691,28 @@
 0.0.0.0 [a-z0-9]+.sexmex.xxx
 0.0.0.0 thiswebsiteisblocked.com
 0.0.0.0 [a-z0-9]+.thiswebsiteisblocked.com
-0.0.0.0 webcompanion
-0.0.0.0 [a-z0-9]+.webcompanion
+#
+0.0.0.0 webcompanion.com
+0.0.0.0 www.webcompanion.com
+0.0.0.0 download.webcompanion.com
+0.0.0.0 easy.webcompanion.com
+0.0.0.0 cloud.webcompanion.com
+0.0.0.0 siftp.webcompanion.com
+0.0.0.0 cdn.webcompanion.com
+0.0.0.0 partners.webcompanion.com
+0.0.0.0 freedownload.webcompanion.com
+0.0.0.0 open.webcompanion.com
+0.0.0.0 my.webcompanion.com
+0.0.0.0 ppp.webcompanion.com
+0.0.0.0 autodiscover.webcompanion.com
+0.0.0.0 reward.webcompanion.com
+0.0.0.0 free.webcompanion.com
+0.0.0.0 vpn-api.webcompanion.com
+0.0.0.0 vpn.webcompanion.com
+0.0.0.0 pp.webcompanion.com
+0.0.0.0 blog.webcompanion.com
+0.0.0.0 rt.webcompanion.com
+#
 0.0.0.0 [a-z0-9]+.megaup.net
 0.0.0.0 megaup.net
 0.0.0.0 dloads1.cfd

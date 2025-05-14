@@ -1495,6 +1495,8 @@
 0.0.0.0 futanaricartoonporn.com
 0.0.0.0 www.regionporn.com
 0.0.0.0 tr.xhamster19.com
+0.0.0.0 pixiv.net
+0.0.0.0 [a-z0-9]+.pixiv.net
 0.0.0.0 img-comic.pixiv.net
 0.0.0.0 www.pixiv.net
 0.0.0.0 img-novel.pixiv.net
@@ -1507,6 +1509,9 @@
 0.0.0.0 feed.pixiv.net
 0.0.0.0 source-zingaro.pixiv.net
 0.0.0.0 zendesk[0-9]+.pixiv.net
+0.0.0.0 zendesk2.pixiv.net
+0.0.0.0 zendesk4.pixiv.net
+
 0.0.0.0 creation.pixiv.net
 0.0.0.0 dorado.pixiv.net
 0.0.0.0 ads.pixiv.net

@@ -1508,10 +1508,10 @@
 0.0.0.0 pixkiki.pixiv.net
 0.0.0.0 feed.pixiv.net
 0.0.0.0 source-zingaro.pixiv.net
-0.0.0.0 zendesk[0-9]+.pixiv.net
+# ignored by update
+# 0.0.0.0 zendesk[0-9]+.pixiv.net
 0.0.0.0 zendesk2.pixiv.net
 0.0.0.0 zendesk4.pixiv.net
-
 0.0.0.0 creation.pixiv.net
 0.0.0.0 dorado.pixiv.net
 0.0.0.0 ads.pixiv.net

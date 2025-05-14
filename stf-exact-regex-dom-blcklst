@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 13.05.2025
+# updated: 14.05.2025
 #
 # Redirected extract from pihole's gravity.db with:
 # sqlite3 gravity.db "select concat('0.0.0.0 ',domain) from domainlist;" > stf-exact-regex-dom-blcklst
@@ -5226,3 +5226,73 @@
 0.0.0.0 tst-cd-one.wsasitecore.net
 0.0.0.0 cdn-retail.wsasitecore.net
 0.0.0.0 uat-cdn-retail.wsasitecore.net
+# stf
+0.0.0.0 webshoppers.co
+0.0.0.0 Customsearch.webshoppers.co
+# drtuber
+0.0.0.0 drtuber.com
+0.0.0.0 gcdn.drtuber.com
+0.0.0.0 ecdn.drtuber.com
+0.0.0.0 p2.drtuber.com
+0.0.0.0 p1.drtuber.com
+0.0.0.0 mobile1.drtuber.com
+0.0.0.0 symon.drtuber.com
+0.0.0.0 api.drtuber.com
+0.0.0.0 storage.drtuber.com
+0.0.0.0 app-vpn.drtuber.com
+0.0.0.0 www1.drtuber.com
+0.0.0.0 s2.drtuber.com
+0.0.0.0 new3.drtuber.com
+0.0.0.0 nagios.drtuber.com
+0.0.0.0 s1.drtuber.com
+0.0.0.0 s3.drtuber.com
+0.0.0.0 www7.drtuber.com
+0.0.0.0 mm.drtuber.com
+0.0.0.0 s5.drtuber.com
+0.0.0.0 relay.drtuber.com
+0.0.0.0 www2.drtuber.com
+0.0.0.0 dating.drtuber.com
+0.0.0.0 feedback.drtuber.com
+0.0.0.0 iframe.drtuber.com
+0.0.0.0 ns1.drtuber.com
+0.0.0.0 ns2.drtuber.com
+0.0.0.0 ns3.drtuber.com
+0.0.0.0 ns4.drtuber.com
+0.0.0.0 static10.drtuber.com
+0.0.0.0 static8.drtuber.com
+0.0.0.0 userpics.drtuber.com
+0.0.0.0 wncdn.drtuber.com
+0.0.0.0 static3.drtuber.com
+0.0.0.0 xcdn.drtuber.com
+0.0.0.0 static7.drtuber.com
+0.0.0.0 static9.drtuber.com
+0.0.0.0 static1.drtuber.com
+0.0.0.0 static5.drtuber.com
+0.0.0.0 static6.drtuber.com
+0.0.0.0 wmcdn.drtuber.com
+0.0.0.0 acdn.drtuber.com
+0.0.0.0 lcdn.drtuber.com
+0.0.0.0 content.drtuber.com
+0.0.0.0 webmaster.drtuber.com
+0.0.0.0 m.drtuber.com
+0.0.0.0 mobile.drtuber.com
+0.0.0.0 upload.drtuber.com
+0.0.0.0 bs.drtuber.com
+0.0.0.0 cnt.drtuber.com
+0.0.0.0 static2.drtuber.com
+0.0.0.0 static4.drtuber.com
+0.0.0.0 pics.drtuber.com
+# searchonsite
+0.0.0.0 searchonsite.com
+0.0.0.0 suggest.searchonsite.com
+0.0.0.0 i.searchonsite.com
+0.0.0.0 seek.searchonsite.com
+0.0.0.0 www.searchonsite.com
+# Search.noted-it.com
+0.0.0.0 noted-it.com
+0.0.0.0 www.noted-it.com
+0.0.0.0 Search.noted-it.com
+0.0.0.0 i.noted-it.com
+0.0.0.0 suggest.noted-it.com
+# quizmytab
+0.0.0.0 Quizmytab.com

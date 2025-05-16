@@ -4379,8 +4379,18 @@
 0.0.0.0 [a-z0-9]+.updateinfo4.top
 0.0.0.0 kisshit2.info
 0.0.0.0 myheroin2.info
-0.0.0.0 (\.|^)satantraff2\.info$
+#
+0.0.0.0 satantraff2.info
 0.0.0.0 [a-z0-9]+.satantraff2.info
+0.0.0.0 ns8.satantraff2.info
+0.0.0.0 ns7.satantraff2.info
+0.0.0.0 ns5.satantraff2.info
+0.0.0.0 ns4.satantraff2.info
+0.0.0.0 ns3.satantraff2.info
+0.0.0.0 ns2.satantraff2.info
+0.0.0.0 ns1.satantraff2.info
+0.0.0.0 ns6.satantraff2.info
+#
 0.0.0.0 nonstopporno1.info
 0.0.0.0 statinstall1.info
 0.0.0.0 suspiria2.info

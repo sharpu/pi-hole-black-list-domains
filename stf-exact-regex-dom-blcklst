@@ -2240,7 +2240,8 @@
 0.0.0.0 fwww.eporner.com
 0.0.0.0 kr.eporner.com
 0.0.0.0 webservices-download.eporner.com
-0.0.0.0 upload-data[0-9]+.eporner.com
+0.0.0.0 [a-z]+-[a-z0-9]+.eporner.com
+#0.0.0.0 upload-data[0-9]+.eporner.com
 0.0.0.0 asian.eporner.com
 0.0.0.0 br.eporner.com
 0.0.0.0 ro.eporner.com

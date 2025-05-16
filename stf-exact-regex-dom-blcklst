@@ -2033,8 +2033,7 @@
 0.0.0.0 pornking.fun
 0.0.0.0 www.pornking.fun
 0.0.0.0 mail.pornking.fun
-0.0.0.0 cdn[0-9]+.pornking.fun
-0.0.0.0 sv[0-9]+.pornking.fun
+0.0.0.0 [a-z0-9]+.pornking.fun
 0.0.0.0 verpornicomic.com
 0.0.0.0 www.bpornvideos.com
 0.0.0.0 faponic.com
@@ -2787,7 +2786,7 @@
 0.0.0.0 byethost3.com
 0.0.0.0 [a-z0-9]+.byethost33.com
 0.0.0.0 byethost33.com
-0.0.0.0 byethost[0-9]+.com
+#0.0.0.0 byethost[0-9]+.com
 0.0.0.0 64.190.63.111
 0.0.0.0 oyunportal.xyz
 0.0.0.0 [a-z0-9]+.oyunportal.xyz
@@ -4211,7 +4210,7 @@
 0.0.0.0 geraatualiza.com
 0.0.0.0 masterdow.com
 0.0.0.0 geraupdate.com
-0.0.0.0 fastupdate[0-9]+.top
+#0.0.0.0 fastupdate[0-9]+.top
 0.0.0.0 fastupdate2.top
 0.0.0.0 fastupdate4.top
 0.0.0.0 [a-z]+update[0-9]+.top
@@ -5379,7 +5378,6 @@
 0.0.0.0 help.podigee.com
 0.0.0.0 hilfe.podigee.com
 0.0.0.0 app.podigee.com
-
 0.0.0.0 cdn.podigee.com
 0.0.0.0 images.podigee.com
 # shoebox

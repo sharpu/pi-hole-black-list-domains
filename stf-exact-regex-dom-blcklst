@@ -4200,12 +4200,8 @@
 0.0.0.0 legion17.net
 0.0.0.0 legion17.best
 0.0.0.0 legion17.com
+0.0.0.0 www.legion17.com
 0.0.0.0 legion17.info
-0.0.0.0 legion[0-9]+.com
-0.0.0.0 legion[0-9]+.net
-0.0.0.0 legion[0-9]+.best
-0.0.0.0 legion[0-9]+.info
-0.0.0.0 legion[0-9]+.top
 0.0.0.0 geontrigame.com
 0.0.0.0 [a-z0-9]+.geontrigame.com
 0.0.0.0 [a-z0-9]+.daowsistem.com

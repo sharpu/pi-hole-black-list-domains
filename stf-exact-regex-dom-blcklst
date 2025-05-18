@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 16.05.2025
+# updated: 18.05.2025
 #
 # Redirected extract from pihole's gravity.db with:
 # sqlite3 gravity.db "select concat('0.0.0.0 ',domain) from domainlist;" > stf-exact-regex-dom-blcklst
@@ -4049,6 +4049,7 @@
 0.0.0.0 securesearch.pro
 0.0.0.0 temu.com
 0.0.0.0 temu.de
+0.0.0.0 app.temu.com
 0.0.0.0 [a-z0-9]+.temu.com
 0.0.0.0 [a-z0-9]+.temu.de
 0.0.0.0 [a-z0-9]+.temu.co.uk
@@ -7755,4 +7756,75 @@
 0.0.0.0 fjvv2i.ovateshidae.co.in
 0.0.0.0 vjr2ws.ovateshidae.co.in
 0.0.0.0 Coolsexnew.com
-
+# ietf.org
+0.0.0.0 ietf.org
+0.0.0.0 www.ietf.org
+0.0.0.0 [a-z0-9]+.ietf.org
+# chuhai2345.com
+0.0.0.0 chuhai2345.com
+0.0.0.0 www.chuhai2345.com
+0.0.0.0 [a-z0-9]+.chuhai2345.com
+# ad2.cc
+0.0.0.0 ad2.cc
+0.0.0.0 www.ad2.cc
+0.0.0.0 adh-server.ad2.cc
+0.0.0.0 adh.ad2.cc
+0.0.0.0 ai.ad2.cc
+0.0.0.0 app-asset-us.ad2.cc
+0.0.0.0 app-asset.ad2.cc
+0.0.0.0 app-dash.ad2.cc
+0.0.0.0 bark.ad2.cc
+0.0.0.0 chat.ad2.cc
+0.0.0.0 chdb.ad2.cc
+0.0.0.0 clktest.ad2.cc
+0.0.0.0 comfyui-1.ad2.cc
+0.0.0.0 comfyui-2.ad2.cc
+0.0.0.0 comfyui-dev.ad2.cc
+0.0.0.0 comfyui-pre.ad2.cc
+0.0.0.0 comfyui.ad2.cc
+0.0.0.0 door.ad2.cc
+0.0.0.0 extrapolate.ad2.cc
+0.0.0.0 face.ad2.cc
+0.0.0.0 fooocus.ad2.cc
+0.0.0.0 frps.ad2.cc
+0.0.0.0 gpt.ad2.cc
+0.0.0.0 gptl.ad2.cc
+0.0.0.0 gptn.ad2.cc
+0.0.0.0 jenkins.ad2.cc
+0.0.0.0 json.ad2.cc
+0.0.0.0 langfuse.ad2.cc
+0.0.0.0 llm.ad2.cc
+0.0.0.0 monitor.ad2.cc
+0.0.0.0 movie-parser.ad2.cc
+0.0.0.0 one-api.ad2.cc
+0.0.0.0 one-llm.ad2.cc
+0.0.0.0 onlinetest.ad2.cc
+0.0.0.0 owu.ad2.cc
+0.0.0.0 posthog-test.ad2.cc
+0.0.0.0 posthog.ad2.cc
+0.0.0.0 r.ad2.cc
+0.0.0.0 reverse.ad2.cc
+0.0.0.0 sd.ad2.cc
+0.0.0.0 sear.ad2.cc
+0.0.0.0 search-api.ad2.cc
+0.0.0.0 search.ad2.cc
+0.0.0.0 sentry.ad2.cc
+0.0.0.0 t.ad2.cc
+0.0.0.0 tools.ad2.cc
+# whatsapp
+0.0.0.0 g.whatsapp.net
+# spectrum.net
+0.0.0.0 spectrum.net
+0.0.0.0 activate.spectrum.net
+0.0.0.0 [a-z0-9]+.spectrum.net
+# s1479.gmslb.net
+0.0.0.0 gmslb.net
+0.0.0.0 s1479.gmslb.net
+0.0.0.0 lb.gmslb.net
+# lonelycatgames.com
+0.0.0.0 lonelycatgames.com
+0.0.0.0 xplore.lonelycatgames.com
+# bing.com
+0.0.0.0 www.bing.com
+0.0.0.0 bing.com
+0.0.0.0 arc.msn.com

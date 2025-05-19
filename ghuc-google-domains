@@ -1,3 +1,4 @@
+# updated: 19.05.2025
 # see https://github.com/TheBlockList/Blocklist/blob/master/google
 # changed to be accessible for pi-hole
 # https://raw.githubusercontent.com/sharpu/pi-hole-black-list-domains/refs/heads/main/ghuc-google-domains
@@ -41,3 +42,27 @@
 0.0.0.0 geomobileservices-pa.googleapis.com
 0.0.0.0 locationhistory-pa.googleapis.com
 0.0.0.0 gameswhitelisted.googleapis.com
+# mtalk - 2025-05-19
+0.0.0.0 mtalk.google.com
+0.0.0.0 alt782178.mtalk.google.com
+0.0.0.0 alt555444.mtalk.google.com
+0.0.0.0 alt-1000137.mtalk.google.com
+0.0.0.0 alt-52005.mtalk.google.com
+0.0.0.0 alt-1936.mtalk.google.com
+0.0.0.0 alt-0030.mtalk.google.com
+0.0.0.0 alt103309.mtalk.google.com
+0.0.0.0 alt3.mtalk.google.com
+0.0.0.0 alt-2007036.mtalk.google.com
+0.0.0.0 alt-1003.mtalk.google.com
+0.0.0.0 alt2.mtalk.google.com
+0.0.0.0 alt4.mtalk.google.com
+0.0.0.0 alt6.mtalk.google.com
+0.0.0.0 alt8.mtalk.google.com
+0.0.0.0 alt5.mtalk.google.com
+# nearbypresence-pa.googleapis.com
+0.0.0.0 nearbypresence-pa.googleapis.com
+# cse.google.com
+0.0.0.0 cse.google.com
+0.0.0.0 alt5332.cse.google.com
+0.0.0.0 alt10.cse.google.com
+# 

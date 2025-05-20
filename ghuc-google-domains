@@ -68,3 +68,7 @@
 # 
 0.0.0.0 google-redirect.com
 0.0.0.0 googlesearchserver.net
+# youtubei.googleapis.com
+www.youtubei.googleapis.com
+distance-matrix-backend.youtubei.googleapis.com
+

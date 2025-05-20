@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 19.05.2025
+# updated: 20.05.2025
 #
 # Redirected extract from pihole's gravity.db with:
 # sqlite3 gravity.db "select concat('0.0.0.0 ',domain) from domainlist;" > stf-exact-regex-dom-blcklst
@@ -8246,5 +8246,28 @@
 0.0.0.0 youfindmore.com
 0.0.0.0 Zinkwink.com
 0.0.0.0 Zwankysearch.com
+# tsyndicate.com
+0.0.0.0 tsyndicate.com
+0.0.0.0 www.tsyndicate.com
+0.0.0.0 testvacdn.tsyndicate.com
+0.0.0.0 pdel.tsyndicate.com
+0.0.0.0 psub.tsyndicate.com
+0.0.0.0 jcdn.tsyndicate.com
+0.0.0.0 vacdn.tsyndicate.com
+0.0.0.0 acdn.tsyndicate.com
+0.0.0.0 m.tsyndicate.com
+0.0.0.0 avg.tsyndicate.com
+0.0.0.0 debug.tsyndicate.com
+0.0.0.0 vlcdn.tsyndicate.com
+0.0.0.0 r.tsyndicate.com
+0.0.0.0 r-eu.tsyndicate.com
+0.0.0.0 r-us.tsyndicate.com
+0.0.0.0 rtb.tsyndicate.com
+0.0.0.0 us-pxl.tsyndicate.com
+0.0.0.0 vcdn.tsyndicate.com
+0.0.0.0 pxl-avg.tsyndicate.com
+0.0.0.0 pxl.tsyndicate.com
+0.0.0.0 cdn.tsyndicate.com
+0.0.0.0 lcdn.tsyndicate.com
 
 

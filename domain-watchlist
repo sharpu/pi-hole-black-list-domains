@@ -2,7 +2,10 @@ Created: 23.05.2025
 Changed: 23.05.2025
 # list of domains appearing in pi-hole logs
 # unclear why they were called
-nodego.ai            # not blocked
-oneclient.sfx.ms     # Microsoft OneDrive (business?) # not blocked
-*.ecommzone.com      # ALL blocked
+nodego.ai             # not blocked
+# as tablet was still running
+oneclient.sfx.ms      # Microsoft OneDrive (business?) # not blocked
+oneocsp.microsoft.com # not blocked 
+*.ecommzone.com       # ALL blocked
+ecs.office.com        # belongs to Microsoft Office
 

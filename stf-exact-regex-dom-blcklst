@@ -6248,7 +6248,7 @@
 0.0.0.0 cookieconsent.osano.com
 0.0.0.0 cdn.osano.com
 0.0.0.0 cmp.osano.com
-# wsasitecore.net 
+# wsasitecore.net # hearing aids
 0.0.0.0 we-cdn-retail.wsasitecore.net
 0.0.0.0 uat-cdn-wholesale-origin.wsasitecore.net
 0.0.0.0 template-2.wsasitecore.net
@@ -6274,6 +6274,7 @@
 0.0.0.0 tst-cd-one.wsasitecore.net
 0.0.0.0 cdn-retail.wsasitecore.net
 0.0.0.0 uat-cdn-retail.wsasitecore.net
+0.0.0.0 uat-eu-cdn-retail.wsasitecore.net
 # stf
 0.0.0.0 webshoppers.co
 0.0.0.0 Customsearch.webshoppers.co

@@ -1,0 +1,7 @@
+Created: 23.05.2025
+Changed: 23.05.2025
+# list of domains appearing in pi-hole logs
+# unclear why it was called
+nodego.ai
+oneclient.sfx.ms
+smtp21.ecommzone.com

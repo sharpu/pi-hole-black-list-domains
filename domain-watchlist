@@ -8,4 +8,5 @@ oneclient.sfx.ms      # Microsoft OneDrive (business?) # not blocked
 oneocsp.microsoft.com # not blocked 
 *.ecommzone.com       # ALL blocked
 ecs.office.com        # belongs to Microsoft Office
+content-signature-chains.prod.autograph.services.mozaws.net # mozilla aws
 

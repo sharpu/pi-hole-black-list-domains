@@ -9597,6 +9597,34 @@
 # lustp.com
 0.0.0.0 lustp.com
 0.0.0.0 go.lustp.com
+# sheshaft.com
+0.0.0.0 sheshaft.com
+0.0.0.0 www.sheshaft.com
+0.0.0.0 upload.sheshaft.com
+0.0.0.0 new.sheshaft.com
+0.0.0.0 mail.sheshaft.com
+0.0.0.0 it.sheshaft.com
+0.0.0.0 ru.sheshaft.com
+0.0.0.0 cdn.sheshaft.com
+0.0.0.0 pt.sheshaft.com
+0.0.0.0 m.sheshaft.com
+0.0.0.0 de.sheshaft.com
+0.0.0.0 es.sheshaft.com
+0.0.0.0 fr.sheshaft.com
+0.0.0.0 ja.sheshaft.com
+0.0.0.0 cdni.sheshaft.com
+# xpee.com
+0.0.0.0 xpee.com
+0.0.0.0 www.xpee.com
+0.0.0.0 traf.xpee.com
+# tod99shi.com
+0.0.0.0 tod99shi.com
+0.0.0.0 www.tod99shi.com
+0.0.0.0 track.tod99shi.com
+0.0.0.0 [a-z0-9]+.tod99shi.com
+
+
+
 
 
 

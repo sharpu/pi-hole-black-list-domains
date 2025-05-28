@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 27.05.2025
+# updated: 28.05.2025
 #
 # Redirected extract from pihole's gravity.db with:
 # sqlite3 gravity.db "select concat('0.0.0.0 ',domain) from domainlist;" > stf-exact-regex-dom-blcklst
@@ -9622,6 +9622,17 @@
 0.0.0.0 www.tod99shi.com
 0.0.0.0 track.tod99shi.com
 0.0.0.0 [a-z0-9]+.tod99shi.com
+# penuzzialls.com
+0.0.0.0 penuzzialls.com
+0.0.0.0 ixzc4t.penuzzialls.com
+# Stylegridconnect.com
+0.0.0.0 Stylegridconnect.com
+0.0.0.0 d0qqdd0hubcc7397n3m0.stylegridconnect.com
+0.0.0.0 d0qbfs8hubcc738rff7g.stylegridconnect.com
+0.0.0.0 d0qc528hubcc738s80m0.stylegridconnect.com
+0.0.0.0 d0qolt0hubcc7396ube0.stylegridconnect.com
+0.0.0.0 [a-z0-9]+.Stylegridconnect.com
+# 
 
 
 

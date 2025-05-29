@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 28.05.2025
+# updated: 29.05.2025
 #
 # Redirected extract from pihole's gravity.db with:
 # sqlite3 gravity.db "select concat('0.0.0.0 ',domain) from domainlist;" > stf-exact-regex-dom-blcklst
@@ -9632,9 +9632,19 @@
 0.0.0.0 d0qc528hubcc738s80m0.stylegridconnect.com
 0.0.0.0 d0qolt0hubcc7396ube0.stylegridconnect.com
 0.0.0.0 [a-z0-9]+.Stylegridconnect.com
-# 
-
-
+# youcensored.com
+0.0.0.0 youcensored.com
+0.0.0.0 www.youcensored.com
+0.0.0.0 random.youcensored.com
+0.0.0.0 ww25.youcensored.com
+0.0.0.0 ww38.youcensored.com
+# pantscraper.com
+0.0.0.0 pantscraper.com
+0.0.0.0 www.pantscraper.com
+# getgamez.net
+0.0.0.0 getgamez.net
+0.0.0.0 www.getgamez.net
+#
 
 
 

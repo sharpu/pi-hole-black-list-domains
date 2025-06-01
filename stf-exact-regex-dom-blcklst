@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 29.05.2025
+# updated: 01.06.2025
 #
 # Redirected extract from pihole's gravity.db with:
 # sqlite3 gravity.db "select concat('0.0.0.0 ',domain) from domainlist;" > stf-exact-regex-dom-blcklst
@@ -9644,7 +9644,118 @@
 # getgamez.net
 0.0.0.0 getgamez.net
 0.0.0.0 www.getgamez.net
-#
+# Ons-defender.pro
+0.0.0.0 Ons-defender.pro
+0.0.0.0 d0s0m72naffc73beudm0.ons-defender.pro
+# Hitomi.la
+0.0.0.0 hitomi.la
+0.0.0.0 master.hitomi.la
+0.0.0.0 tagindex.hitomi.la
+0.0.0.0 hentaivi.hitomi.la
+0.0.0.0 ns1.hitomi.la
+0.0.0.0 ns2.hitomi.la
+0.0.0.0 dev.hitomi.la
+0.0.0.0 bb.hitomi.la
+0.0.0.0 cb.hitomi.la
+0.0.0.0 ab.hitomi.la
+0.0.0.0 0tn.hitomi.la
+0.0.0.0 af.hitomi.la
+0.0.0.0 ag.hitomi.la
+0.0.0.0 b.hitomi.la
+0.0.0.0 c.hitomi.la
+0.0.0.0 d.hitomi.la
+0.0.0.0 e.hitomi.la
+0.0.0.0 f.hitomi.la
+0.0.0.0 i.hitomi.la
+0.0.0.0 hf3.hitomi.la
+0.0.0.0 atn.hitomi.la
+0.0.0.0 ctn.hitomi.la
+0.0.0.0 hf1.hitomi.la
+0.0.0.0 streaming.hitomi.la
+0.0.0.0 hf2.hitomi.la
+0.0.0.0 0a.hitomi.la
+0.0.0.0 btn.hitomi.la
+0.0.0.0 a.hitomi.la
+0.0.0.0 la.hitomi.la
+0.0.0.0 tn.hitomi.la
+0.0.0.0 g.hitomi.la
+0.0.0.0 ca.hitomi.la
+0.0.0.0 aa.hitomi.la
+0.0.0.0 ltn.hitomi.la
+0.0.0.0 ba.hitomi.la
+# pornrabbit.com
+0.0.0.0 pornrabbit.com
+0.0.0.0 www.pornrabbit.com
+0.0.0.0 kvs.pornrabbit.com
+0.0.0.0 pt.pornrabbit.com
+0.0.0.0 es.pornrabbit.com
+0.0.0.0 pl.pornrabbit.com
+0.0.0.0 no.pornrabbit.com
+0.0.0.0 it.pornrabbit.com
+0.0.0.0 mail2.pornrabbit.com
+0.0.0.0 de.pornrabbit.com
+0.0.0.0 fr.pornrabbit.com
+0.0.0.0 sv.pornrabbit.com
+0.0.0.0 fi.pornrabbit.com
+0.0.0.0 nl.pornrabbit.com
+0.0.0.0 ui.pornrabbit.com
+0.0.0.0 da.pornrabbit.com
+0.0.0.0 mobile.pornrabbit.com
+0.0.0.0 sql.pornrabbit.com
+0.0.0.0 cams.pornrabbit.com
+0.0.0.0 cdn1-static.pornrabbit.com
+0.0.0.0 cdn3-img.pornrabbit.com
+0.0.0.0 cdn3-media.pornrabbit.com
+0.0.0.0 dl1.pornrabbit.com
+0.0.0.0 dl10.pornrabbit.com
+0.0.0.0 dl13.pornrabbit.com
+0.0.0.0 dl14.pornrabbit.com
+0.0.0.0 dl17.pornrabbit.com
+0.0.0.0 dl2.pornrabbit.com
+0.0.0.0 dl5.pornrabbit.com
+0.0.0.0 dl8.pornrabbit.com
+0.0.0.0 file2.pornrabbit.com
+0.0.0.0 ftp.pornrabbit.com
+0.0.0.0 m.pornrabbit.com
+0.0.0.0 mail1.pornrabbit.com
+0.0.0.0 static1.pornrabbit.com
+0.0.0.0 thumb1.pornrabbit.com
+0.0.0.0 thumb2.pornrabbit.com
+0.0.0.0 thumb3.pornrabbit.com
+0.0.0.0 apps.pornrabbit.com
+0.0.0.0 cdn.pornrabbit.com
+0.0.0.0 pics.pornrabbit.com
+0.0.0.0 embed.pornrabbit.com
+# SlutLoad.com
+0.0.0.0 slutload.com
+0.0.0.0 www.slutload.com
+0.0.0.0 img0.slutload.com
+0.0.0.0 dev.slutload.com
+0.0.0.0 2a.slutload.com
+0.0.0.0 ad.slutload.com
+0.0.0.0 atatic.slutload.com
+0.0.0.0 comhtmlwww.slutload.com
+0.0.0.0 comwww.slutload.com
+0.0.0.0 forum.slutload.com
+0.0.0.0 htmlhtmlwww.slutload.com
+0.0.0.0 m.slutload.com
+0.0.0.0 mobil.slutload.com
+0.0.0.0 mobille.slutload.com
+0.0.0.0 mrtg15.slutload.com
+0.0.0.0 premium.slutload.com
+0.0.0.0 sl1.slutload.com
+0.0.0.0 sl1066666665.slutload.com
+0.0.0.0 www6.slutload.com
+0.0.0.0 www8.slutload.com
+0.0.0.0 wwww.slutload.com
+0.0.0.0 upload.slutload.com
+0.0.0.0 staticrn.slutload.com
+0.0.0.0 static.slutload.com
+0.0.0.0 mobile.slutload.com
+0.0.0.0 emb.slutload.com
+# 
+
+
 
 
 

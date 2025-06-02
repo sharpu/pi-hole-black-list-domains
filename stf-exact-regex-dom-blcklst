@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 01.06.2025
+# updated: 02.06.2025
 #
 # Redirected extract from pihole's gravity.db with:
 # sqlite3 gravity.db "select concat('0.0.0.0 ',domain) from domainlist;" > stf-exact-regex-dom-blcklst
@@ -9753,7 +9753,106 @@
 0.0.0.0 static.slutload.com
 0.0.0.0 mobile.slutload.com
 0.0.0.0 emb.slutload.com
-# 
+# Uutupian.com
+0.0.0.0 Uutupian.com
+0.0.0.0 www.uutupian.com
+0.0.0.0 w1.uutupian.com
+0.0.0.0 w3.uutupian.com
+0.0.0.0 local.uutupian.com
+0.0.0.0 yun.uutupian.com
+# HQPorner.com
+0.0.0.0 hqporner.com
+0.0.0.0 ww.hqporner.com
+0.0.0.0 www.hqporner.com
+0.0.0.0 www6.hqporner.com
+0.0.0.0 wwww.hqporner.com
+0.0.0.0 w-ww.hqporner.com
+0.0.0.0 110-233duchangfanglidailixi.hqporner.com
+0.0.0.0 a11815970530741.hqporner.com
+0.0.0.0 3511838286pk10602l0.hqporner.com
+0.0.0.0 k8s-prd-lianyungangshibaijiale.hqporner.com
+0.0.0.0 aa9-host-174-216.hqporner.com
+0.0.0.0 create-fastmobileporndelivery.hqporner.com
+0.0.0.0 815358594697571.hqporner.com
+0.0.0.0 fastmobileporndewerkstattry.hqporner.com
+0.0.0.0 taiyangchengsiwanggudongdaili.hqporner.com
+0.0.0.0 h827d6d970318392e6530.hqporner.com
+0.0.0.0 shuiwanguobaomaguojiqipai.hqporner.com
+0.0.0.0 paijiujuejierbagangjueji.hqporner.com
+0.0.0.0 httpfastporndelivery.hqporner.com
+0.0.0.0 252fwww.hqporner.com
+0.0.0.0 beta.hqporner.com
+0.0.0.0 beta-m.hqporner.com
+0.0.0.0 mail.hqporner.com
+0.0.0.0 mail2.hqporner.com
+0.0.0.0 pop.hqporner.com
+0.0.0.0 qqq.hqporner.com
+0.0.0.0 smtp.hqporner.com
+0.0.0.0 newvirus.hqporner.com
+0.0.0.0 imap.hqporner.com
+0.0.0.0 fastmobileporndelivery.hqporner.com
+0.0.0.0 ftp.hqporner.com
+0.0.0.0 mx.hqporner.com
+0.0.0.0 ns1.hqporner.com
+0.0.0.0 ns2.hqporner.com
+0.0.0.0 all-m.hqporner.com
+0.0.0.0 m.hqporner.com
+0.0.0.0 fastporndelivery.hqporner.com
+# Xozilla.com
+0.0.0.0 Xozilla.com
+0.0.0.0 www.xozilla.com
+0.0.0.0 acdn23.xozilla.com
+0.0.0.0 acdn22.xozilla.com
+0.0.0.0 store10.xozilla.com
+0.0.0.0 acdn.xozilla.com
+0.0.0.0 store7.xozilla.com
+0.0.0.0 acdn6.xozilla.com
+0.0.0.0 acdn21.xozilla.com
+0.0.0.0 acdn5.xozilla.com
+0.0.0.0 store21.xozilla.com
+0.0.0.0 acdn8.xozilla.com
+0.0.0.0 store17.xozilla.com
+0.0.0.0 acdn17.xozilla.com
+0.0.0.0 acdn12.xozilla.com
+0.0.0.0 acdn20.xozilla.com
+0.0.0.0 acdn4.xozilla.com
+0.0.0.0 acdn3.xozilla.com
+0.0.0.0 acdn2.xozilla.com
+0.0.0.0 acdn7.xozilla.com
+0.0.0.0 acdn9.xozilla.com
+0.0.0.0 acdn10.xozilla.com
+0.0.0.0 acdn11.xozilla.com
+0.0.0.0 acdn13.xozilla.com
+0.0.0.0 acdn14.xozilla.com
+0.0.0.0 acdn15.xozilla.com
+0.0.0.0 acdn16.xozilla.com
+0.0.0.0 store20.xozilla.com
+0.0.0.0 mail.xozilla.com
+0.0.0.0 mail2.xozilla.com
+0.0.0.0 store2.xozilla.com
+0.0.0.0 cams.xozilla.com
+0.0.0.0 store16.xozilla.com
+0.0.0.0 store8.xozilla.com
+0.0.0.0 store13.xozilla.com
+0.0.0.0 store9.xozilla.com
+0.0.0.0 store11.xozilla.com
+0.0.0.0 store14.xozilla.com
+0.0.0.0 store12.xozilla.com
+0.0.0.0 api.xozilla.com
+0.0.0.0 i.xozilla.com
+0.0.0.0 vcdn.xozilla.com
+# Lubetube.com
+0.0.0.0 lubetube.com
+0.0.0.0 www.lubetube.com
+0.0.0.0 static.lubetube.com
+0.0.0.0 i-cdn-i.lubetube.com
+0.0.0.0 i.lubetube.com
+0.0.0.0 v-cdn-i.lubetube.com
+0.0.0.0 i-cdnb-r.lubetube.com
+0.0.0.0 v-cdn-r.lubetube.com
+0.0.0.0 mobile.lubetube.com
+0.0.0.0 media2.lubetube.com
+
 
 
 

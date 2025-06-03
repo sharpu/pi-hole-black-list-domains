@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 02.06.2025
+# updated: 03.06.2025
 #
 # Redirected extract from pihole's gravity.db with:
 # sqlite3 gravity.db "select concat('0.0.0.0 ',domain) from domainlist;" > stf-exact-regex-dom-blcklst
@@ -9852,6 +9852,92 @@
 0.0.0.0 v-cdn-r.lubetube.com
 0.0.0.0 mobile.lubetube.com
 0.0.0.0 media2.lubetube.com
+# HDPornClub.com
+0.0.0.0 hdpornclub.com
+0.0.0.0 hostmaster.hdpornclub.com
+# bravoporn.com
+0.0.0.0 bravoporn.com
+0.0.0.0 www.bravoporn.com
+0.0.0.0 wwww.bravoporn.com
+0.0.0.0 www29.bravoporn.com
+0.0.0.0 www234.bravoporn.com
+0.0.0.0 cloud.bravoporn.com
+0.0.0.0 dev.bravoporn.com
+0.0.0.0 rus.bravoporn.com
+0.0.0.0 mailgw.bravoporn.com
+0.0.0.0 mail9.bravoporn.com
+0.0.0.0 authsmtp.bravoporn.com
+0.0.0.0 exchange.bravoporn.com
+0.0.0.0 fr.bravoporn.com
+0.0.0.0 hermes.bravoporn.com
+0.0.0.0 barracuda.bravoporn.com
+0.0.0.0 cdn.bravoporn.com
+0.0.0.0 xn--e-otbf1ac.bravoporn.com
+0.0.0.0 mail2.bravoporn.com
+0.0.0.0 smtps.bravoporn.com
+0.0.0.0 xn--mobile-vqf.bravoporn.com
+0.0.0.0 comwww.bravoporn.com
+0.0.0.0 ms.bravoporn.com
+0.0.0.0 mx3.bravoporn.com
+0.0.0.0 mail1.bravoporn.com
+0.0.0.0 m.bravoporn.com
+0.0.0.0 search.bravoporn.com
+0.0.0.0 server1.bravoporn.com
+0.0.0.0 mx0.bravoporn.com
+0.0.0.0 mx01.bravoporn.com
+0.0.0.0 mx1.bravoporn.com
+0.0.0.0 c0d2ssi23akidbkodktg.bravoporn.com
+0.0.0.0 ftp.bravoporn.com
+0.0.0.0 go.bravoporn.com
+0.0.0.0 mail.bravoporn.com
+0.0.0.0 mx.bravoporn.com
+0.0.0.0 ns1.bravoporn.com
+0.0.0.0 ns2.bravoporn.com
+0.0.0.0 pop.bravoporn.com
+0.0.0.0 pop3.bravoporn.com
+0.0.0.0 screenshots.bravoporn.com
+0.0.0.0 smtp.bravoporn.com
+0.0.0.0 vod.bravoporn.com
+0.0.0.0 2fwww.bravoporn.com
+0.0.0.0 imap.bravoporn.com
+0.0.0.0 rt.bravoporn.com
+0.0.0.0 ru.bravoporn.com
+0.0.0.0 static.bravoporn.com
+0.0.0.0 updates.bravoporn.com
+0.0.0.0 es.bravoporn.com
+0.0.0.0 mobile.bravoporn.com
+# yespornplease.com
+0.0.0.0 yespornplease.com
+0.0.0.0 www.yespornplease.com
+0.0.0.0 i.yespornplease.com
+0.0.0.0 itmx.yespornplease.com
+0.0.0.0 m.yespornplease.com
+0.0.0.0 e.yespornplease.com
+0.0.0.0 i2.yespornplease.com
+0.0.0.0 i3.yespornplease.com
+0.0.0.0 static.yespornplease.com
+# xxxymovies.com
+0.0.0.0 xxxymovies.com
+0.0.0.0 www.xxxymovies.com
+0.0.0.0 blog.xxxymovies.com
+0.0.0.0 cdn03.xxxymovies.com
+0.0.0.0 upload.xxxymovies.com
+0.0.0.0 cdn2.xxxymovies.com
+0.0.0.0 ftp.xxxymovies.com
+0.0.0.0 cdn1.xxxymovies.com
+0.0.0.0 mx.xxxymovies.com
+0.0.0.0 dev.xxxymovies.com
+0.0.0.0 media.xxxymovies.com
+0.0.0.0 cdn6.xxxymovies.com
+0.0.0.0 cdn5.xxxymovies.com
+0.0.0.0 mob.xxxymovies.com
+0.0.0.0 404.xxxymovies.com
+0.0.0.0 m.xxxymovies.com
+0.0.0.0 thumbs.xxxymovies.com
+# 
+
+
+
 
 
 

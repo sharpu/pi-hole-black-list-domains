@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 03.06.2025
+# updated: 04.06.2025
 #
 # Redirected extract from pihole's gravity.db with:
 # sqlite3 gravity.db "select concat('0.0.0.0 ',domain) from domainlist;" > stf-exact-regex-dom-blcklst
@@ -9935,9 +9935,29 @@
 0.0.0.0 m.xxxymovies.com
 0.0.0.0 thumbs.xxxymovies.com
 # 
-
-
-
+0.0.0.0 [a-z0-9]+.phumpauk.com
+0.0.0.0 phumpauk.com
+0.0.0.0 ak.phumpauk.com
+# 
+0.0.0.0 [a-z0-9]+.vedit.sbs
+0.0.0.0 d84fc3vh9g59z0db5.vedit.sbs
+0.0.0.0 5ae25rnqqfvu3vr58f.vedit.sbs
+# 
+0.0.0.0 coliatang.com
+0.0.0.0 usxs9za5sc.coliatang.com
+0.0.0.0 usxse2ydxi.coliatang.com
+0.0.0.0 usbzpmk2ci.coliatang.com
+0.0.0.0 usbzuoho9z.coliatang.com
+0.0.0.0 usbzgha8xo.coliatang.com
+0.0.0.0 hyjecr.coliatang.com
+0.0.0.0 usussyntyd.coliatang.com
+0.0.0.0 usxslpe8d5.coliatang.com
+0.0.0.0 ususwfydd5.coliatang.com
+0.0.0.0 usfna5iboc.coliatang.com
+0.0.0.0 usxswhirk2.coliatang.com
+0.0.0.0 usus8we8du.coliatang.com
+0.0.0.0 [a-z0-9]+.coliatang.com
+# 
 
 
 

@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 04.06.2025
+# updated: 08.06.2025
 #
 # Redirected extract from pihole's gravity.db with:
 # sqlite3 gravity.db "select concat('0.0.0.0 ',domain) from domainlist;" > stf-exact-regex-dom-blcklst
@@ -10249,7 +10249,144 @@
 0.0.0.0 ns2.brevo.net
 0.0.0.0 ns1.brevo.net
 0.0.0.0 shared-p100-i10.d.sp1-brevo.net
+# Obqj2.com
+0.0.0.0 Obqj2.com
+0.0.0.0 www.obqj2.com
+0.0.0.0 sitemaps.obqj2.com
+0.0.0.0 sitemap.obqj2.com
+# Pectorsed.com
+0.0.0.0 pectorsed.com
+0.0.0.0 0wvghk.pectorsed.com
+0.0.0.0 mkhvuv.pectorsed.com
+0.0.0.0 invv7n.pectorsed.com
+0.0.0.0 qwwnvw.pectorsed.com
+0.0.0.0 xn4iqv.pectorsed.com
+0.0.0.0 rgx54z.pectorsed.com
+0.0.0.0 hzgsp3.pectorsed.com
+0.0.0.0 xiiowt.pectorsed.com
+0.0.0.0 fjvv2i.pectorsed.com
+0.0.0.0 bdhze4.pectorsed.com
+0.0.0.0 nze0xw.pectorsed.com
+0.0.0.0 hyjecr.pectorsed.com
+0.0.0.0 581358.pectorsed.com
+0.0.0.0 ixzc4t.pectorsed.com
+0.0.0.0 kxkxgw.pectorsed.com
+0.0.0.0 37yito.pectorsed.com
+0.0.0.0 izjec2.pectorsed.com
 # 
+0.0.0.0 megaporn.com
+0.0.0.0 www.megaporn.com
+0.0.0.0 www1127.megaporn.com
+0.0.0.0 wwwstatic.megaporn.com
+0.0.0.0 img3.megaporn.com
+0.0.0.0 img2.megaporn.com
+0.0.0.0 img1.megaporn.com
+# 
+0.0.0.0 amp.xnxx.tv
+0.0.0.0 cams.xnxx.tv
+0.0.0.0 xnxx.tv
+0.0.0.0 151.xnxx.tv
+0.0.0.0 ktunlel.xnxx.tv
+0.0.0.0 mail.xnxx.tv
+0.0.0.0 games.xnxx.tv
+0.0.0.0 www.xnxx.tv
+# 
+0.0.0.0 porndig.com
+0.0.0.0 www.porndig.com
+0.0.0.0 cdn-celebrities-large.porndig.com
+0.0.0.0 celebrities-original.porndig.com
+0.0.0.0 cdn-celebrities-small.porndig.com
+0.0.0.0 image-cdn.porndig.com
+0.0.0.0 video-cdn.porndig.com
+0.0.0.0 uploadcmty-preprod.porndig.com
+0.0.0.0 ahvidnp-av1.porndig.com
+0.0.0.0 ahhls-av1.porndig.com
+0.0.0.0 static-pushr-preprod.porndig.com
+0.0.0.0 ahhttp-h265.porndig.com
+0.0.0.0 mahhttp-h265.porndig.com
+0.0.0.0 mahhttp-av1.porndig.com
+0.0.0.0 ahhls-h265.porndig.com
+0.0.0.0 ahvidnp-h264.porndig.com
+0.0.0.0 mahhttp-h264.porndig.com
+0.0.0.0 ahhttp-av1.porndig.com
+0.0.0.0 ahmpd-av1.porndig.com
+0.0.0.0 ahhls-h264.porndig.com
+0.0.0.0 ahhttp-h264.porndig.com
+0.0.0.0 ahmpd-h264.porndig.com
+0.0.0.0 celebrities-large.porndig.com
+0.0.0.0 celebrities-small.porndig.com
+0.0.0.0 static-pushr.porndig.com
+0.0.0.0 assets-preprod-redesign.porndig.com
+0.0.0.0 preprod-redesign.porndig.com
+0.0.0.0 cam-images-live-xle.porndig.com
+0.0.0.0 mobilehttp.porndig.com
+0.0.0.0 cam-images-xle.porndig.com
+0.0.0.0 pxl.porndig.com
+0.0.0.0 tablethttp.porndig.com
+0.0.0.0 admin.porndig.com
+0.0.0.0 dlrfhahttp.porndig.com
+0.0.0.0 dlrfhahttpr.porndig.com
+0.0.0.0 download.porndig.com
+0.0.0.0 m3u8.porndig.com
+0.0.0.0 mdlrfhahttpr.porndig.com
+0.0.0.0 mobilehttp2.porndig.com
+0.0.0.0 mrfhahlsr.porndig.com
+0.0.0.0 mrfhahttpr.porndig.com
+0.0.0.0 mrfl3httpr.porndig.com
+0.0.0.0 preprod.porndig.com
+0.0.0.0 rfhahls.porndig.com
+0.0.0.0 rfhahlsr.porndig.com
+0.0.0.0 rfhahttp.porndig.com
+0.0.0.0 rfhahttpr.porndig.com
+0.0.0.0 rfl3hls.porndig.com
+0.0.0.0 rfl3hlsr.porndig.com
+0.0.0.0 rfl3http.porndig.com
+0.0.0.0 rfl3httpr.porndig.com
+0.0.0.0 static.porndig.com
+0.0.0.0 static2.porndig.com
+0.0.0.0 static3.porndig.com
+0.0.0.0 tahhttpr.porndig.com
+0.0.0.0 tdlahhttp.porndig.com
+0.0.0.0 tdlrfhahttpr.porndig.com
+0.0.0.0 trfhahttpr.porndig.com
+0.0.0.0 upload.porndig.com
+0.0.0.0 videohlsr.porndig.com
+0.0.0.0 videohttp.porndig.com
+0.0.0.0 videohttpr.porndig.com
+0.0.0.0 videoplayer.porndig.com
+0.0.0.0 videos-preprod.porndig.com
+0.0.0.0 videoscmty.porndig.com
+0.0.0.0 mdlahhttp.porndig.com
+0.0.0.0 mahlsr.porndig.com
+0.0.0.0 mahhttpr.porndig.com
+0.0.0.0 mahls.porndig.com
+0.0.0.0 ahhls.porndig.com
+0.0.0.0 ahhttp.porndig.com
+0.0.0.0 cam-images-str.porndig.com
+0.0.0.0 static-push-preprod.porndig.com
+0.0.0.0 uploadcmty.porndig.com
+0.0.0.0 mahhttp.porndig.com
+0.0.0.0 tahlsr.porndig.com
+0.0.0.0 tahhttp.porndig.com
+0.0.0.0 dlahhttp.porndig.com
+0.0.0.0 tahls.porndig.com
+0.0.0.0 static-push.porndig.com
+0.0.0.0 ahmpd.porndig.com
+0.0.0.0 dc1.porndig.com
+0.0.0.0 esearch.porndig.com
+0.0.0.0 wstats.porndig.com
+0.0.0.0 ahhttpr.porndig.com
+0.0.0.0 ahhlsr.porndig.com
+0.0.0.0 videoassets.porndig.com
+0.0.0.0 cam-images.porndig.com
+0.0.0.0 videofiles.porndig.com
+0.0.0.0 videohttp2.porndig.com
+0.0.0.0 adn.porndig.com
+0.0.0.0 plx.porndig.com
+0.0.0.0 adnassets.porndig.com
+0.0.0.0 assets.porndig.com
+0.0.0.0 videos.porndig.com
+
 
 
 

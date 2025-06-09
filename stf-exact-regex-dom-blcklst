@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 08.06.2025
+# updated: 09.06.2025
 #
 # Redirected extract from pihole's gravity.db with:
 # sqlite3 gravity.db "select concat('0.0.0.0 ',domain) from domainlist;" > stf-exact-regex-dom-blcklst
@@ -10386,7 +10386,41 @@
 0.0.0.0 adnassets.porndig.com
 0.0.0.0 assets.porndig.com
 0.0.0.0 videos.porndig.com
-
+# 
+0.0.0.0 Bewarespray.com
+0.0.0.0 www.Bewarespray.com
+# 
+0.0.0.0 Devicebooster.co.in
+0.0.0.0 d13gr5ohubcc739aagv0.devicebooster.co.in
+0.0.0.0 d11le0ohubcc73fgugg0.devicebooster.co.in
+0.0.0.0 d11ounohubcc73fkvpe0.devicebooster.co.in
+0.0.0.0 d11ki1ohubcc73fft910.devicebooster.co.in
+0.0.0.0 d11gv18hubcc73fboclg.devicebooster.co.in
+0.0.0.0 ufmtgeld9uxnhe.devicebooster.co.in
+0.0.0.0 d10ru88hubcc73emus7g.devicebooster.co.in
+0.0.0.0 zq1crovu9oxy3y.devicebooster.co.in
+0.0.0.0 d10ru9ghubcc73emutqg.devicebooster.co.in
+0.0.0.0 jrgs5ljfek7k27.devicebooster.co.in
+0.0.0.0 a1e31eoimcybha.devicebooster.co.in
+0.0.0.0 i7v2h1fdn1uzba.devicebooster.co.in
+0.0.0.0 d115gvghubcc73f3f1m0.devicebooster.co.in
+0.0.0.0 d10sjaghubcc73enkku0.devicebooster.co.in
+0.0.0.0 d10at4ghubcc73e7too0.devicebooster.co.in
+0.0.0.0 d109000hubcc73e50kr0.devicebooster.co.in
+0.0.0.0 zzt9wdy6v3478y.devicebooster.co.in
+0.0.0.0 d10l9mghubcc73ei6a6g.devicebooster.co.in
+0.0.0.0 c7xfizppvxm38l.devicebooster.co.in
+0.0.0.0 8gkm4ji2cjpv14.devicebooster.co.in
+0.0.0.0 d0vd1a0hubcc73da9gh0.devicebooster.co.in
+0.0.0.0 fwz6us56kjz6l6.devicebooster.co.in
+0.0.0.0 d0vgctghubcc73dcn3vg.devicebooster.co.in
+0.0.0.0 d0viaf0hubcc73dembug.devicebooster.co.in
+0.0.0.0 9l72nvzgfgb4s8.devicebooster.co.in
+0.0.0.0 d0vetsohubcc73dbecug.devicebooster.co.in
+0.0.0.0 c9ch7zn6phthat.devicebooster.co.in
+0.0.0.0 d0uvsvghubcc73cvf7mg.devicebooster.co.in
+0.0.0.0 d0v0698hubcc73cvorjg.devicebooster.co.in
+# 
 
 
 

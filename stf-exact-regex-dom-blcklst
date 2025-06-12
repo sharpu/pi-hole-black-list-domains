@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 11.06.2025
+# updated: 12.06.2025
 #
 # Redirected extract from pihole's gravity.db with:
 # sqlite3 gravity.db "select concat('0.0.0.0 ',domain) from domainlist;" > stf-exact-regex-dom-blcklst
@@ -10426,7 +10426,28 @@
 # 
 0.0.0.0 member.manysex.tube
 0.0.0.0 www.manysex.tube
-
+# 
+0.0.0.0 Limipomplo.com
+0.0.0.0 www.Limipomplo.com
+# 
+0.0.0.0 Spicenous.com
+0.0.0.0 52ibusuo.spicenous.com
+0.0.0.0 5246fna1.spicenous.com
+0.0.0.0 37yito.spicenous.com
+0.0.0.0 52zwxrj6.spicenous.com
+0.0.0.0 52tlntej.spicenous.com
+0.0.0.0 52gma58r.spicenous.com
+0.0.0.0 cim7xra9.spicenous.com
+0.0.0.0 cirnm7qe.spicenous.com
+0.0.0.0 ci3z168p.spicenous.com
+0.0.0.0 16tluoa4.spicenous.com
+0.0.0.0 16hq1my9.spicenous.com
+0.0.0.0 16hq52du.spicenous.com
+0.0.0.0 16dvqq52.spicenous.com
+# 
+0.0.0.0 Ced‑adguard.pro
+0.0.0.0 xn--cedadguard-st6e.pro
+# 
 
 
 

@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 12.06.2025
+# updated: 13.06.2025
 #
 # Redirected extract from pihole's gravity.db with:
 # sqlite3 gravity.db "select concat('0.0.0.0 ',domain) from domainlist;" > stf-exact-regex-dom-blcklst
@@ -10448,7 +10448,18 @@
 0.0.0.0 Ced‑adguard.pro
 0.0.0.0 xn--cedadguard-st6e.pro
 # 
-
+0.0.0.0 waremis.co.in
+0.0.0.0 tgcaw.waremis.co.in
+# 
+0.0.0.0 gull.findepartner.com
+0.0.0.0 m.findepartner.com
+0.0.0.0 www.findepartner.com
+# 
+0.0.0.0 fumacrom.com
+0.0.0.0 db.fumacrom.com
+0.0.0.0 mail.fumacrom.com
+0.0.0.0 dc-4ce0a25f17cf.fumacrom.com
+# 
 
 
 

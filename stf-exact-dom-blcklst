@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 13.06.2025
+# updated: 15.06.2025
 #
 # Redirected extract from pihole's gravity.db with:
 # sqlite3 gravity.db "select concat('0.0.0.0 ',domain) from domainlist;" > stf-exact-regex-dom-blcklst

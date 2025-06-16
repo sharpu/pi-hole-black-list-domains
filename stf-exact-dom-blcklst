@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 15.06.2025
+# updated: 16.06.2025
 #
 # Redirected extract from pihole's gravity.db with:
 # sqlite3 gravity.db "select concat('0.0.0.0 ',domain) from domainlist;" > stf-exact-regex-dom-blcklst
@@ -10460,7 +10460,17 @@
 0.0.0.0 mail.fumacrom.com
 0.0.0.0 dc-4ce0a25f17cf.fumacrom.com
 # 
-
+0.0.0.0 b-cdn.net
+0.0.0.0 www.b-cdn.net
+0.0.0.0 searcherbright-com.b-cdn.net
+0.0.0.0 searcherbright.com
+#
+0.0.0.0 cactus-search.com
+0.0.0.0 www.cactus-search.com
+0.0.0.0 lp1.cactus-search.com
+0.0.0.0 media.cactus-search.com
+0.0.0.0 static.cactus-search.com
+#
 
 
 

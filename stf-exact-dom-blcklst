@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 17.06.2025
+# updated: 18.06.2025
 #
 # Redirected extract from pihole's gravity.db with:
 # sqlite3 gravity.db "select concat('0.0.0.0 ',domain) from domainlist;" > stf-exact-regex-dom-blcklst
@@ -10477,6 +10477,94 @@
 0.0.0.0 lp1.cactus-search.com
 0.0.0.0 media.cactus-search.com
 0.0.0.0 static.cactus-search.com
+#
+0.0.0.0 mrman.com
+0.0.0.0 clk.mrman.com
+0.0.0.0 et.mrman.com
+0.0.0.0 em.mrman.com
+0.0.0.0 support.mrman.com
+0.0.0.0 url3090.mrman.com
+0.0.0.0 email.mrman.com
+0.0.0.0 join.mrman.com
+0.0.0.0 alpha.mrman.com
+0.0.0.0 status.mrman.com
+0.0.0.0 billing.mrman.com
+0.0.0.0 cams.mrman.com
+0.0.0.0 tour.mrman.com
+0.0.0.0 www.mrman.com
+#
+0.0.0.0 mtman.com
+0.0.0.0 www42.mtman.com
+0.0.0.0 secure.mtman.com
+0.0.0.0 imap2.mtman.com
+0.0.0.0 smtps.mtman.com
+0.0.0.0 email.mtman.com
+0.0.0.0 imap1.mtman.com
+0.0.0.0 smtp2.mtman.com
+0.0.0.0 mailgate.mtman.com
+0.0.0.0 mailin.mtman.com
+0.0.0.0 auth.mtman.com
+0.0.0.0 mailserver.mtman.com
+0.0.0.0 mx1.mtman.com
+0.0.0.0 www.mtman.com
+0.0.0.0 mailout.mtman.com
+0.0.0.0 authsmtp.mtman.com
+0.0.0.0 mail2.mtman.com
+0.0.0.0 gateway.mtman.com
+0.0.0.0 mail3.mtman.com
+0.0.0.0 vip.mtman.com
+0.0.0.0 server.mtman.com
+0.0.0.0 mail10.mtman.com
+0.0.0.0 mxs.mtman.com
+0.0.0.0 ftp.mtman.com
+0.0.0.0 ns.mtman.com
+0.0.0.0 mx20.mtman.com
+0.0.0.0 relay2.mtman.com
+0.0.0.0 po.mtman.com
+0.0.0.0 webmail.mtman.com
+0.0.0.0 mx.mtman.com
+0.0.0.0 art.mtman.com
+0.0.0.0 mail7.mtman.com
+0.0.0.0 hermes.mtman.com
+0.0.0.0 cs.mtman.com
+0.0.0.0 mail11.mtman.com
+0.0.0.0 mailsrv.mtman.com
+0.0.0.0 remote.mtman.com
+0.0.0.0 gate.mtman.com
+0.0.0.0 home.mtman.com
+0.0.0.0 root.mtman.com
+0.0.0.0 smtp.mtman.com
+0.0.0.0 mta.mtman.com
+0.0.0.0 mx0.mtman.com
+0.0.0.0 host.mtman.com
+0.0.0.0 mx2.mtman.com
+0.0.0.0 mx10.mtman.com
+0.0.0.0 pop3.mtman.com
+0.0.0.0 spam.mtman.com
+0.0.0.0 mailx.mtman.com
+0.0.0.0 smtp1.mtman.com
+0.0.0.0 send.mtman.com
+0.0.0.0 imap.mtman.com
+0.0.0.0 outmail.mtman.com
+0.0.0.0 postmaster.mtman.com
+0.0.0.0 post.mtman.com
+0.0.0.0 vmail.mtman.com
+0.0.0.0 mail12.mtman.com
+0.0.0.0 thor.mtman.com
+0.0.0.0 smtpauth.mtman.com
+0.0.0.0 smtp3.mtman.com
+0.0.0.0 mx5.mtman.com
+0.0.0.0 relay1.mtman.com
+0.0.0.0 mail8.mtman.com
+0.0.0.0 vps.mtman.com
+0.0.0.0 dns.mtman.com
+0.0.0.0 mail6.mtman.com
+0.0.0.0 ms.mtman.com
+0.0.0.0 owa.mtman.com
+0.0.0.0 mx3.mtman.com
+0.0.0.0 mx01.mtman.com
+0.0.0.0 mail.mtman.com
+0.0.0.0 tiger.mtman.com
 #
 
 

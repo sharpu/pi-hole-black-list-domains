@@ -7,10 +7,30 @@
 # Redirected extract from pihole's gravity.db with:
 # sqlite3 gravity.db "select concat('0.0.0.0 ',domain) from domainlist;" > stf-exact-regex-dom-blcklst
 #
+# ip-addresses only
+0.0.0.0 62.122.170.171
+0.0.0.0 109.70.26.37
+0.0.0.0 52.50.65.32
+0.0.0.0 64.190.63.111
+0.0.0.0 13.248.169.48
+0.0.0.0 77.88.44.55
+0.0.0.0 104.21.32.1
+0.0.0.0 104.21.96.1
+0.0.0.0 104.21.16.1
+0.0.0.0 104.21.48.1
+0.0.0.0 104.21.80.1
+0.0.0.0 104.21.112.1
+0.0.0.0 104.21.64.1
+0.0.0.0 89.31.143.90
+0.0.0.0 13.91.253.106
+0.0.0.0 40.117.192.222
+0.0.0.0 522.241.08.169
+0.0.0.0 213.252.140.118
+0.0.0.0 3.130.72.53
+0.0.0.0 63.209.69.107
+0.0.0.0 67.29.139.153
 #
-0.0.0.0 ebxcdn.com
-0.0.0.0 taboola.com
-0.0.0.0 premiumread.com
+0.0.0.0 spocpush.trafficmanager.net
 #
 0.0.0.0 piano.io
 0.0.0.0 experience-ap.piano.io
@@ -18,6 +38,10 @@
 0.0.0.0 c2-ap.piano.io
 0.0.0.0 buy-ap.piano.io
 0.0.0.0 api-esp-ap.piano.io
+#
+0.0.0.0 ebxcdn.com
+0.0.0.0 taboola.com
+0.0.0.0 premiumread.com
 #
 0.0.0.0 forvendi.com
 0.0.0.0 doubleclick.net
@@ -2757,18 +2781,12 @@
 0.0.0.0 dgel.ru
 0.0.0.0 baskufa.ru
 0.0.0.0 brothosonkonlonwon.ru
-0.0.0.0 62.122.170.171
 0.0.0.0 ortomebel.ru
-0.0.0.0 109.70.26.37
-0.0.0.0 52.50.65.32
 0.0.0.0 byethost5.com
 0.0.0.0 byethost3.com
 0.0.0.0 byethost33.com
-0.0.0.0 64.190.63.111
 0.0.0.0 oyunportal.xyz
-0.0.0.0 13.248.169.48
 0.0.0.0 atozbookmark.xyz
-0.0.0.0 77.88.44.55
 0.0.0.0 dzen.ru
 0.0.0.0 yandex.net
 0.0.0.0 jquery.com
@@ -3575,7 +3593,6 @@
 0.0.0.0 adassets.bbc.com
 0.0.0.0 tinypass.com
 0.0.0.0 gn-web-assets.api.bbc.com
-0.0.0.0 213252140118
 0.0.0.0 xerzxxx.xyz
 0.0.0.0 news-xpepoya.xyz
 0.0.0.0 balusifeitics.co.in
@@ -4025,13 +4042,6 @@
 0.0.0.0 eu-1-id5-sync.com
 0.0.0.0 tiles-cdn.prod.ads.prod.webservices.mozgcp.net
 0.0.0.0 p23hxejm1.com
-0.0.0.0 104.21.32.1
-0.0.0.0 104.21.96.1
-0.0.0.0 104.21.16.1
-0.0.0.0 104.21.48.1
-0.0.0.0 104.21.80.1
-0.0.0.0 104.21.112.1
-0.0.0.0 104.21.64.1
 0.0.0.0 unblitzlean.com
 0.0.0.0 firefox.settings.services.mozilla.com
 0.0.0.0 barbor.co.in
@@ -4055,7 +4065,6 @@
 0.0.0.0 dovdefender.pro
 0.0.0.0 yogamitpatrizia.de
 0.0.0.0 www.yogamitpatrizia.de
-0.0.0.0 89.31.143.90
 0.0.0.0 hrnmtech.de
 0.0.0.0 zdf-hls-15.akamaized.net
 0.0.0.0 curestin.co.in
@@ -4097,11 +4106,7 @@
 0.0.0.0 web-startpage.com
 0.0.0.0 4dentoto.com
 0.0.0.0 xmrig.moneroocean.stream
-0.0.0.0 13.91.253.106
-0.0.0.0 40117192222
-0.0.0.0 spocpush.trafficmanager.net
 0.0.0.0 mue1-ncs-spoc-push-prod-pip-green-stack.eastus.cloudapp.azure.com
-0.0.0.0 52224108169
 0.0.0.0 emailsys1a.net
 0.0.0.0 www.lepcare.com
 0.0.0.0 sponsorka24.pl
@@ -5954,7 +5959,6 @@
 0.0.0.0 www.Zongzonger.org
 0.0.0.0 Dtesearch.com
 0.0.0.0 Hilierigurrious.com
-0.0.0.0 3.130.72.53
 0.0.0.0 pmfv8pwha2.hilierigurrious.com
 0.0.0.0 pmfv8psyq5.hilierigurrious.com
 0.0.0.0 pmfvirscgm.hilierigurrious.com
@@ -6914,8 +6918,6 @@
 0.0.0.0 creative.livejasmin.com
 0.0.0.0 int.search-results.com
 0.0.0.0 10-directory.com
-0.0.0.0 63.209.69.107
-0.0.0.0 67.29.139.153
 0.0.0.0 7search.com
 0.0.0.0 admarketplace.com
 0.0.0.0 adorika.com

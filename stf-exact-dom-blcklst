@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 19.06.2025
+# updated: 20.06.2025
 #
 # moved regex entries out, only excat domains remain
 #
@@ -9449,4 +9449,9 @@
 0.0.0.0 lp.blpmovies.com
 0.0.0.0 music.blpmovies.com
 0.0.0.0 sport.blpmovies.com
+#
+0.0.0.0 425vulkanvegas.com
+0.0.0.0 www.425vulkanvegas.com
+0.0.0.0 async.425vulkanvegas.com
+0.0.0.0 stat.425vulkanvegas.com
 #

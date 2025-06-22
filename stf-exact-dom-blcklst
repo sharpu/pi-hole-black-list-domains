@@ -39,26 +39,6 @@
 0.0.0.0 buy-ap.piano.io
 0.0.0.0 api-esp-ap.piano.io
 #
-0.0.0.0 timeline.google.com
-0.0.0.0 www.google.com
-0.0.0.0 youtube-ui.l.google.com
-0.0.0.0 firebase.google.com
-0.0.0.0 admob.google.com
-0.0.0.0 gemini.google.com
-0.0.0.0 secret.google.com
-0.0.0.0 results5.google.com
-#
-0.0.0.0 youtube.com
-0.0.0.0 app.youtube.com
-0.0.0.0 consent.youtube.com
-0.0.0.0 www.youtube.com
-#
-0.0.0.0 androidtvwatsonfe-pa.googleapis.com
-0.0.0.0 geller-pa.googleapis.com
-0.0.0.0 meetings.googleapis.com
-0.0.0.0 fonts.googleapis.com
-0.0.0.0 content-autofill.googleapis.com
-#
 0.0.0.0 spocpush.norton.com
 #
 0.0.0.0 ebxcdn.com

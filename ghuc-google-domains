@@ -1,4 +1,4 @@
-# updated: 26.05.2025
+# updated: 22.06.2025
 # see https://github.com/TheBlockList/Blocklist/blob/master/google
 # changed to be accessible for pi-hole
 # https://raw.githubusercontent.com/sharpu/pi-hole-black-list-domains/refs/heads/main/ghuc-google-domains
@@ -6,42 +6,52 @@
 0.0.0.0 googleadservices.com
 0.0.0.0 www.googleadservices.com
 0.0.0.0 ssl.google-analytics.com
-0.0.0.0 digitalassetlinks.googleapis.com
-0.0.0.0 semanticlocation-pa.googleapis.com
-0.0.0.0 people-pa.googleapis.com
-0.0.0.0 pubads.g.doubleclick.net
-0.0.0.0 gllto.glpals.com
-0.0.0.0 playatoms-pa.googleapis.com
-0.0.0.0 userlocation.google.com
-#0.0.0.0 ad.doubleclick.net
-0.0.0.0 doubleclick.net
+#
+0.0.0.0 androidtvwatsonfe-pa.googleapis.com
 0.0.0.0 auditrecording-pa.googleapis.com
-0.0.0.0 userlocation.googleapis.com
-0.0.0.0 firebase-settings.crashlytics.com
+0.0.0.0 content-autofill.googleapis.com
+0.0.0.0 digitalassetlinks.googleapis.com
+0.0.0.0 firebaseinstallations.googleapis.com
 # contains typo
 #0.0.0.0 firebasemoteconfig.googleapis.com
-#0.0.0.0 firebaseremoteconfig.googleapis.com
-0.0.0.0 settings.crashlytics.com
-0.0.0.0 app-measurement.com
-0.0.0.0 id.google.com
-0.0.0.0 bcmls2.glpals.com
-0.0.0.0 gllto2.glpals.com
-0.0.0.0 glpals.com
-0.0.0.0 bcmls.glpals.com
-0.0.0.0 firebaseinstallations.googleapis.com
+0.0.0.0 firebaseremoteconfig.googleapis.com
+0.0.0.0 fonts.googleapis.com
 0.0.0.0 footprints-pa.googleapis.com
-0.0.0.0 metadata.google.internal
-0.0.0.0 voilatile-pa.googleapis.com
-0.0.0.0 jmt17.google.com
-0.0.0.0 pai.googlezip.net
-0.0.0.0 photosdata-pa.googleapis.com
-0.0.0.0 peoplestack-pa.googleapis.com
-0.0.0.0 notifications-pa.googleapis.com
+0.0.0.0 gameswhitelisted.googleapis.com
+0.0.0.0 geller-pa.googleapis.com
 # contains typo
 #0.0.0.0 geomobileservices-pa@googleapis.com
 0.0.0.0 geomobileservices-pa.googleapis.com
 0.0.0.0 locationhistory-pa.googleapis.com
-0.0.0.0 gameswhitelisted.googleapis.com
+0.0.0.0 meetings.googleapis.com
+0.0.0.0 nearbypresence-pa.googleapis.com
+0.0.0.0 nearbysharing-pa.googleapis.com
+0.0.0.0 notifications-pa.googleapis.com
+0.0.0.0 peoplestack-pa.googleapis.com
+0.0.0.0 people-pa.googleapis.com
+0.0.0.0 photosdata-pa.googleapis.com
+0.0.0.0 playatoms-pa.googleapis.com
+0.0.0.0 semanticlocation-pa.googleapis.com
+0.0.0.0 userlocation.googleapis.com
+0.0.0.0 www.youtubei.googleapis.com
+0.0.0.0 distance-matrix-backend.youtubei.googleapis.com
+0.0.0.0 voilatile-pa.googleapis.com
+0.0.0.0 pubads.g.doubleclick.net
+#
+#0.0.0.0 ad.doubleclick.net
+0.0.0.0 doubleclick.net
+#
+0.0.0.0 firebase-settings.crashlytics.com
+0.0.0.0 settings.crashlytics.com
+0.0.0.0 app-measurement.com
+#
+0.0.0.0 bcmls2.glpals.com
+0.0.0.0 gllto.glpals.com
+0.0.0.0 gllto2.glpals.com
+0.0.0.0 glpals.com
+0.0.0.0 bcmls.glpals.com
+0.0.0.0 metadata.google.internal
+0.0.0.0 pai.googlezip.net
 # mtalk - 2025-05-19
 0.0.0.0 mtalk.google.com
 0.0.0.0 alt782178.mtalk.google.com
@@ -59,18 +69,28 @@
 0.0.0.0 alt6.mtalk.google.com
 0.0.0.0 alt8.mtalk.google.com
 0.0.0.0 alt5.mtalk.google.com
-# nearbypresence-pa.googleapis.com
-0.0.0.0 nearbypresence-pa.googleapis.com
-# cse.google.com
-0.0.0.0 cse.google.com
+# 
+
+0.0.0.0 admob.google.com
 0.0.0.0 alt5332.cse.google.com
 0.0.0.0 alt10.cse.google.com
+0.0.0.0 cse.google.com
+0.0.0.0 firebase.google.com
+0.0.0.0 gemini.google.com
+0.0.0.0 id.google.com
+0.0.0.0 jmt17.google.com
+0.0.0.0 results5.google.com
+0.0.0.0 secret.google.com
+0.0.0.0 timeline.google.com
+0.0.0.0 userlocation.google.com
+0.0.0.0 www.google.com
+0.0.0.0 youtube-ui.l.google.com
 # 
 0.0.0.0 google-redirect.com
 0.0.0.0 googlesearchserver.net
-# youtubei.googleapis.com
-www.youtubei.googleapis.com
-distance-matrix-backend.youtubei.googleapis.com
-# nearbysharing-pa.googleapis.com
-0.0.0.0 nearbysharing-pa.googleapis.com
-
+#
+0.0.0.0 youtube.com
+0.0.0.0 app.youtube.com
+0.0.0.0 consent.youtube.com
+0.0.0.0 www.youtube.com
+#

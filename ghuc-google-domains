@@ -36,10 +36,10 @@
 0.0.0.0 www.youtubei.googleapis.com
 0.0.0.0 distance-matrix-backend.youtubei.googleapis.com
 0.0.0.0 voilatile-pa.googleapis.com
-0.0.0.0 pubads.g.doubleclick.net
 #
 #0.0.0.0 ad.doubleclick.net
 0.0.0.0 doubleclick.net
+0.0.0.0 pubads.g.doubleclick.net
 #
 0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 settings.crashlytics.com

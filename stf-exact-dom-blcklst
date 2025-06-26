@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 25.06.2025
+# updated: 26.06.2025
 #
 # moved regex entries out, only excat domains remain
 #
@@ -9468,4 +9468,71 @@
 #
 0.0.0.0 seducix.com
 0.0.0.0 www.seducix.com
+#
+0.0.0.0 robustlink.co.in
+0.0.0.0 d1ef36u071bc7385aapg.robustlink.co.in
+0.0.0.0 d1eebnu071bc7384ip20.robustlink.co.in
+0.0.0.0 d1dsctm071bc73fgi97g.robustlink.co.in
+0.0.0.0 d1df6nu071bc73f4m220.robustlink.co.in
+0.0.0.0 7trhf6lsiga5yv.robustlink.co.in
+0.0.0.0 d1d5r56071bc73ena88g.robustlink.co.in
+0.0.0.0 d1d0e36071bc73ejj1eg.robustlink.co.in
+0.0.0.0 d1cst9u071bc73egk04g.robustlink.co.in
+0.0.0.0 d1cpjqu071bc73ebk1a0.robustlink.co.in
+0.0.0.0 d1cgvc6071bc73dgndj0.robustlink.co.in
+0.0.0.0 d1cg93u071bc73dfegig.robustlink.co.in
+0.0.0.0 d1cetau071bc73ddf5s0.robustlink.co.in
+0.0.0.0 xzumyiworkc3dm.robustlink.co.in
+0.0.0.0 d1c20pu071bc73cq61og.robustlink.co.in
+0.0.0.0 d1bs576071bc73cdc2p0.robustlink.co.in
+0.0.0.0 d1bcpf6071bc73bo3qrg.robustlink.co.in
+0.0.0.0 d1aiv5m071bc73afnha0.robustlink.co.in
+0.0.0.0 d1aq896071bc73at35l0.robustlink.co.in
+0.0.0.0 d1b7orm071bc73be1im0.robustlink.co.in
+0.0.0.0 d1b5jfm071bc73ba1cog.robustlink.co.in
+0.0.0.0 d19t26e071bc739hs030.robustlink.co.in
+0.0.0.0 d19t1ke071bc739hr4cg.robustlink.co.in
+0.0.0.0 d19t1hu071bc739hqvv0.robustlink.co.in
+0.0.0.0 d19t1cu071bc739hqni0.robustlink.co.in
+0.0.0.0 d1agk5m071bc73abp250.robustlink.co.in
+0.0.0.0 dyp8o3d7kdkycd.robustlink.co.in
+0.0.0.0 d1acicm071bc73a86bog.robustlink.co.in
+0.0.0.0 d19thke071bc739ijv5g.robustlink.co.in
+0.0.0.0 g76z2np1vbuxe4.robustlink.co.in
+0.0.0.0 d18mqpe071bc73858u9g.robustlink.co.in
+0.0.0.0 d198a86071bc738jven0.robustlink.co.in
+0.0.0.0 d1930tm071bc738fgg40.robustlink.co.in
+0.0.0.0 9qnbkdegm7cb26.robustlink.co.in
+0.0.0.0 d184uc6071bc73fpi9k0.robustlink.co.in
+0.0.0.0 43qbi7uoo4sjqc.robustlink.co.in
+0.0.0.0 d1780q6071bc73f2qc10.robustlink.co.in
+0.0.0.0 d17k056071bc73fej5lg.robustlink.co.in
+0.0.0.0 d16mkd6071bc73emvbtg.robustlink.co.in
+0.0.0.0 d16o8p6071bc73eof85g.robustlink.co.in
+0.0.0.0 d16mkvm071bc73emvsa0.robustlink.co.in
+0.0.0.0 d16msbm071bc73en6d00.robustlink.co.in
+0.0.0.0 d16omhe071bc73eornc0.robustlink.co.in
+0.0.0.0 d16mrbu071bc73en5gmg.robustlink.co.in
+0.0.0.0 d16o936071bc73eofh30.robustlink.co.in
+0.0.0.0 d16vn4m071bc73eupdig.robustlink.co.in
+0.0.0.0 d16vl86071bc73euo7gg.robustlink.co.in
+0.0.0.0 d16puim071bc73epudl0.robustlink.co.in
+0.0.0.0 d164v1u071bc73ebd380.robustlink.co.in
+0.0.0.0 d1447ru071bc73d43img.robustlink.co.in
+0.0.0.0 z7g2q1hcmuyn27.robustlink.co.in
+#
+0.0.0.0 smashystream.xyz
+0.0.0.0 www.smashystream.xyz
+0.0.0.0 smashyp.smashystream.xyz
+0.0.0.0 api.smashystream.xyz
+0.0.0.0 cinehaven.smashystream.xyz
+0.0.0.0 watch.smashystream.xyz
+0.0.0.0 anime.smashystream.xyz
+0.0.0.0 movie.smashystream.xyz
+0.0.0.0 stream.smashystream.xyz
+0.0.0.0 flix.smashystream.xyz
+#
+0.0.0.0 JBVNG.BRILIIANTDATES.COM
+0.0.0.0 www.BRILIIANTDATES.COM
+0.0.0.0 ww.BRILIIANTDATES.COM
 #

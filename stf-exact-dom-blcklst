@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 26.06.2025
+# updated: 30.06.2025
 #
 # moved regex entries out, only excat domains remain
 #
@@ -9535,4 +9535,12 @@
 0.0.0.0 JBVNG.BRILIIANTDATES.COM
 0.0.0.0 www.BRILIIANTDATES.COM
 0.0.0.0 ww.BRILIIANTDATES.COM
+#
+0.0.0.0 xhamsterlive.com
+0.0.0.0 www.xhamsterlive.com
+#
+0.0.0.0 Chyperrhox.com
+0.0.0.0 www.Chyperrhox.com
+#
+0.0.0.0 hagech.com
 #

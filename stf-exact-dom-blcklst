@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 07.07.2025
+# updated: 09.07.2025
 #
 # moved regex entries out, only excat domains remain
 #
@@ -9796,4 +9796,14 @@
 0.0.0.0 ftp.android-tools.ru
 0.0.0.0 smtp.android-tools.ru
 0.0.0.0 mail.android-tools.ru
+#
+0.0.0.0 extension-download.com
+0.0.0.0 www.extension-download.com
+0.0.0.0 chrome.extension-download.com
+#
+0.0.0.0 isready3.online
+0.0.0.0 start.isready3.online
+0.0.0.0 download.isready3.online
+#
+0.0.0.0 refpaicctvtm.top
 #

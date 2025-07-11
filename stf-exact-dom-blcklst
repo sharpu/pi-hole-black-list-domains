@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 10.07.2025
+# updated: 11.07.2025
 #
 # moved regex entries out, only excat domains remain
 #
@@ -9812,4 +9812,54 @@
 0.0.0.0 refpaucqkl.top
 #
 0.0.0.0 Refpa28631.top
+#
+0.0.0.0 d21.team
+0.0.0.0 fb.d21.team
+0.0.0.0 social.d21.team
+#
+0.0.0.0 lk21.de
+0.0.0.0 www.lk21.de
+0.0.0.0 go.lk21.de
+0.0.0.0 assets-donasi.lk21.de
+0.0.0.0 donasi.lk21.de
+0.0.0.0 amp.lk21.de
+0.0.0.0 eayl.lk21.de
+0.0.0.0 oday.lk21.de
+0.0.0.0 gijo.lk21.de
+0.0.0.0 kepv.lk21.de
+0.0.0.0 vokg.lk21.de
+0.0.0.0 rdhc.lk21.de
+0.0.0.0 ieay.lk21.de
+0.0.0.0 rbun.lk21.de
+0.0.0.0 itwu.lk21.de
+0.0.0.0 eujg.lk21.de
+0.0.0.0 qbv.lk21.de
+0.0.0.0 yrea.lk21.de
+0.0.0.0 urzf.lk21.de
+0.0.0.0 osui.lk21.de
+0.0.0.0 cot.lk21.de
+0.0.0.0 euhd.lk21.de
+0.0.0.0 cbuv.lk21.de
+0.0.0.0 icze.lk21.de
+0.0.0.0 eakt.lk21.de
+0.0.0.0 yhjz.lk21.de
+0.0.0.0 pyiu.lk21.de
+0.0.0.0 boiz.lk21.de
+0.0.0.0 keje.lk21.de
+0.0.0.0 eby.lk21.de
+0.0.0.0 zxfr.lk21.de
+0.0.0.0 enes.lk21.de
+0.0.0.0 ffel.lk21.de
+0.0.0.0 oxj.lk21.de
+0.0.0.0 ohyv.lk21.de
+0.0.0.0 aaw.lk21.de
+0.0.0.0 yfpc.lk21.de
+0.0.0.0 afzn.lk21.de
+0.0.0.0 rxcv.lk21.de
+0.0.0.0 mail.lk21.de
+#
+0.0.0.0 t.me
+0.0.0.0 cdirect1.www.t.me
+0.0.0.0 qa.www.t.me
+0.0.0.0 stasis.www.t.me
 #

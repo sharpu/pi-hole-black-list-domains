@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 11.07.2025
+# updated: 14.07.2025
 #
 # moved regex entries out, only excat domains remain
 #
@@ -9863,3 +9863,31 @@
 0.0.0.0 qa.www.t.me
 0.0.0.0 stasis.www.t.me
 #
+0.0.0.0 dt5.lol
+0.0.0.0 www.dt5.lol
+#
+0.0.0.0 contextualadv.com
+0.0.0.0 www.contextualadv.com
+0.0.0.0 36sync.contextualadv.com
+0.0.0.0 iurl.contextualadv.com
+0.0.0.0 panel.contextualadv.com
+0.0.0.0 point-eu.contextualadv.com
+0.0.0.0 point.contextualadv.com
+0.0.0.0 prebidserver.contextualadv.com
+0.0.0.0 trc.contextualadv.com
+0.0.0.0 trckr.contextualadv.com
+0.0.0.0 xn--123c-zha3859b.contextualadv.com
+0.0.0.0 xn--3c-gda5y.contextualadv.com
+0.0.0.0 xn--3c-heax.contextualadv.com
+0.0.0.0 xn--3c-jda372a.contextualadv.com
+0.0.0.0 xn--3c-jda7f.contextualadv.com
+0.0.0.0 xn--3c-mda1y.contextualadv.com
+0.0.0.0 xn--3c-sda2y.contextualadv.com
+0.0.0.0 xn--3c-sdai.contextualadv.com
+0.0.0.0 xn--3c-wea4t.contextualadv.com
+0.0.0.0 xn--o3c-rfa.contextualadv.com
+#
+0.0.0.0 rbxreal.click
+0.0.0.0 www.rbxreal.click
+# 
+

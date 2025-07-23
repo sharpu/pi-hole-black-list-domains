@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 21.07.2025
+# updated: 23.07.2025
 #
 # moved regex entries out, only excat domains remain
 #
@@ -10153,4 +10153,13 @@
 0.0.0.0 www.v2.trknex.com
 #
 0.0.0.0 megadraws.click
+#
+0.0.0.0 Playvado.digital
+#
+0.0.0.0 d4y.site
+0.0.0.0 www.d4y.site
+0.0.0.0 mail.d4y.site
+0.0.0.0 tools.d4y.site
+0.0.0.0 webdisk.d4y.site
+0.0.0.0 webmail.d4y.site
 #

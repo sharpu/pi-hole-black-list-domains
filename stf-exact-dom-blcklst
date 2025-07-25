@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 23.07.2025
+# updated: 25.07.2025
 #
 # moved regex entries out, only excat domains remain
 #
@@ -10163,3 +10163,17 @@
 0.0.0.0 webdisk.d4y.site
 0.0.0.0 webmail.d4y.site
 #
+0.0.0.0 searchvaultly.com
+0.0.0.0 www.searchvaultly.com
+0.0.0.0 safe.searchvaultly.com
+0.0.0.0 smart.searchvaultly.com
+#
+0.0.0.0 quickshoppers.co
+0.0.0.0 www.quickshoppers.co
+0.0.0.0 www.customsearch.quickshoppers.co
+0.0.0.0 searchdeals.quickshoppers.co
+0.0.0.0 notify.quickshoppers.co
+0.0.0.0 newdeals-x54.quickshoppers.co
+0.0.0.0 pushdeal-x54.quickshoppers.co
+#
+

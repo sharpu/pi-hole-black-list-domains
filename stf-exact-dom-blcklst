@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 26.07.2025
+# updated: 28.07.2025
 #
 # moved regex entries out, only excat domains remain
 #
@@ -10874,4 +10874,60 @@
 0.0.0.0 player.soundcloud.com
 0.0.0.0 api.soundcloud.com
 0.0.0.0 w.soundcloud.com
+#
+0.0.0.0 Tapocas.com
+#
+0.0.0.0 mogyroonte.com
+0.0.0.0 evjs8m.mogyroonte.com
+0.0.0.0 emcjwe.mogyroonte.com
+0.0.0.0 agnniq.mogyroonte.com
+#
+0.0.0.0 sayasdf.com
+0.0.0.0 www.sayasdf.com
+0.0.0.0 bef25.sayasdf.com
+0.0.0.0 naj25.sayasdf.com
+0.0.0.0 sample-router.sayasdf.com
+0.0.0.0 von24.sayasdf.com
+0.0.0.0 cint-survey.sayasdf.com
+0.0.0.0 elevyst.sayasdf.com
+0.0.0.0 luj24.sayasdf.com
+0.0.0.0 secure-sample.sayasdf.com
+0.0.0.0 nuj24.sayasdf.com
+0.0.0.0 coresight.sayasdf.com
+0.0.0.0 panel.sayasdf.com
+0.0.0.0 voluntas-mfi-dk.sayasdf.com
+0.0.0.0 sample.sayasdf.com
+0.0.0.0 clsa.sayasdf.com
+0.0.0.0 bef24.sayasdf.com
+0.0.0.0 ced23.sayasdf.com
+0.0.0.0 tco23.sayasdf.com
+0.0.0.0 von23.sayasdf.com
+0.0.0.0 pes23.sayasdf.com
+0.0.0.0 gua23.sayasdf.com
+0.0.0.0 rpa23.sayasdf.com
+0.0.0.0 ram23.sayasdf.com
+0.0.0.0 luj.sayasdf.com
+0.0.0.0 bef23.sayasdf.com
+0.0.0.0 naj23.sayasdf.com
+0.0.0.0 von22.sayasdf.com
+0.0.0.0 tco22.sayasdf.com
+0.0.0.0 luj22.sayasdf.com
+0.0.0.0 cint-sample-test.sayasdf.com
+0.0.0.0 cint-sample.sayasdf.com
+0.0.0.0 rpa22.sayasdf.com
+0.0.0.0 ram22.sayasdf.com
+0.0.0.0 bef22.sayasdf.com
+0.0.0.0 ced22.sayasdf.com
+0.0.0.0 nuj22.sayasdf.com
+0.0.0.0 pes22.sayasdf.com
+0.0.0.0 yam22.sayasdf.com
+#
+#0.0.0.0 www.eatclub.de
+0.0.0.0 stage.eatclub.de
+0.0.0.0 cp.eatclub.de
+0.0.0.0 runforrest.eatclub.de
+0.0.0.0 data-daab9294a5.eatclub.de
+0.0.0.0 app.eatclub.de
+#
+0.0.0.0 sohu.com
 #

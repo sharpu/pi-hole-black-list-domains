@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 28.07.2025
+# updated: 29.07.2025
 #
 # moved regex entries out, only excat domains remain
 #
@@ -11311,4 +11311,11 @@
 #
 0.0.0.0 salesviewer.com
 0.0.0.0 www.salesviewer.com
+#
+0.0.0.0 astralink.click
+0.0.0.0 www.astralink.click
+0.0.0.0 dev.astralink.click
+#
+0.0.0.0 doblires.xyz
+0.0.0.0 www.doblires.xyz
 #

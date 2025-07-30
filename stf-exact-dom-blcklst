@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 29.07.2025
+# updated: 30.07.2025
 #
 # moved regex entries out, only excat domains remain
 #
@@ -11318,4 +11318,18 @@
 #
 0.0.0.0 doblires.xyz
 0.0.0.0 www.doblires.xyz
+#
+0.0.0.0 astralink.click
+0.0.0.0 www.astralink.click
+0.0.0.0 dev.astralink.click
+#
+0.0.0.0 doblires.xyz
+0.0.0.0 www.doblires.xyz
+#
+0.0.0.0 Meracas.com
+0.0.0.0 www.Meracas.com
+#
+0.0.0.0 oss-cn-beijing.aliyuncs.com
+0.0.0.0 ocr-freespace.oss-cn-beijing.aliyuncs.com
+0.0.0.0 www.ocr-freespace.oss-cn-beijing.aliyuncs.com
 #

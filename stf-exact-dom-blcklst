@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 30.07.2025
+# updated: 31.07.2025
 #
 # moved regex entries out, only excat domains remain
 #
@@ -11333,3 +11333,15 @@
 0.0.0.0 ocr-freespace.oss-cn-beijing.aliyuncs.com
 0.0.0.0 www.ocr-freespace.oss-cn-beijing.aliyuncs.com
 #
+0.0.0.0 Searchersnap.com
+#
+0.0.0.0 rapetube.me
+0.0.0.0 www.rapetube.me
+0.0.0.0 in.rapetube.me
+0.0.0.0 mail.rapetube.me
+0.0.0.0 mail2.rapetube.me
+#
+0.0.0.0 Plurbit.com
+#
+
+

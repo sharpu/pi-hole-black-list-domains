@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 31.07.2025
+# updated: 04.08.2025
 #
 # moved regex entries out, only excat domains remain
 #
@@ -11326,14 +11326,14 @@
 0.0.0.0 doblires.xyz
 0.0.0.0 www.doblires.xyz
 #
-0.0.0.0 Meracas.com
-0.0.0.0 www.Meracas.com
+0.0.0.0 meracas.com
+0.0.0.0 www.meracas.com
 #
 0.0.0.0 oss-cn-beijing.aliyuncs.com
 0.0.0.0 ocr-freespace.oss-cn-beijing.aliyuncs.com
 0.0.0.0 www.ocr-freespace.oss-cn-beijing.aliyuncs.com
 #
-0.0.0.0 Searchersnap.com
+0.0.0.0 searchersnap.com
 #
 0.0.0.0 rapetube.me
 0.0.0.0 www.rapetube.me

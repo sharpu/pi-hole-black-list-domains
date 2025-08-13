@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 04.08.2025
+# updated: 13.08.2025
 #
 # moved regex entries out, only excat domains remain
 #
@@ -11345,4 +11345,15 @@
 #
 0.0.0.0 huicas.com
 0.0.0.0 www.huicas.com
+#
+0.0.0.0 getbettersearch-api.com
+0.0.0.0 search.getbettersearch-api.com
+0.0.0.0 uninstall.getbettersearch-api.com
+0.0.0.0 meta.getbettersearch-api.com
+0.0.0.0 api.getbettersearch-api.com
+#
+0.0.0.0 search-redirect.com
+0.0.0.0 www.search-redirect.com
+0.0.0.0 content.search-redirect.com
+0.0.0.0 online.search-redirect.com
 #

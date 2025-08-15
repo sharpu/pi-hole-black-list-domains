@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 13.08.2025
+# updated: 15.08.2025
 #
 # moved regex entries out, only excat domains remain
 #
@@ -11402,3 +11402,175 @@
 0.0.0.0 support.privacy-center.org
 0.0.0.0 ue7tes6r6i5lx4blpm00l4flrp6netxd.privacy-center.org
 #
+0.0.0.0 evencas.com
+#
+0.0.0.0 luxrush.com
+#
+0.0.0.0 www.92k.us
+0.0.0.0 ww17.92k.us
+0.0.0.0 ww90.92k.us
+#
+0.0.0.0 d2f2csu071bc738huj40.vitanexis.co.in
+0.0.0.0 d2f1ui6071bc738hk22g.vitanexis.co.in
+0.0.0.0 d2evmeu071bc738fvub0.vitanexis.co.in
+0.0.0.0 pnencbrfjukafv.vitanexis.co.in
+0.0.0.0 d2e1oo6071bc73ft8dp0.vitanexis.co.in
+0.0.0.0 e1hmebun26hrmn.vitanexis.co.in
+0.0.0.0 d2e7brm071bc7380kfv0.vitanexis.co.in
+0.0.0.0 lc4hn96351ap9m.vitanexis.co.in
+0.0.0.0 d2edfem071bc7384sohg.vitanexis.co.in
+0.0.0.0 d2djcs6071bc73fm5ksg.vitanexis.co.in
+0.0.0.0 d2d6rtm071bc73ffbbhg.vitanexis.co.in
+0.0.0.0 d2c8upe071bc738t19qg.vitanexis.co.in
+0.0.0.0 d2chm56071bc7394mv5g.vitanexis.co.in
+0.0.0.0 d2c77ne071bc738rg9rg.vitanexis.co.in
+0.0.0.0 d2c3eje071bc738on4n0.vitanexis.co.in
+0.0.0.0 d2brc9u071bc738l2ri0.vitanexis.co.in
+0.0.0.0 d2bo8c6071bc738ita4g.vitanexis.co.in
+0.0.0.0 d2bl79m071bc738g7pf0.vitanexis.co.in
+0.0.0.0 d2bl4nu071bc738g5iq0.vitanexis.co.in
+0.0.0.0 d2anaue071bc73fse28g.vitanexis.co.in
+0.0.0.0 d2aj326071bc73fqo730.vitanexis.co.in
+0.0.0.0 565c1a2j4gothc.vitanexis.co.in
+0.0.0.0 d2a4sc6071bc73fegimg.vitanexis.co.in
+0.0.0.0 cclt1k8yxww3th.vitanexis.co.in
+0.0.0.0 d2aem3e071bc73fmv96g.vitanexis.co.in
+0.0.0.0 d2abkq6071bc73fk8ucg.vitanexis.co.in
+0.0.0.0 d29giuu071bc73evlhqg.vitanexis.co.in
+0.0.0.0 d2a2cou071bc73fda380.vitanexis.co.in
+0.0.0.0 d2a5h9m071bc73fev160.vitanexis.co.in
+0.0.0.0 d2a58em071bc73feoi00.vitanexis.co.in
+0.0.0.0 d29p4sm071bc73f781e0.vitanexis.co.in
+0.0.0.0 d29n8ee071bc73f5gj1g.vitanexis.co.in
+0.0.0.0 d28vt3e071bc73ejs13g.vitanexis.co.in
+0.0.0.0 d28ui3m071bc73eifg2g.vitanexis.co.in
+#
+0.0.0.0 xshaker.net
+0.0.0.0 www.xshaker.net
+0.0.0.0 mail2.xshaker.net
+0.0.0.0 play.xshaker.net
+0.0.0.0 t.xshaker.net
+#
+0.0.0.0 bobsvagene.club
+0.0.0.0 www.bobsvagene.club
+#
+0.0.0.0 topodat.info
+0.0.0.0 www.topodat.info
+# duplicate?
+0.0.0.0 hotbwenoku.cc
+0.0.0.0 www.hotbwenoku.com
+#
+0.0.0.0 zenoroll.com
+#
+0.0.0.0 robuxglobal.com
+0.0.0.0 www.robuxglobal.com
+0.0.0.0 rds.robuxglobal.com
+0.0.0.0 wwq.robuxglobal.com
+0.0.0.0 ww.robuxglobal.com
+0.0.0.0 ww16.robuxglobal.com
+0.0.0.0 ww25.robuxglobal.com
+0.0.0.0 ww38.robuxglobal.com
+0.0.0.0 mirror1.robuxglobal.com
+0.0.0.0 mirror.robuxglobal.com
+#
+0.0.0.0 prorobux.com
+0.0.0.0 www.prorobux.com
+#
+0.0.0.0 ww1.robuxify.me
+0.0.0.0 ww3.robuxify.me
+0.0.0.0 com.robuxify.me
+0.0.0.0 ww38.robuxify.me
+0.0.0.0 meww25.robuxify.me
+0.0.0.0 ww25.robuxify.me
+0.0.0.0 robuxify.me
+0.0.0.0 mail.robuxify.me
+0.0.0.0 www.robuxify.me
+#
+0.0.0.0 staging.cleanrobux.com
+0.0.0.0 api.cleanrobux.com
+0.0.0.0 wildcard.cleanrobux.com
+0.0.0.0 cloudflare-resolve-to.cleanrobux.com
+0.0.0.0 wwwc.cleanrobux.com
+0.0.0.0 support.cleanrobux.com
+0.0.0.0 admin.cleanrobux.com
+0.0.0.0 store.cleanrobux.com
+0.0.0.0 ww1.cleanrobux.com
+0.0.0.0 ww99.cleanrobux.com
+0.0.0.0 ww7.cleanrobux.com
+0.0.0.0 report.cleanrobux.com
+0.0.0.0 superset.cleanrobux.com
+0.0.0.0 ww.cleanrobux.com
+0.0.0.0 www1.cleanrobux.com
+0.0.0.0 m.cleanrobux.com
+0.0.0.0 login.cleanrobux.com
+0.0.0.0 ww12.cleanrobux.com
+0.0.0.0 www.cleanrobux.com
+#
+0.0.0.0 stagbux.com
+0.0.0.0 www.stagbux.com
+0.0.0.0 demo.stagbux.com
+0.0.0.0 m.stagbux.com
+0.0.0.0 wildcard.stagbux.com
+0.0.0.0 shop.stagbux.com
+0.0.0.0 lpa.stagbux.com
+0.0.0.0 ww12.stagbux.com
+0.0.0.0 ww7.stagbux.com
+0.0.0.0 ww1.stagbux.com
+0.0.0.0 gitlab.stagbux.com
+#
+0.0.0.0 boomrobux.com
+0.0.0.0 www.boomrobux.com
+0.0.0.0 ww1.boomrobux.com
+#
+0.0.0.0 carxy.com
+0.0.0.0 www.carxy.com
+0.0.0.0 sitemap.carxy.com
+0.0.0.0 sitemaps.carxy.com
+0.0.0.0 ns1.carxy.com
+0.0.0.0 ns2.carxy.com
+#
+0.0.0.0 carxy.org
+0.0.0.0 sitemaps.carxy.org
+0.0.0.0 sitemap.carxy.org
+0.0.0.0 ww1.carxy.org
+#
+0.0.0.0 damonrobux.com
+0.0.0.0 www42.damonrobux.com
+0.0.0.0 www1.damonrobux.com
+0.0.0.0 www6.damonrobux.com
+#
+0.0.0.0 hiperblox.com
+0.0.0.0 www.hiperblox.com
+0.0.0.0 ww1.hiperblox.com
+0.0.0.0 ww3.hiperblox.com
+0.0.0.0 www70.hiperblox.com
+0.0.0.0 ww25.hiperblox.com
+0.0.0.0 www6.hiperblox.com
+0.0.0.0 www1.hiperblox.com
+0.0.0.0 www42.hiperblox.com
+#
+0.0.0.0 robuxmenu.com
+0.0.0.0 www.robuxmenu.com
+#
+0.0.0.0 hiperblox.org
+0.0.0.0 www.hiperblox.org
+0.0.0.0 ww1.hiperblox.org
+0.0.0.0 ww3.hiperblox.org
+0.0.0.0 co.hiperblox.org
+0.0.0.0 org.hiperblox.org
+0.0.0.0 ww25.hiperblox.org
+0.0.0.0 mail.hiperblox.org
+0.0.0.0 cpanel.hiperblox.org
+0.0.0.0 cpcalendars.hiperblox.org
+0.0.0.0 webmail.hiperblox.org
+0.0.0.0 webdisk.hiperblox.org
+0.0.0.0 cpcontacts.hiperblox.org
+#
+
+
+
+
+
+
+
+

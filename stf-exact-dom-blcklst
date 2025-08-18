@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 15.08.2025
+# updated: 18.08.2025
 #
 # moved regex entries out, only excat domains remain
 #
@@ -11566,7 +11566,13 @@
 0.0.0.0 webdisk.hiperblox.org
 0.0.0.0 cpcontacts.hiperblox.org
 #
-
+0.0.0.0 dexmain.com
+#
+0.0.0.0 adsrichmatrix.top
+0.0.0.0 ma.adsrichmatrix.top
+0.0.0.0 yb.adsrichmatrix.top
+0.0.0.0 yc.adsrichmatrix.top
+#
 
 
 

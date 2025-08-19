@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 18.08.2025
+# updated: 19.08.2025
 #
 # moved regex entries out, only excat domains remain
 #
@@ -3136,13 +3136,46 @@
 0.0.0.0 pushwhy.com
 0.0.0.0 pokki.com
 0.0.0.0 thecooking.club
+0.0.0.0 www.thecooking.club
+0.0.0.0 api.thecooking.club
+0.0.0.0 uninstall.thecooking.club
+0.0.0.0 feed.thecooking.club
+0.0.0.0 install.thecooking.club
 0.0.0.0 notice-device.club
 0.0.0.0 secured-device.club
 0.0.0.0 lotterygettoday.club
 0.0.0.0 goverial.club
+0.0.0.0 www.goverial.club
+0.0.0.0 o1wqidv5yr.goverial.club
+0.0.0.0 1wqidv5yr.goverial.club
+0.0.0.0 m.goverial.club
+0.0.0.0 freeprogramcheck.club
+0.0.0.0 www.freeprogramcheck.club 
+0.0.0.0 softupdate.freeprogramcheck.club
+0.0.0.0 updatenew.freeprogramcheck.club
+0.0.0.0 updatenew247.freeprogramcheck.club
+0.0.0.0 get24update.freeprogramcheck.club
 0.0.0.0 frompus.club
+0.0.0.0 www.frompus.club
+0.0.0.0 newtab.club
+0.0.0.0 www.newtab.club
 0.0.0.0 stabers.club
+0.0.0.0 www.stabers.club
+0.0.0.0 hostmaster.stabers.club
+0.0.0.0 ww38.stabers.club
+0.0.0.0 ww16.stabers.club
+0.0.0.0 ww25.stabers.club
 0.0.0.0 selectedvideos.club
+0.0.0.0 www.selectedvideos.club
+0.0.0.0 mail.selectedvideos.club
+0.0.0.0 log.selectedvideos.club
+0.0.0.0 testbanktest.club
+0.0.0.0 www.testbanktest.club
+0.0.0.0 autodiscover.testbanktest.club
+0.0.0.0 cpanel.testbanktest.club
+0.0.0.0 mail.testbanktest.club
+0.0.0.0 webdisk.testbanktest.club
+0.0.0.0 webmail.testbanktest.club
 0.0.0.0 intelly-search.com
 0.0.0.0 ads.microsoft.com
 0.0.0.0 bat.r.msn.com
@@ -11573,7 +11606,9 @@
 0.0.0.0 yb.adsrichmatrix.top
 0.0.0.0 yc.adsrichmatrix.top
 #
-
+0.0.0.0 hazzbonew.com
+0.0.0.0 www.hazzbonew.com
+#
 
 
 

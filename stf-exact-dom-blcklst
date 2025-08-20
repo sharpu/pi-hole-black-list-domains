@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 19.08.2025
+# updated: 20.08.2025
 #
 # moved regex entries out, only excat domains remain
 #
@@ -11608,8 +11608,24 @@
 #
 0.0.0.0 hazzbonew.com
 0.0.0.0 www.hazzbonew.com
+# 360 wp.com subdomains!!!!
+#0.0.0.0 c0.wp.com
+#0.0.0.0 i0.wp.com
 #
-
+0.0.0.0 robuxfree2025.com
+#
+0.0.0.0 6rb.site
+0.0.0.0 www.6rb.site
+0.0.0.0 server1.6rb.site
+0.0.0.0 server3.6rb.site
+#
+0.0.0.0 202.life
+0.0.0.0 www.202.life
+#
+0.0.0.0 searchtheimage.com
+0.0.0.0 find.searchtheimage.com
+0.0.0.0 suggest.searchtheimage.com
+#
 
 
 

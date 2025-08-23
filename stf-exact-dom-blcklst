@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 21.08.2025
+# updated: 23.08.2025
 #
 # moved regex entries out, only excat domains remain
 #
@@ -2610,7 +2610,18 @@
 0.0.0.0 hfqdpdb.com
 0.0.0.0 videofileconvertpro.xyz
 0.0.0.0 search.xyz
+0.0.0.0 www.search.xyz
+0.0.0.0 images.search.xyz
+0.0.0.0 app.search.xyz
+0.0.0.0 7.search.xyz
+0.0.0.0 cpv.search.xyz
+0.0.0.0 out.search.xyz
+0.0.0.0 degree.search.xyz
+0.0.0.0 education.search.xyz
 0.0.0.0 search323892.xyz
+0.0.0.0 www.search323892.xyz
+0.0.0.0 m.search323892.xyz
+0.0.0.0 azure.search323892.xyz
 0.0.0.0 fastlauncher.xyz
 0.0.0.0 aramania.de
 0.0.0.0 tushy.com
@@ -2627,11 +2638,35 @@
 0.0.0.0 spicy.porn
 0.0.0.0 hentaibooty.com
 0.0.0.0 firstgame.xyz
+0.0.0.0 www.firstgame.xyz
+0.0.0.0 ww7.firstgame.xyz
+0.0.0.0 firstgame.xyz
+0.0.0.0 ww16.firstgame.xyz
+0.0.0.0 ww25.firstgame.xyz
+0.0.0.0 4jslg.firstgame.xyz
+0.0.0.0 dc-dfc573667677.firstgame.xyz
+0.0.0.0 goolewww.firstgame.xyz
+0.0.0.0 ww43.firstgame.xyz
+0.0.0.0 ww38.firstgame.xyz
+0.0.0.0 im.firstgame.xyz
 0.0.0.0 yedd.xyz
+0.0.0.0 www.yedd.xyz
 0.0.0.0 greenet.xyz
+0.0.0.0 www.greenet.xyz
+0.0.0.0 app.greenet.xyz
+0.0.0.0 test.greenet.xyz
+0.0.0.0 demo.greenet.xyz
+0.0.0.0 mx.greenet.xyz
+0.0.0.0 webmail.greenet.xyz
+0.0.0.0 e8b738d0-4a09-43e0-b845-6611436cfbe2.greenet.xyz
+0.0.0.0 kopp.greenet.xyz
 0.0.0.0 ustarts.xyz
+0.0.0.0 www.ustarts.xyz
+0.0.0.0 admin.ustarts.xyz
+0.0.0.0 ww1.ustarts.xyz
 0.0.0.0 superreward.xyz
 0.0.0.0 sear4m.xyz
+0.0.0.0 www.sear4m.xyz
 0.0.0.0 sins1.xyz
 0.0.0.0 freevbucks2018.xyz
 0.0.0.0 oll3.xyz
@@ -11632,6 +11667,80 @@
 0.0.0.0 www.erotorrent.ru
 0.0.0.0 mail.erotorrent.ru
 #
+0.0.0.0 navsmart.info
+0.0.0.0 www.navsmart.info
+0.0.0.0 vpn.navsmart.info
+0.0.0.0 m.navsmart.info
+0.0.0.0 dgjpimail.navsmart.info
+0.0.0.0 qwntymx.navsmart.info
+0.0.0.0 ww99.navsmart.info
+0.0.0.0 ww8.navsmart.info
+0.0.0.0 unauthorized.navsmart.info
+0.0.0.0 sitemaps.navsmart.info
+0.0.0.0 hostmaster.navsmart.info
+0.0.0.0 mvideo.navsmart.info
+0.0.0.0 startpage.navsmart.info
+0.0.0.0 ww1.navsmart.info
+0.0.0.0 ww12.navsmart.info
+0.0.0.0 ww2.navsmart.info
+0.0.0.0 ww7.navsmart.info
+0.0.0.0 1.navsmart.info
+#
+0.0.0.0 gorlita.com
+0.0.0.0 www.gorlita.com
+0.0.0.0 mail2.gorlita.com
+0.0.0.0 mail.gorlita.com
+0.0.0.0 ww1.gorlita.com
+#
+0.0.0.0 ditement.info
+0.0.0.0 ww25.ditement.info
+0.0.0.0 pixel.ditement.info
+#
+0.0.0.0 fastlauncher.xyz
+0.0.0.0 www.fastlauncher.xyz
+0.0.0.0 api.fastlauncher.xyz
+0.0.0.0 d143c7ea-0138-40e6-a19f-6fb1f2f20f42.fastlauncher.xyz
+0.0.0.0 ugwcscan450e679adcd50a2f8b0c8614964d89ad.fastlauncher.xyz
+0.0.0.0 m.fastlauncher.xyz
+0.0.0.0 connectvpn.fastlauncher.xyz
+0.0.0.0 mobile.fastlauncher.xyz
+0.0.0.0 portal.fastlauncher.xyz
+0.0.0.0 secureaccess.fastlauncher.xyz
+0.0.0.0 vpn1.fastlauncher.xyz
+0.0.0.0 account.fastlauncher.xyz
+0.0.0.0 ugwcscanaecbfda45655f83f551c0200bd27a783.fastlauncher.xyz
+0.0.0.0 qokpud.fastlauncher.xyz
+0.0.0.0 mwww.fastlauncher.xyz
+0.0.0.0 hostmaster.fastlauncher.xyz
+0.0.0.0 ww99.fastlauncher.xyz
+0.0.0.0 ww01.fastlauncher.xyz
+0.0.0.0 ww1.fastlauncher.xyz
+0.0.0.0 ww7.fastlauncher.xyz
+0.0.0.0 ww12.fastlauncher.xyz
+0.0.0.0 admin.fastlauncher.xyz
+0.0.0.0 mail.fastlauncher.xyz
+#
+0.0.0.0 livermony.info
+0.0.0.0 ww25.livermony.info
+0.0.0.0 ww38.livermony.info
+0.0.0.0 p1.livermony.info
+0.0.0.0 p2.livermony.info
+0.0.0.0 p3.livermony.info
+0.0.0.0 p4.livermony.info
+0.0.0.0 p5.livermony.info
+0.0.0.0 p7.livermony.info
+0.0.0.0 p8.livermony.info
+0.0.0.0 p6.livermony.info
+0.0.0.0 pixel.livermony.info
+#
+0.0.0.0 datworld.info
+0.0.0.0 www.datworld.info
+0.0.0.0 www1.datworld.info
+0.0.0.0 ww16.datworld.info
+0.0.0.0 ww25.datworld.info
+#
+
+
 
 
 

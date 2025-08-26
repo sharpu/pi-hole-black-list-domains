@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 23.08.2025
+# updated: 26.08.2025
 #
 # moved regex entries out, only excat domains remain
 #
@@ -1449,7 +1449,6 @@
 0.0.0.0 allowmessagef2.click
 0.0.0.0 k1.justmineit.com
 0.0.0.0 greatwinstorms.click
-0.0.0.0 flskon.click
 0.0.0.0 ivonch.click
 0.0.0.0 finding-finding.com
 0.0.0.0 3dporndude.com
@@ -11816,9 +11815,74 @@
 0.0.0.0 ww2.tavanero.info
 0.0.0.0 ww11.tavanero.info
 #
+0.0.0.0 robux.com
+0.0.0.0 www.robux.com
+0.0.0.0 libreng.robux.com
+0.0.0.0 buy.robux.com
+0.0.0.0 claim.robux.com
+0.0.0.0 cliccaquinovirus9999999999999999999999robuxgratis.robux.com
+0.0.0.0 collect.robux.com
+0.0.0.0 collector.robux.com
+0.0.0.0 collest.robux.com
+0.0.0.0 dick.robux.com
+0.0.0.0 earn.robux.com
+0.0.0.0 ez.robux.com
+0.0.0.0 free.robux.com
+0.0.0.0 gg.robux.com
+0.0.0.0 nenaebalovo.robux.com
+0.0.0.0 o.robux.com
+0.0.0.0 promo.robux.com
+0.0.0.0 rb.robux.com
+0.0.0.0 redeem.robux.com
+0.0.0.0 robux.com
+0.0.0.0 scam.robux.com
+0.0.0.0 tree.robux.com
+0.0.0.0 web.robux.com
+0.0.0.0 ww.robux.com
+0.0.0.0 www6.robux.com
+0.0.0.0 zoom.robux.com
+#
+0.0.0.0 searches-r-fun.com
+#
+0.0.0.0 pongponger.click
+0.0.0.0 www.pongponger.click
+#
+0.0.0.0 flskon.click
+0.0.0.0 us.flskon.click
+0.0.0.0 eu.flskon.click
+0.0.0.0 sg.flskon.click
+#
+0.0.0.0 pushckick.click
+#
 
-
-
+0.0.0.0 justmineit.com
+0.0.0.0 www.justmineit.com
+0.0.0.0 2fk1.justmineit.com
+0.0.0.0 k1.justmineit.com
+0.0.0.0 nk1.justmineit.com
+#
+0.0.0.0 tiktok-fun.com
+#
+0.0.0.0 freychang.fun
+0.0.0.0 www.freychang.fun
+0.0.0.0 ww82.freychang.fun
+ww92.freychang.fun
+ww62.freychang.fun
+#
+# see regex addition
+0.0.0.0 ngthatwe.fun
+#
+# see regex addition
+0.0.0.0 wsoyourwi.fun
+#
+# see regex addition
+0.0.0.0 herelations.fun
+#
+0.0.0.0 protection-fixer.fun
+#
+# see regex addition
+0.0.0.0 mybuzz.fun
+#
 
 
 

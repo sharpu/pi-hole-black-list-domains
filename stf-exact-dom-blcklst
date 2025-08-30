@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 29.08.2025
+# updated: 30.08.2025
 #
 # moved regex entries out, only excat domains remain
 #
@@ -12113,6 +12113,7 @@ ww62.freychang.fun
 0.0.0.0 np.acruy.fun
 0.0.0.0 np.tinux.fun
 0.0.0.0 ns.ai-goal.com
+0.0.0.0 qz.ai-goal.com
 0.0.0.0 nszc.rokiread.com
 0.0.0.0 ob.povcar.top
 0.0.0.0 ob.windjoy.fun
@@ -12460,6 +12461,8 @@ ww62.freychang.fun
 0.0.0.0 ab.oxhug.fun
 0.0.0.0 ab.tingo.fun
 0.0.0.0 ab.wishself.com
+0.0.0.0 gws.wishself.com
+0.0.0.0 www.wishself.com
 0.0.0.0 abs.fun-goal.com
 0.0.0.0 acrenews.top
 0.0.0.0 acruy.fun
@@ -12511,6 +12514,8 @@ ww62.freychang.fun
 0.0.0.0 causecentural.com
 0.0.0.0 ccaixa.com
 0.0.0.0 cdn.ai-goal.com
+0.0.0.0 www.cdn.ai-goal.com
+
 0.0.0.0 ceedgame.top
 0.0.0.0 chewygame.com
 0.0.0.0 clevory2.com
@@ -13059,6 +13064,29 @@ ww62.freychang.fun
 0.0.0.0 mandykitto.com
 0.0.0.0 georgiasoxs.com
 0.0.0.0 mihovorwyv.shop
+0.0.0.0 gap.app-goal.com
+0.0.0.0 ano.app-goal.com
+0.0.0.0 hla.app-goal.com
+0.0.0.0 api.app-goal.com
+0.0.0.0 fb.app-goal.com
+0.0.0.0 wap.app-goal.com
+0.0.0.0 res.app-goal.com
+0.0.0.0 app-goal.com
+0.0.0.0 d.app-goal.com
+0.0.0.0 www.app-goal.com
+0.0.0.0 catmore88.com
+0.0.0.0 ajlogger.catmore88.com
+0.0.0.0 eyigw.catmore88.com
+0.0.0.0 appointments.catmore88.com
+0.0.0.0 sheriff.catmore88.com
+0.0.0.0 blade01.catmore88.com
+0.0.0.0 client23.catmore88.com
+0.0.0.0 upm.catmore88.com
+0.0.0.0 b154.catmore88.com
+0.0.0.0 mailer169.catmore88.com
+0.0.0.0 linux7.catmore88.com
+0.0.0.0 cpbheback.com
+0.0.0.0 www.cpbheback.com
 #
 # badbox 2.0 IP addresses
 0.0.0.0 209.74.110.182

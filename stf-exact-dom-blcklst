@@ -12515,7 +12515,6 @@ ww62.freychang.fun
 0.0.0.0 ccaixa.com
 0.0.0.0 cdn.ai-goal.com
 0.0.0.0 www.cdn.ai-goal.com
-
 0.0.0.0 ceedgame.top
 0.0.0.0 chewygame.com
 0.0.0.0 clevory2.com
@@ -13087,6 +13086,18 @@ ww62.freychang.fun
 0.0.0.0 linux7.catmore88.com
 0.0.0.0 cpbheback.com
 0.0.0.0 www.cpbheback.com
+0.0.0.0 cbpheback.com
+0.0.0.0 www.cbpheback.com
+0.0.0.0 cbphe.com
+# censys
+0.0.0.0 coslogdydy.in
+0.0.0.0 yydsmr.com
+0.0.0.0 logcer.com
+0.0.0.0 ycxrl.com
+0.0.0.0 yydsmd.com
+#
+# bitsight
+0.0.0.0 market.yandex.ru
 #
 # badbox 2.0 IP addresses
 0.0.0.0 209.74.110.182
@@ -13111,6 +13122,7 @@ ww62.freychang.fun
 0.0.0.0 104.128.239.68
 0.0.0.0 45.76.173.44
 0.0.0.0 210.16.120.35
+0.0.0.0 103.145.58.236
 #
 0.0.0.0 analytics.hms.huawei.com
 0.0.0.0 location.hms.huawei.com

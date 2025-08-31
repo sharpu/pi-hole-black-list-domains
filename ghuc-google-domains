@@ -1,4 +1,4 @@
-# updated: 22.06.2025
+# updated: 31.08.2025
 # see https://github.com/TheBlockList/Blocklist/blob/master/google
 # changed to be accessible for pi-hole
 # https://raw.githubusercontent.com/sharpu/pi-hole-black-list-domains/refs/heads/main/ghuc-google-domains
@@ -44,6 +44,12 @@
 0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 app-measurement.com
+0.0.0.0 measurement.gms.android.google.com
+0.0.0.0 analytics.firebase.google.com
+0.0.0.0 crash.firebase.google.com
+0.0.0.0 crashlytics.firebase.google.com
+0.0.0.0 crashlytics.firebase.invertase.io
+0.0.0.0 fabric.io
 #
 0.0.0.0 bcmls2.glpals.com
 0.0.0.0 gllto.glpals.com

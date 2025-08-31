@@ -13205,6 +13205,19 @@ ww62.freychang.fun
 0.0.0.0 cdn.iubenda.com
 0.0.0.0 hits-i.iubenda.com
 #
+0.0.0.0 ctfassets.net
+0.0.0.0 images-origin.ctfassets.net
+0.0.0.0 assets-origin.ctfassets.net
+0.0.0.0 internal.ctfassets.net
+0.0.0.0 sgmnt-cdn.ctfassets.net
+0.0.0.0 sgmnt-api.ctfassets.net
+0.0.0.0 secure.ctfassets.net
+0.0.0.0 videos.ctfassets.net
+0.0.0.0 downloads.ctfassets.net
+0.0.0.0 assets.ctfassets.net
+0.0.0.0 images.ctfassets.net
+#
+
 
 
 

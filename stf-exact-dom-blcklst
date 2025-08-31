@@ -13114,8 +13114,11 @@ ww62.freychang.fun
 #
 0.0.0.0 analytics.hms.huawei.com
 0.0.0.0 location.hms.huawei.com
+0.0.0.0 ads.plugin.hms.huawei.com
+0.0.0.0 analytics.plugin.hms.huawei.com
 #
-
+0.0.0.0 onesignal.com
+#
 
 
 

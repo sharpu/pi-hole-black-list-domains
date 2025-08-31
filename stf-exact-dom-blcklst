@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 30.08.2025
+# updated: 31.08.2025
 #
 # moved regex entries out, only excat domains remain
 #
@@ -13111,6 +13111,9 @@ ww62.freychang.fun
 0.0.0.0 104.128.239.68
 0.0.0.0 45.76.173.44
 0.0.0.0 210.16.120.35
+#
+0.0.0.0 analytics.hms.huawei.com
+0.0.0.0 location.hms.huawei.com
 #
 
 

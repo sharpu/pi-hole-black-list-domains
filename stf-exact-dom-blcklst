@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 01.09.2025
+# updated: 02.09.2025
 #
 # moved regex entries out, only excat domains remain
 #
@@ -13559,5 +13559,15 @@ ww62.freychang.fun
 0.0.0.0 d0h4tr0hubcc738oof2g.rapidnetmove.co.in
 0.0.0.0 d0h8ioghubcc738stbig.rapidnetmove.co.in
 #
+0.0.0.0 dy47.com
+0.0.0.0 www.dy47.com
+0.0.0.0 r19m6g.dy47.com
+0.0.0.0 m.dy47.com
+#
+0.0.0.0 getrbx.credit
+0.0.0.0 www.getrbx.credit
+#
+
+
 
 

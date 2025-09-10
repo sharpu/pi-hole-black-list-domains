@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 09.09.2025
+# updated: 10.09.2025
 #
 # moved regex entries out, only excat domains remain
 #
@@ -16648,4 +16648,22 @@ ww62.freychang.fun
 0.0.0.0 wuwu6.cfd
 0.0.0.0 156.241.134.49
 0.0.0.0 47.238.124.68
+#
+0.0.0.0 ebitglobal.ai
+0.0.0.0 www.ebitglobal.ai
+0.0.0.0 v2.ebitglobal.ai
+0.0.0.0 community.ebitglobal.ai
+0.0.0.0 web.ebitglobal.ai
+0.0.0.0 dashboard.ebitglobal.ai
+0.0.0.0 alloy.ebitglobal.ai
+0.0.0.0 server2.ebitglobal.ai
+0.0.0.0 storage.ebitglobal.ai
+0.0.0.0 server.ebitglobal.ai
+0.0.0.0 partner.ebitglobal.ai
+#
+0.0.0.0 appconsent.io
+#
+0.0.0.0 privacymanager.io
+#
+0.0.0.0 viously.com
 #

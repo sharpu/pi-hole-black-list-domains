@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 12.09.2025
+# updated: 15.09.2025
 #
 # moved regex entries out, only excat domains remain
 #
@@ -17065,4 +17065,10 @@ ww62.freychang.fun
 0.0.0.0 ws.yologames.io
 0.0.0.0 graphql.yologames.io
 0.0.0.0 graphql-sepolia.yologames.io
+#
+0.0.0.0 pornolaba.mobi 
+0.0.0.0 www.pornolaba.mobi
+0.0.0.0 cdn2.pornolaba.mobi
+0.0.0.0 cdn.pornolaba.mobi
+0.0.0.0 video.pornolaba.mobi
 #

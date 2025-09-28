@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 27.09.2025
+# updated: 28.09.2025
 #
 # moved regex entries out, only excat domains remain
 #
@@ -9,6 +9,9 @@
 # various sources
 # sensorstechforum.com
 # https://www.enigmasoftware.com/threat-database/rogue-websites/
+#
+# test only
+0.0.0.0 eu-west-1.ads.digital.disneyadvertising.com
 #
 # ip-addresses only
 0.0.0.0 62.122.170.171

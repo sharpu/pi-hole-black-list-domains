@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 28.09.2025
+# updated: 29.09.2025
 #
 # moved regex entries out, only excat domains remain
 #
@@ -21170,4 +21170,20 @@ ww62.freychang.fun
 0.0.0.0 dataapi-canary.kilkaya.com
 #
 0.0.0.0 www.meinezeitung-shop.de
+#
+0.0.0.0 bojel.com
+0.0.0.0 www.bojel.com
+0.0.0.0 portal.bojel.com
+0.0.0.0 remote.bojel.com
+0.0.0.0 m.bojel.com
+0.0.0.0 quant.bojel.com
+#
+0.0.0.0 searchvibesnow.com
+0.0.0.0 www.searchvibesnow.com
+0.0.0.0 feed.searchvibesnow.com
+#
+0.0.0.0 searchvibesnow.co
+#
+0.0.0.0 rongronger.click
+0.0.0.0 www.rongronger.click
 #

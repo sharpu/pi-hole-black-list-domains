@@ -11875,8 +11875,8 @@
 0.0.0.0 freychang.fun
 0.0.0.0 www.freychang.fun
 0.0.0.0 ww82.freychang.fun
-ww92.freychang.fun
-ww62.freychang.fun
+0.0.0.0 ww92.freychang.fun
+0.0.0.0 ww62.freychang.fun
 #
 # see regex addition
 0.0.0.0 ngthatwe.fun
@@ -13344,7 +13344,7 @@ ww62.freychang.fun
 0.0.0.0 172.104.186.191
 0.0.0.0 192.46.227.25
 0.0.0.0 172.104.178.158
-#
+# end badbox
 0.0.0.0 analytics.hms.huawei.com
 0.0.0.0 location.hms.huawei.com
 0.0.0.0 ads.plugin.hms.huawei.com

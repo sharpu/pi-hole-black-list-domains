@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 03.10.2025
+# updated: 06.10.2025
 #
 # moved regex entries out, only excat domains remain
 #
@@ -16504,4 +16504,6 @@
 0.0.0.0 validator.ampproject.org
 0.0.0.0 example.ampproject.org
 0.0.0.0 cdn.ampproject.org
+#
+0.0.0.0 pyroscouriell.co.in
 #

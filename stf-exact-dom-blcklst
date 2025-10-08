@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 06.10.2025
+# updated: 08.10.2025
 #
 # moved regex entries out, only excat domains remain
 #
@@ -16505,5 +16505,64 @@
 0.0.0.0 example.ampproject.org
 0.0.0.0 cdn.ampproject.org
 #
+0.0.0.0 isafe-net.com
+0.0.0.0 www.isafe-net.com
+#
 0.0.0.0 pyroscouriell.co.in
+#
+0.0.0.0 primechainnet.co.in
+0.0.0.0 d3j1rs6071bc738sdbl0.primechainnet.co.in
+0.0.0.0 d3j5rtu071bc7392ipr0.primechainnet.co.in
+0.0.0.0 e7xfkc58yfk356.primechainnet.co.in
+0.0.0.0 d3imcom071bc738hmg9g.primechainnet.co.in
+0.0.0.0 d31ioru071bc73fnp4v0.primechainnet.co.in
+0.0.0.0 d3h8v6m071bc73ef31g0.primechainnet.co.in
+0.0.0.0 d3hb22m071bc73ek0l0g.primechainnet.co.in
+0.0.0.0 8x5j19nhfqb831.primechainnet.co.in
+0.0.0.0 d3efesm071bc7384sn00.primechainnet.co.in
+0.0.0.0 julurvdj8u5elb.primechainnet.co.in
+0.0.0.0 nwmimkj937uup3.primechainnet.co.in
+0.0.0.0 d3do1rm071bc73f2vnig.primechainnet.co.in
+0.0.0.0 d3e7e1m071bc73fti9vg.primechainnet.co.in
+0.0.0.0 518mql76hfjtvf.primechainnet.co.in
+0.0.0.0 d3cjlkm071bc73db58ug.primechainnet.co.in
+0.0.0.0 d3cjtse071bc73dbn0e0.primechainnet.co.in
+0.0.0.0 4rgvb4uvewka73.primechainnet.co.in
+0.0.0.0 d3bue0e071bc73c69p20.primechainnet.co.in
+0.0.0.0 d3bvlk6071bc73c9unvg.primechainnet.co.in
+0.0.0.0 d3bvjpm071bc73c9pf2g.primechainnet.co.in
+0.0.0.0 d3btmte071bc73c4puag.primechainnet.co.in
+0.0.0.0 qsxuzs8f2xmrc3.primechainnet.co.in
+0.0.0.0 d3beqrm071bc73be8t6g.primechainnet.co.in
+0.0.0.0 d3bqdam071bc73btupmg.primechainnet.co.in
+0.0.0.0 gkv52x1try3a1p.primechainnet.co.in
+0.0.0.0 d3amut6071bc73aacj2g.primechainnet.co.in
+0.0.0.0 d3ak4t6071bc73a4v5p0.primechainnet.co.in
+0.0.0.0 d3b539u071bc73ata380.primechainnet.co.in
+0.0.0.0 d39uu5m071bc7391qvd0.primechainnet.co.in
+0.0.0.0 8njri9a5raun42.primechainnet.co.in
+0.0.0.0 d3a6oh6071bc739k296g.primechainnet.co.in
+0.0.0.0 kv23pwbpw4dbqt.primechainnet.co.in
+0.0.0.0 d3982g6071bc73fst5fg.primechainnet.co.in
+0.0.0.0 d38h4cm071bc73evc4vg.primechainnet.co.in
+0.0.0.0 d38l4bu071bc73f5hk8g.primechainnet.co.in
+0.0.0.0 d385afm071bc73eied6g.primechainnet.co.in
+0.0.0.0 d38c1km071bc73epe6v0.primechainnet.co.in
+0.0.0.0 d37g2je071bc73dddapg.primechainnet.co.in
+0.0.0.0 d37e8re071bc73d9jlhg.primechainnet.co.in
+0.0.0.0 d37chf6071bc73d5ncog.primechainnet.co.in
+0.0.0.0 d36h7c6071bc73brsrk0.primechainnet.co.in
+0.0.0.0 d35ttje071bc73b1bddg.primechainnet.co.in
+0.0.0.0 zod2hyi4h4f5xv.primechainnet.co.in
+0.0.0.0 d36152m071bc73b6ms20.primechainnet.co.in
+0.0.0.0 d34ob26071bc73coft00.primechainnet.co.in
+0.0.0.0 fp7obv6y19g35o.primechainnet.co.in
+0.0.0.0 njiz8dowt1myxg.primechainnet.co.in
+#
+0.0.0.0 mp3sos.cc
+#
+0.0.0.0 fegwex.com
+0.0.0.0 www.fegwex.com
+0.0.0.0 sitemap.fegwex.com
+0.0.0.0 sitemaps.fegwex.com
 #

@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 13.10.2025
+# updated: 15.10.2025
 #
 # moved regex entries out, only excat domains remain
 #
@@ -16870,4 +16870,12 @@
 0.0.0.0 vms.tring-tring.com
 0.0.0.0 dashboard.tring-tring.com
 0.0.0.0 webmail.tring-tring.com
+#
+0.0.0.0 Undegolasislier.com
+#
+0.0.0.0 xa.primeadsinsight.top
+#
+0.0.0.0 imagesearcherpro.com
+0.0.0.0 www.imagesearcherpro.com
+0.0.0.0 imagesearcherpro.com
 #

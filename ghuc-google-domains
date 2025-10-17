@@ -1,4 +1,4 @@
-# updated: 31.08.2025
+# updated: 17.10.2025
 # see https://github.com/TheBlockList/Blocklist/blob/master/google
 # changed to be accessible for pi-hole
 # https://raw.githubusercontent.com/sharpu/pi-hole-black-list-domains/refs/heads/main/ghuc-google-domains
@@ -98,4 +98,8 @@
 0.0.0.0 app.youtube.com
 0.0.0.0 consent.youtube.com
 0.0.0.0 www.youtube.com
+#
+0.0.0.0 ads.gms.android.google.com
+0.0.0.0 adactivity.ads.gms.android.google.com
+0.0.0.0 adview.ads.gms.android.google.com
 #

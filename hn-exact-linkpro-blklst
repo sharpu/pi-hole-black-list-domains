@@ -1,0 +1,14 @@
+# Created: 24.10.2025
+# Updated: 24.10.2025
+# thehackernews / synacktiv
+# vpn server
+0.0.0.0 wherewego.top
+0.0.0.0 www.wherewego.top  
+0.0.0.0 cat.wherewego.top
+0.0.0.0 test.wherewego.top
+# c2 server
+0.0.0.0 56.155.98.37
+#
+0.0.0.0 18.199.101.111
+0.0.0.0 pmlbfj7.com
+0.0.0.0 www.pmlbfj7.com

@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 17.10.2025
+# updated: 24.10.2025
 #
 # moved regex entries out, only excat domains remain
 #
@@ -16986,4 +16986,20 @@
 0.0.0.0 8vtr07.plansped.com
 0.0.0.0 uokb19.plansped.com
 0.0.0.0 t0hlwc.plansped.com
+#
+0.0.0.0 newsroom.bi
+0.0.0.0 www.newsroom.bi
+0.0.0.0 events.newsroom.bi
+0.0.0.0 admin.newsroom.bi
+0.0.0.0 api.newsroom.bi
+0.0.0.0 chproxy.newsroom.bi
+0.0.0.0 clickhouse.newsroom.bi
+0.0.0.0 frehley.newsroom.bi
+0.0.0.0 helm.newsroom.bi
+0.0.0.0 icu.newsroom.bi
+0.0.0.0 metadata.newsroom.bi
+0.0.0.0 miopia.newsroom.bi
+0.0.0.0 performance.newsroom.bi
+0.0.0.0 sdk.newsroom.bi
+0.0.0.0 x.newsroom.bi
 #

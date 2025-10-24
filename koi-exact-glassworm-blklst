@@ -1,0 +1,11 @@
+# Created: 24.10.2025
+# Updated: 24.10.2025
+# see koi.ai
+# primary c2 servers
+0.0.0.0 217.69.3.218
+0.0.0.0 199.247.10.166
+# exfiltration endpoint
+0.0.0.0 140.82.52.31
+0.0.0.0 199.247.13.106
+# google calendar c2
+0.0.0.0 calendar.app.google

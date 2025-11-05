@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 28.10.2025
+# updated: 05.11.2025
 #
 # moved regex entries out, only excat domains remain
 #
@@ -17153,4 +17153,166 @@
 0.0.0.0 nuoram.com
 #
 0.0.0.0 Xverion.com
+#
+0.0.0.0 ai.dds
+0.0.0.0 Generic.malware.ai.dds
+#
+0.0.0.0 markalois.sbs
+0.0.0.0 www.markalois.sbs
+0.0.0.0 cpanel.markalois.sbs
+0.0.0.0 webmail.markalois.sbs
+0.0.0.0 ftp.markalois.sbs
+0.0.0.0 wkspx0bqxc.markalois.sbs
+#
+0.0.0.0 rvioi.co.in
+0.0.0.0 667332tikzwocb7ad7.rvioi.co.in
+0.0.0.0 d8c4e2ttlrn16hee5d.rvioi.co.in
+0.0.0.0 652832t37m716ghcdc.rvioi.co.in
+0.0.0.0 0aa7e2tx9ikc8sy5b1.rvioi.co.in
+0.0.0.0 e5ca32tsyqdfysce70.rvioi.co.in
+0.0.0.0 ee73b2tx9rnsya67d4.rvioi.co.in
+0.0.0.0 31f082tx9slg5k2d2c.rvioi.co.in
+0.0.0.0 485072tx99zwhdu6dd.rvioi.co.in
+0.0.0.0 416802tx916lprn3de.rvioi.co.in
+0.0.0.0 5acbc2t46dub4oj092.rvioi.co.in
+0.0.0.0 2652b2tp2nta56jeae.rvioi.co.in
+0.0.0.0 898352tc8m7qnci03f.rvioi.co.in
+0.0.0.0 8db962t46ktgmft0f1.rvioi.co.in
+0.0.0.0 e365c2tp2e2dvhq68a.rvioi.co.in
+0.0.0.0 3e7b12tp27sft8ra95.rvioi.co.in
+0.0.0.0 814bf2tp2e2sca7430.rvioi.co.in
+0.0.0.0 ef89f2tp2e2hoa05e3.rvioi.co.in
+0.0.0.0 6dff02tp2e2hoj6781.rvioi.co.in
+0.0.0.0 1f7f92tp2d5ghc8513.rvioi.co.in
+0.0.0.0 157142t1mx937hqbe4.rvioi.co.in
+0.0.0.0 f70332t46twd5j259d.rvioi.co.in
+0.0.0.0 65cc12t1mk2c84kaf0.rvioi.co.in
+0.0.0.0 09d0a2t46fta6m7296.rvioi.co.in
+0.0.0.0 431292t1mx9bga081c.rvioi.co.in
+0.0.0.0 845202t1m8pe28w46b.rvioi.co.in
+0.0.0.0 161fc2t1mmyxrikb9c.rvioi.co.in
+0.0.0.0 8f10c2t46ft7s1z9d8.rvioi.co.in
+0.0.0.0 3701a2thquqa98r900.rvioi.co.in
+0.0.0.0 bf8b52td53za5ib7b5.rvioi.co.in
+0.0.0.0 d2a6f2tzwdvntgxb54.rvioi.co.in
+0.0.0.0 902f52tzwg6slx925a.rvioi.co.in
+0.0.0.0 0786d2tj68pbg9zc42.rvioi.co.in
+0.0.0.0 ca43c2tzwj2lpa399c.rvioi.co.in
+0.0.0.0 58dc92tdvxrntp2f83.rvioi.co.in
+0.0.0.0 523cf2tj61n8rj6d78.rvioi.co.in
+0.0.0.0 140652tzwj6x93v9ce.rvioi.co.in
+0.0.0.0 d9b552txifya2uq05f.rvioi.co.in
+0.0.0.0 3afad2tj6a3bgk2075.rvioi.co.in
+0.0.0.0 eb03e2tj62toca5e5a.rvioi.co.in
+0.0.0.0 3fc5c2tdva1hqb4698.rvioi.co.in
+0.0.0.0 8290b2tdvqq1na2489.rvioi.co.in
+0.0.0.0 6af6b2tuqpme29r146.rvioi.co.in
+0.0.0.0 41eed2tuq4pgmoj27f.rvioi.co.in
+0.0.0.0 a63982tuqkt16xiba2.rvioi.co.in
+0.0.0.0 a9c3e2tscbg9rpma6b.rvioi.co.in
+0.0.0.0 2f8ca2tmy8rp2fy5ac.rvioi.co.in
+0.0.0.0 4bb972tsbgqngxaa2.rvioi.co.in
+0.0.0.0 fb4952tsc9zk2gmcf9.rvioi.co.in
+0.0.0.0 754d52t8wocj2uq0e1.rvioi.co.in
+0.0.0.0 637412t9rfvtwtl72a.rvioi.co.in
+0.0.0.0 5e51c2t9ry9dv468d1.rvioi.co.in
+0.0.0.0 631b42tg5gxc8ktb30.rvioi.co.in
+0.0.0.0 f7ae12t1ng68wg5f3d.rvioi.co.in
+0.0.0.0 9155d2t1nqnojydc6f.rvioi.co.in
+0.0.0.0 090b22tho2tciqnd46.rvioi.co.in
+0.0.0.0 ddba82thohoqq6j086.rvioi.co.in
+0.0.0.0 a07ce2te2sla6xi6ef.rvioi.co.in
+0.0.0.0 1c8ff2t1ny98rir081.rvioi.co.in
+#
+0.0.0.0 safeysearch.com
+0.0.0.0 www.safeysearch.com
+0.0.0.0 static.safeysearch.com
+#
+0.0.0.0 menorali.com
+0.0.0.0 www.menorali.com
+0.0.0.0 miki.menorali.com
+#
+0.0.0.0 cryptospannet.com
+0.0.0.0 d43rep8hubcc73919o30.cryptospannet.com
+0.0.0.0 d3vo24ghubcc73cpbm60.cryptospannet.com
+0.0.0.0 d45b288hubcc73aidjo0.cryptospannet.com
+0.0.0.0 d45b5lohubcc73aihisg.cryptospannet.com
+0.0.0.0 d44m6jghubcc739sk7gg.cryptospannet.com
+0.0.0.0 d458mk0hubcc73af93s0.cryptospannet.com
+0.0.0.0 jpnba8cder2zau.cryptospannet.com
+0.0.0.0 91szhewafy6c2v.cryptospannet.com
+0.0.0.0 d44u2kghubcc73a1kgu0.cryptospannet.com
+0.0.0.0 d44samghubcc73a0onp0.cryptospannet.com
+0.0.0.0 pmxi2pmzp4im5m.cryptospannet.com
+0.0.0.0 d44esr8hubcc739ig6h0.cryptospannet.com
+0.0.0.0 d44e70ohubcc739hktrg.cryptospannet.com
+0.0.0.0 d41rea0hubcc73f44ofg.cryptospannet.com
+0.0.0.0 d448gaohubcc739cku40.cryptospannet.com
+0.0.0.0 d443008hubcc739a2t10.cryptospannet.com
+0.0.0.0 d43onpohubcc738tg6l0.cryptospannet.com
+0.0.0.0 d43j66ohubcc738okiig.cryptospannet.com
+0.0.0.0 d436a60hubcc738c2rj0.cryptospannet.com
+0.0.0.0 5e527m7jceeopg.cryptospannet.com
+0.0.0.0 d433ug8hubcc7388roqg.cryptospannet.com
+0.0.0.0 d42t02ohubcc7382m1fg.cryptospannet.com
+0.0.0.0 d427m2ohubcc73ff30pg.cryptospannet.com
+0.0.0.0 d42232ghubcc73fbuj00.cryptospannet.com
+0.0.0.0 d41t4h0hubcc73f679sg.cryptospannet.com
+0.0.0.0 d41oqnghubcc73f0mm2g.cryptospannet.com
+0.0.0.0 d41o6rghubcc73evu26g.cryptospannet.com
+0.0.0.0 d41ic28hubcc73er7rtg.cryptospannet.com
+0.0.0.0 d4155h0hubcc73eceldg.cryptospannet.com
+0.0.0.0 sjzfo34okke52p.cryptospannet.com
+0.0.0.0 lmz35786edvj15.cryptospannet.com
+0.0.0.0 d40ldlghubcc73du7fog.cryptospannet.com
+0.0.0.0 d40t20ghubcc73e4s8d0.cryptospannet.com
+0.0.0.0 d3vmbn8hubcc73cn932g.cryptospannet.com
+0.0.0.0 d40519ghubcc73dct3l0.cryptospannet.com
+0.0.0.0 mw7b1cqpvzfyh6.cryptospannet.com
+0.0.0.0 adga245rajnjs9.cryptospannet.com
+0.0.0.0 d402jp0hubcc73d9m7cg.cryptospannet.com
+0.0.0.0 d4032i0hubcc73da8n1g.cryptospannet.com
+0.0.0.0 d40165ohubcc73d7fvdg.cryptospannet.com
+0.0.0.0 d4009qghubcc73d61tbg.cryptospannet.com
+0.0.0.0 d3vu1lghubcc73d2pvl0.cryptospannet.com
+0.0.0.0 d3vupr0hubcc73d3tgp0.cryptospannet.com
+0.0.0.0 d3vuobghubcc73d3r6t0.cryptospannet.com
+0.0.0.0 d3vtdqghubcc73d1q90g.cryptospannet.com
+0.0.0.0 d3vtteohubcc73d2jfq0.cryptospannet.com
+0.0.0.0 7rt2uqbk9r7gvy.cryptospannet.com
+0.0.0.0 d7szmpqex8z5ab.cryptospannet.com
+0.0.0.0 d3euni8hubcc73cftleg.cryptospannet.com
+0.0.0.0 d3f5toghubcc73cnhpbg.cryptospannet.com
+0.0.0.0 d3f5tv0hubcc73cnhuqg.cryptospannet.com
+0.0.0.0 d3f2c70hubcc73ckhgk0.cryptospannet.com
+0.0.0.0 d3etetohubcc73cdljqg.cryptospannet.com
+0.0.0.0 d3eprfghubcc73c5ro10.cryptospannet.com
+0.0.0.0 d3er9gghubcc73c9aa9g.cryptospannet.com
+0.0.0.0 d3eqbf0hubcc73c70gj0.cryptospannet.com
+0.0.0.0 d3eplg0hubcc73c5efp0.cryptospannet.com
+0.0.0.0 d2p4fuohubcc73a592og.cryptospannet.com
+0.0.0.0 d2p0c80hubcc739vrgfg.cryptospannet.com
+0.0.0.0 d2p8er8hubcc73a9u08g.cryptospannet.com
+0.0.0.0 d2ot6oghubcc739rjvt0.cryptospannet.com
+0.0.0.0 d2otht0hubcc739s1v00.cryptospannet.com
+0.0.0.0 d2pa318hubcc73ab5hpg.cryptospannet.com
+0.0.0.0 d2p5gbghubcc73a6ka5g.cryptospannet.com
+0.0.0.0 d2p32hohubcc73a3btgg.cryptospannet.com
+0.0.0.0 d2oa168hubcc7396kcl0.cryptospannet.com
+0.0.0.0 d2oao00hubcc7397o4o0.cryptospannet.com
+0.0.0.0 d2onp6ghubcc739m1ivg.cryptospannet.com
+0.0.0.0 tuob77o2fjqcwn.cryptospannet.com
+0.0.0.0 d2od6hohubcc739bft70.cryptospannet.com
+0.0.0.0 d2o7ha0hubcc73930sv0.cryptospannet.com
+0.0.0.0 d2o7nughubcc73939mig.cryptospannet.com
+0.0.0.0 rz2ygv5ohdtgag.cryptospannet.com
+0.0.0.0 mivdg7siymvi44.cryptospannet.com
+#
+0.0.0.0 loanova.co.in
+0.0.0.0 d3tkma6071bc739hgmd0.loanova.co.in
+0.0.0.0 d3tjilu071bc739g0lsg.loanova.co.in
+0.0.0.0 d3thre6071bc739e1550.loanova.co.in
+0.0.0.0 d3tf7km071bc739c35eg.loanova.co.in
+0.0.0.0 d3t7hbm071bc7394rd8g.loanova.co.in
+0.0.0.0 d3t3l96071bc738u5kr0.loanova.co.in
 #

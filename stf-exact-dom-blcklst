@@ -17356,3 +17356,48 @@
 0.0.0.0 www.aseblogs.com
 0.0.0.0 autodiscover.aseblogs.com
 #
+# adobe
+0.0.0.0 34.227.25.4
+0.0.0.0 44.212.43.34
+0.0.0.0 54.205.171.35
+0.0.0.0 155.117.84.134
+0.0.0.0 159.89.12.166
+#
+# landfall spyware
+# C2 servers
+# 194.76.224[.]127
+0.0.0.0 brightvideodesigns.com
+0.0.0.0 www.brightvideodesigns.com
+# 91.132.92[.]35
+0.0.0.0 hotelsitereview.com
+0.0.0.0 www.hotelsitereview.com
+# 92.243.65[.]240
+0.0.0.0 healthyeatingontherun.com
+0.0.0.0 www.healthyeatingontherun.com
+# 192.36.57[.]56
+0.0.0.0 projectmanagerskills.com
+0.0.0.0 www.projectmanagerskills.com
+0.0.0.0 cpcalendars.projectmanagerskills.com
+0.0.0.0 cpcontacts.projectmanagerskills.com
+0.0.0.0 autodiscover.projectmanagerskills.com
+0.0.0.0 learn.projectmanagerskills.com
+0.0.0.0 mail.projectmanagerskills.com
+0.0.0.0 webmail.projectmanagerskills.com
+0.0.0.0 cpanel.projectmanagerskills.com
+0.0.0.0 webdisk.projectmanagerskills.com
+# 
+46.246.28.75
+45.155.250.158
+#
+# curly comrades
+0.0.0.0 91.107.174.190 
+0.0.0.0 96.30.124.103 
+0.0.0.0 194.87.31.171 
+0.0.0.0 75.127.13.136 
+0.0.0.0 94.131.109.91 
+0.0.0.0 207.180.194.109
+# proxy
+0.0.0.0 45.43.91.10
+0.0.0.0 88.198.91.116
+#
+

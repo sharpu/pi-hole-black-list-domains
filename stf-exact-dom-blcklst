@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 05.11.2025
+# updated: 07.11.2025
 #
 # moved regex entries out, only excat domains remain
 #
@@ -17315,4 +17315,44 @@
 0.0.0.0 d3tf7km071bc739c35eg.loanova.co.in
 0.0.0.0 d3t7hbm071bc7394rd8g.loanova.co.in
 0.0.0.0 d3t3l96071bc738u5kr0.loanova.co.in
+#
+# # gravity db regex-rule: [a-z0-9]+.ru.com
+0.0.0.0 ru.com
+0.0.0.0 trojanguard.ru.com
+0.0.0.0 www.trojanguard.ru.com
+#
+0.0.0.0 Octo39.com
+#
+0.0.0.0 rewardinglocker.com
+0.0.0.0 www.rewardinglocker.com
+0.0.0.0 1.rewardinglocker.com
+0.0.0.0 10.rewardinglocker.com
+0.0.0.0 11.rewardinglocker.com
+0.0.0.0 13.rewardinglocker.com
+0.0.0.0 14.rewardinglocker.com
+0.0.0.0 16.rewardinglocker.com
+0.0.0.0 17.rewardinglocker.com
+0.0.0.0 18.rewardinglocker.com
+0.0.0.0 19.rewardinglocker.com
+0.0.0.0 3.rewardinglocker.com
+0.0.0.0 4.rewardinglocker.com
+0.0.0.0 5.rewardinglocker.com
+0.0.0.0 6.rewardinglocker.com
+0.0.0.0 8.rewardinglocker.com
+0.0.0.0 9.rewardinglocker.com
+0.0.0.0 bcd.rewardinglocker.com
+#
+0.0.0.0 movementxview.com
+#
+0.0.0.0 Zazwin.com
+#
+0.0.0.0 Videosearcherpro.com
+0.0.0.0 www.Videosearcherpro.com
+#
+0.0.0.0 Memotrix.org
+#
+# roblox
+0.0.0.0 aseblogs.com
+0.0.0.0 www.aseblogs.com
+0.0.0.0 autodiscover.aseblogs.com
 #

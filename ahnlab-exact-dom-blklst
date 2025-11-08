@@ -1,7 +1,16 @@
 # Created: 08.11.2025
 # Updated: 08.11.2025
 # see: asec.ahnlab.com
-# 
+#
+0.0.0.0 iplogger.co
+#
+0.0.0.0 cia.tf
+0.0.0.0 data.cia.tf
+0.0.0.0 subdomain.cia.tf
+0.0.0.0. git.cia.tf
+#
+0.0.0.0 gloryweb.vip
+#
 # gravity regex: [a-z0-9]+.weebly.com
 0.0.0.0 weebly.com
 0.0.0.0 affiliateslasopa448.weebly.com
@@ -118,6 +127,7 @@
 0.0.0.0 152.42.128.208
 0.0.0.0 158.69.210.167
 0.0.0.0 188.253.58.153
+0.0.0.0 195.66.214.79
 0.0.0.0 210.90.119.206
 0.0.0.0 211.154.27.33
 0.0.0.0 222.137.181.109

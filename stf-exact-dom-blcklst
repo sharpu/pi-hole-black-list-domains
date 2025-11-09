@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 07.11.2025
+# updated: 09.11.2025
 #
 # moved regex entries out, only excat domains remain
 #
@@ -17400,4 +17400,45 @@
 0.0.0.0 45.43.91.10
 0.0.0.0 88.198.91.116
 #
+# outbyte.com / 09.11.2025
+# Attention: DO NOT DOWNLOAD THE PC-REPAIR TOOL!!! 
+0.0.0.0 outbyte.com
+0.0.0.0 www.outbyte.com
+0.0.0.0 cmp.outbyte.com
+0.0.0.0 adstest.outbyte.com
+0.0.0.0 malware.outbyte.com
+0.0.0.0 noventiq.outbyte.com
+0.0.0.0 ssl.outbyte.com
+0.0.0.0 du-static.outbyte.com
+0.0.0.0 ads.outbyte.com
+0.0.0.0 sgtm.outbyte.com
+0.0.0.0 keywords.outbyte.com
+0.0.0.0 accounttest.outbyte.com
+0.0.0.0 softline.outbyte.com
+0.0.0.0 pcrtest.outbyte.com
+0.0.0.0 ua.outbyte.com
+0.0.0.0 odu.outbyte.com
+0.0.0.0 testdu.outbyte.com
+0.0.0.0 lc.outbyte.com
+0.0.0.0 mail.outbyte.com
+0.0.0.0 account.outbyte.com
+0.0.0.0 am.outbyte.com
+0.0.0.0 dynamicdownlodas.outbyte.com
+0.0.0.0 mr.outbyte.com
+0.0.0.0 affiliates.outbyte.com
+0.0.0.0 pcr.outbyte.com
+0.0.0.0 support.outbyte.com
+0.0.0.0 ynamicdownloads.outbyte.com
+0.0.0.0 store.outbyte.com
+0.0.0.0 assist.outbyte.com
+0.0.0.0 link.outbyte.com
+0.0.0.0 debuglogs.outbyte.com
+0.0.0.0 static.outbyte.com
+0.0.0.0 update.outbyte.com
+#
+dynamicdownloads.outbyte.com
+api.outbyte.com
+downloads.outbyte.com
+du.outbyte.com
 
+bis.outbyte.com

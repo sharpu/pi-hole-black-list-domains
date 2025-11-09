@@ -1,3 +1,5 @@
+# Updated: 09.11.2025
+# Reason: Open Office Installation
 # see: https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Win10Telemetry
 # changed to make it accessible for pi-hole
 # https://raw.githubusercontent.com/sharpu/pi-hole-black-list-domains/refs/heads/main/ghuc-mstd
@@ -59,3 +61,11 @@
 0.0.0.0 teams.events.data.microsoft.com
 # 29.09.2025
 0.0.0.0 ecs.office.com
+# 09.11.2025
+0.0.0.0 res.public.onecdn.static.microsoft
+# directing to potentially malicious use
+0.0.0.0 static.microsoft
+0.0.0.0 aiinfrastructure.static.microsoft
+0.0.0.0 connectivity-test.static.microsoft
+0.0.0.0 insights.static.microsoft
+#

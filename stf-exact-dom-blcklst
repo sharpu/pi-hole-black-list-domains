@@ -1,6 +1,8 @@
 #
 # created: 18.04.2025
-# updated: 09.11.2025
+# updated: 11.11.2025
+#
+# digitla forensics: iris-h.services/pages/dashboard
 #
 # moved regex entries out, only excat domains remain
 #
@@ -17385,9 +17387,6 @@
 0.0.0.0 webmail.projectmanagerskills.com
 0.0.0.0 cpanel.projectmanagerskills.com
 0.0.0.0 webdisk.projectmanagerskills.com
-# 
-46.246.28.75
-45.155.250.158
 #
 # curly comrades
 0.0.0.0 91.107.174.190 
@@ -17398,6 +17397,8 @@
 0.0.0.0 207.180.194.109
 # proxy
 0.0.0.0 45.43.91.10
+0.0.0.0 45.155.250.158
+0.0.0.0 46.246.28.75
 0.0.0.0 88.198.91.116
 #
 # outbyte.com / 09.11.2025
@@ -17423,22 +17424,184 @@
 0.0.0.0 mail.outbyte.com
 0.0.0.0 account.outbyte.com
 0.0.0.0 am.outbyte.com
+0.0.0.0 downloads.outbyte.com
+0.0.0.0 dynamicdownloads.outbyte.com
 0.0.0.0 dynamicdownlodas.outbyte.com
+0.0.0.0 ynamicdownloads.outbyte.com
 0.0.0.0 mr.outbyte.com
 0.0.0.0 affiliates.outbyte.com
 0.0.0.0 pcr.outbyte.com
 0.0.0.0 support.outbyte.com
-0.0.0.0 ynamicdownloads.outbyte.com
 0.0.0.0 store.outbyte.com
 0.0.0.0 assist.outbyte.com
 0.0.0.0 link.outbyte.com
 0.0.0.0 debuglogs.outbyte.com
 0.0.0.0 static.outbyte.com
 0.0.0.0 update.outbyte.com
+0.0.0.0 api.outbyte.com
+0.0.0.0 du.outbyte.com
+0.0.0.0 bis.outbyte.com
+# roblox
+0.0.0.0 bloxforge.com
+0.0.0.0 www.bloxforge.com
+0.0.0.0 verification.bloxforge.com
 #
-dynamicdownloads.outbyte.com
-api.outbyte.com
-downloads.outbyte.com
-du.outbyte.com
+0.0.0.0 abjav.com
+0.0.0.0 www.abjav.com
+0.0.0.0 www5.abjav.com
+0.0.0.0 ahcdn3.abjav.com
+0.0.0.0 vv3.abjav.com
+0.0.0.0 vv2.abjav.com
+0.0.0.0 tn.abjav.com
+0.0.0.0 staging.abjav.com
+0.0.0.0 thumbs.abjav.com
+0.0.0.0 member.abjav.com
+0.0.0.0 ahcdn.abjav.com
+0.0.0.0 vv.abjav.com
+0.0.0.0 ii.abjav.com
+0.0.0.0 direct.abjav.com
+#
+0.0.0.0 www.oninir.sbs
+0.0.0.0 f3a9d2tfyqqq5vc7c8.oninir.sbs
+0.0.0.0 8795d2tfy16b7x9ff6.oninir.sbs
+0.0.0.0 2430f2txrd55mqe227.oninir.sbs
+0.0.0.0 a88fa2tm7sl1m9r6a8.oninir.sbs
+0.0.0.0 135ce2t3vdvfvlpc91.oninir.sbs
+0.0.0.0 8a17c2t37tw9z4k45f.oninir.sbs
+0.0.0.0 c0bc22trna5ydj6bb6.oninir.sbs
+0.0.0.0 ef45f2trna4qeira3d.oninir.sbs
+0.0.0.0 4af152tsy7sqddvc54.oninir.sbs
+0.0.0.0 9ae692t4kxsci46e81.oninir.sbs
+0.0.0.0 040ff2tzwdu9r37c8e.oninir.sbs
+0.0.0.0 5d6302t1mrnhqe2f59.oninir.sbs
+0.0.0.0 8b3802tzwsylpa3b74.oninir.sbs
+0.0.0.0 65d172tho17uqp25c0.oninir.sbs
+0.0.0.0 af8012thoe82tzwbfc.oninir.sbs
+0.0.0.0 8fc9f2t3zg5c8m7030.oninir.sbs
+0.0.0.0 24d0c2t3zgxa97s19d.oninir.sbs
+0.0.0.0 969052t6j3v8pq528e.oninir.sbs
+0.0.0.0 5009c2t6jheuqfy7af.oninir.sbs
+0.0.0.0 c59252tvcsla537ac0.oninir.sbs
+0.0.0.0 420532t1zuotlir919.oninir.sbs
+0.0.0.0 2da422tirxs8rx9f62.oninir.sbs
+0.0.0.0 8932d2tirhewhg594d.oninir.sbs
+0.0.0.0 296752twf2tir9lcde.oninir.sbs
+0.0.0.0 6e3582ty9e2b4ejffe.oninir.sbs
+0.0.0.0 3a6162tlpwfhqik43a.oninir.sbs
+0.0.0.0 1bb272tlpk2p2gx66d.oninir.sbs
+0.0.0.0 8a2c62tlpa2mytl9fb.oninir.sbs
+0.0.0.0 480572tcia7p23z231.oninir.sbs
+0.0.0.0 24ce82the6ja6x978d.oninir.sbs
+0.0.0.0 9f83d2t8rslbgj639f.oninir.sbs
+0.0.0.0 020052tbzp2sl7s6fb.oninir.sbs
+0.0.0.0 210352txsa3vcd51d9.oninir.sbs
+0.0.0.0 cf82e2tq5b4j6kt508.oninir.sbs
+0.0.0.0 4e5582t2tbzqem7b9d.oninir.sbs
+0.0.0.0 32f682ta99ze28p2c6.oninir.sbs
+0.0.0.0 0d1412ta8a5xsg5391.oninir.sbs
+0.0.0.0 5c3d32ta98rj6ocfc2.oninir.sbs
+0.0.0.0 8d0a42ta5oc6j2tb5d.oninir.sbs
+0.0.0.0 fa1452ta51zhoktd03.oninir.sbs
+0.0.0.0 510122ta2wfb7ho42f.oninir.sbs
+0.0.0.0 7c9322ta2myfvuob0d.oninir.sbs
+0.0.0.0 3039eqq9zntvc0659.oninir.sbs
+0.0.0.0 811efqq9ztle2i48a6.oninir.sbs
+0.0.0.0 2d0c7qqp2b4qd8n09f.oninir.sbs
+0.0.0.0 0758aqq1mwhk2i491b.oninir.sbs
+0.0.0.0 e1bf1qqa6x9ghdzb7f.oninir.sbs
+0.0.0.0 65f28qq7vqep2feed6.oninir.sbs
+#
+# leakystealer / leakyinjector
+0.0.0.0 everstead.group
+#
+0.0.0.0 celestial-stealer.dev
+0.0.0.0 www.celestial-stealer.dev 
+0.0.0.0 admin.celestial-stealer.dev
+#
+0.0.0.0 Homesearcherplace.com
+#
+# storm-0978
+# see: www.microsoft.com/en-us/security/blog/2023/07/11/storm-0978-attacks-reveal-financial-and-espionage-motives/
+0.0.0.0 advanced-ip-scaner.com
+0.0.0.0 www.advanced-ip-scaner.com
+0.0.0.0 cdn.advanced-ip-scaner.com
+0.0.0.0 mail.advanced-ip-scaner.com
+0.0.0.0 smtp.advanced-ip-scaner.com
+0.0.0.0 cpanel.advanced-ip-scaner.com
+0.0.0.0 w.advanced-ip-scaner.com
+0.0.0.0 a7.advanced-ip-scaner.com
+0.0.0.0 gs.advanced-ip-scaner.com
+0.0.0.0 ftp.advanced-ip-scaner.com
+0.0.0.0 staging.advanced-ip-scaner.com
+0.0.0.0 gitlab.advanced-ip-scaner.com
+0.0.0.0 vpn.advanced-ip-scaner.com
+0.0.0.0 emv1.advanced-ip-scaner.com
+0.0.0.0 ww2.advanced-ip-scaner.com
+#
+# stomp-2
+# c2 domains
+0.0.0.0 creatorz123.top
+0.0.0.0 www.creatorz123.top
+0.0.0.0 123faster.top
+0.0.0.0 www.123faster.top
+0.0.0.0 conversia91.top
+0.0.0.0 www.conversia91.top
+0.0.0.0 fatoftheland.top
+0.0.0.0 www.fatoftheland.top
+0.0.0.0 mvideo.fatoftheland.top
+0.0.0.0 compilator333.top
+0.0.0.0 www.compilator333.top
+0.0.0.0 mvideo.compilator333.top
+0.0.0.0 ns.compilator333.top 
+# download domains
+0.0.0.0 marendoger.com
+0.0.0.0 www.marendoger.com
+0.0.0.0 neurogon.com
+0.0.0.0 www.neurogon.com
+0.0.0.0 tiparcano.com
+0.0.0.0 seigortan.com
+0.0.0.0 marendoger.com
+0.0.0.0 badiconreg.com
+# sender domains
+0.0.0.0 pt-cpaaccountant.com
+0.0.0.0 www.pt-cpaaccountant.com
+0.0.0.0 ns2.pt-cpaaccountant.com
+0.0.0.0 ns1.pt-cpaaccountant.com
+0.0.0.0 rogervecpa.com
+0.0.0.0 www.rogervecpa.com
+0.0.0.0 git.rogervecpa.com
+0.0.0.0 shop.rogervecpa.com
+0.0.0.0 secure.rogervecpa.com
+0.0.0.0 demo.rogervecpa.com
+0.0.0.0 test.rogervecpa.com
+0.0.0.0 old.rogervecpa.com
+0.0.0.0 store.rogervecpa.com
+0.0.0.0 webmail.rogervecpa.com
+0.0.0.0 smtp.rogervecpa.com
+0.0.0.0 root.rogervecpa.com
+0.0.0.0 mail.rogervecpa.com
+0.0.0.0 ns1.rogervecpa.com
+0.0.0.0 ns2.rogervecpa.com
+0.0.0.0 agent4career.com
+0.0.0.0 www.agent4career.com
+0.0.0.0 bestrecruitments.com
+0.0.0.0 www.bestrecruitments.com
+0.0.0.0 mail.bestrecruitments.com
+# minebridge
+# see: www.zscaler.com/blogs/security-research/return-minebridge-rat-new-ttps-and-social-engineering-lures
+0.0.0.0 billionaireshore.top
+0.0.0.0 vikingsofnorth.top
+0.0.0.0 realityarchitector.top
+0.0.0.0 gentlebouncer.top
+0.0.0.0 brainassault.top
+0.0.0.0 greatersky.top
+0.0.0.0 unicornhub.top
+0.0.0.0 corporatelover.top
+0.0.0.0 bloggersglobbers.top
+0.0.0.0 184.164.146.102
+#
+# www.proofpoint.com/us/threat-insight/post/ta505-distributes-new-sdbbot-remote-access-trojan-get2-downloader
+# ...
 
-bis.outbyte.com
+
+

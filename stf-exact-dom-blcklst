@@ -1,6 +1,12 @@
 #
 # created: 18.04.2025
-# updated: 11.11.2025
+# updated: 13.11.2025
+#
+# ahnlab:
+# see asec.ahnlab.com => daily threats in separate repository file
+#
+# to do
+# www.proofpoint.com/us/threat-insight/post/ta505-distributes-new-sdbbot-remote-access-trojan-get2-downloader
 #
 # digital forensics: iris-h.services/pages/dashboard
 #
@@ -17600,8 +17606,225 @@
 0.0.0.0 bloggersglobbers.top
 0.0.0.0 184.164.146.102
 #
+# to do
 # www.proofpoint.com/us/threat-insight/post/ta505-distributes-new-sdbbot-remote-access-trojan-get2-downloader
 # ...
+# tykit (typical phishing kit)
+# C2 servers
+0.0.0.0 segy.cc
+0.0.0.0 www.segy.cc
+0.0.0.0 sitemaps.segy.cc
+0.0.0.0 sitemap.segy.cc
+0.0.0.0 segy2.cc
+0.0.0.0 www.segy2.cc
+0.0.0.0 segy.zip
+0.0.0.0 www.segy.zip
+0.0.0.0 emv1.segy.zip
+0.0.0.0 segy.xyz
+0.0.0.0 www.segy.xyz
+0.0.0.0 autodiscover.segy.xyz
+0.0.0.0 ftp.segy.xyz
+0.0.0.0 api.segy.xyz
+0.0.0.0 mta-sts.segy.xyz
+0.0.0.0 frp.segy.xyz
+0.0.0.0 m.segy.xyz
+0.0.0.0 mail.segy.xyz
+0.0.0.0 segy.shop
+0.0.0.0 www.segy.shop
+0.0.0.0 emv1.segy.shop
+0.0.0.0 mta-sts.segy.shop
+#
+0.0.0.0 52632651246148569845521065.cc
+0.0.0.0 www.52632651246148569845521065.cc
+0.0.0.0 loginmicr0sft0nlinewpbmmg.52632651246148569845521065.cc
+0.0.0.0 loginmicr0sft0nlinedfzfvz.52632651246148569845521065.cc
+0.0.0.0 loginmicr0sft0nlineeckaf.52632651246148569845521065.cc
+0.0.0.0 loginmicr0sft0nlineofy.52632651246148569845521065.cc
+0.0.0.0 loginmicr0sft0nlinemqdq.52632651246148569845521065.cc
+0.0.0.0 loginmicr0sft0nlinehbzxj.52632651246148569845521065.cc
+0.0.0.0 loginmicr0sft0nlineeevhcf.52632651246148569845521065.cc
+0.0.0.0 loginmicr0sft0nlinekxck.52632651246148569845521065.cc
+0.0.0.0 loginmicr0sft0nlinezdf.52632651246148569845521065.cc
+0.0.0.0 loginmicr0sft0nlineldsxlz.52632651246148569845521065.cc
+0.0.0.0 loginmicr0sft0nlinerekhn.52632651246148569845521065.cc
+0.0.0.0 loginmicr0sft0nlinentbben.52632651246148569845521065.cc
+0.0.0.0 loginmicr0sft0nlinerqlxl.52632651246148569845521065.cc
+0.0.0.0 loginmicr0sft0nlinepunlhv.52632651246148569845521065.cc
+0.0.0.0 loginmicr0sft0nlinektqqx.52632651246148569845521065.cc
+0.0.0.0 loginmicr0sft0nlinegpjy.52632651246148569845521065.cc
+0.0.0.0 loginmicr0sft0nlinenuo.52632651246148569845521065.cc
+0.0.0.0 loginmicr0sft0nlinewwuh.52632651246148569845521065.cc
+0.0.0.0 loginmicr0sft0nlinegkup.52632651246148569845521065.cc
+0.0.0.0 loginmicr0sft0nlinenaao.52632651246148569845521065.cc
+0.0.0.0 loginmicr0sft0nlinewkas.52632651246148569845521065.cc
+0.0.0.0 loginmicr0sft0nlineobf.52632651246148569845521065.cc
+0.0.0.0 loginmicr0sft0nlineyrhitv.52632651246148569845521065.cc
+0.0.0.0 loginmicr0sft0nlineltxwl.52632651246148569845521065.cc
+0.0.0.0 loginmicr0sft0nlineqaps.52632651246148569845521065.cc
+0.0.0.0 loginmicr0sft0nlineqduqq.52632651246148569845521065.cc
+0.0.0.0 loginmicr0sft0nlinewcdi.52632651246148569845521065.cc
+0.0.0.0 loginmicr0sft0nlinezcb.52632651246148569845521065.cc
+0.0.0.0 loginmicr0sft0nlinebfujk.52632651246148569845521065.cc
+0.0.0.0 loginmicr0sft0nlineckl.52632651246148569845521065.cc
+0.0.0.0 loginmicr0sft0nlinevgulpz.52632651246148569845521065.cc
+0.0.0.0 loginmicr0sft0nlinekozavl.52632651246148569845521065.cc
+0.0.0.0 loginmicr0sft0nlinenvnlbs.52632651246148569845521065.cc
+0.0.0.0 loginmicr0sft0nlineytmjyj.52632651246148569845521065.cc
+0.0.0.0 loginmicr0sft0nlineeyr.52632651246148569845521065.cc
+0.0.0.0 loginmicr0sft0nlinedwiu.52632651246148569845521065.cc
+0.0.0.0 loginmicr0sft0nlinelphd.52632651246148569845521065.cc
+0.0.0.0 1uypagr.com
+0.0.0.0 www.1uypagr.com
+0.0.0.0 o3loginrnicrosoftlogemd0rl.1uypagr.com
+0.0.0.0 o3loginrnicrosoftlogajfxpx.1uypagr.com
+0.0.0.0 o3loginrnicrosoftlogivshhb.1uypagr.com
+0.0.0.0 o3loginrnicrosoftlogx04nc4.1uypagr.com
+0.0.0.0 m364doc-officelgin.1uypagr.com
+0.0.0.0 m364doc-officelginsabrerail.1uypagr.com
+0.0.0.0 ftas04c.1uypagr.com
+0.0.0.0 6cfc.1uypagr.com
+0.0.0.0 a7ea9c.1uypagr.com
+0.0.0.0 b044.1uypagr.com
+0.0.0.0 a9666d.1uypagr.com
+0.0.0.0 60267cbb.1uypagr.com
+0.0.0.0 7dac703.1uypagr.com
+0.0.0.0 5d4097weilitz.1uypagr.com
+0.0.0.0 5d4097.1uypagr.com
+0.0.0.0 3044.1uypagr.com
+0.0.0.0 c376bf.1uypagr.com
+0.0.0.0 7fb419.1uypagr.com
+0.0.0.0 4521e.1uypagr.com
+0.0.0.0 a810.1uypagr.com
+0.0.0.0 f1f71.1uypagr.com
+0.0.0.0 7f1f8c85.1uypagr.com
+0.0.0.0 002396.1uypagr.com
+0.0.0.0 0d740c.1uypagr.com
+0.0.0.0 84022.1uypagr.com
+0.0.0.0 91074b18.1uypagr.com
+0.0.0.0 aaa3.1uypagr.com
+0.0.0.0 b64c24b.1uypagr.com
+0.0.0.0 d989fc31.1uypagr.com
+0.0.0.0 98069b00.1uypagr.com
+0.0.0.0 cc0a7b1.1uypagr.com
+0.0.0.0 74c8c11.1uypagr.com
+0.0.0.0 0f29be13.1uypagr.com
+0.0.0.0 71c4.1uypagr.com
+0.0.0.0 ff2a4c.1uypagr.com
+0.0.0.0 9d43ec3.1uypagr.com
+0.0.0.0 c274544.1uypagr.com
+0.0.0.0 c6c3ad.1uypagr.com
+0.0.0.0 38963.1uypagr.com
+0.0.0.0 2ed095.1uypagr.com
+0.0.0.0 31d9.1uypagr.com
+0.0.0.0 48708be.1uypagr.com
+0.0.0.0 7977e161.1uypagr.com
+0.0.0.0 0d785.1uypagr.com
+0.0.0.0 f0bb6.1uypagr.com
+0.0.0.0 495a.1uypagr.com
+0.0.0.0 cbffa.1uypagr.com
+0.0.0.0 dda720.1uypagr.com
+0.0.0.0 25883.1uypagr.com
+0.0.0.0 4254494.1uypagr.com
+0.0.0.0 c001ba.1uypagr.com
+0.0.0.0 e5c3ec.1uypagr.com
+0.0.0.0 8953e33.1uypagr.com
+0.0.0.0 cefd1.1uypagr.com
+0.0.0.0 14007a7.1uypagr.com
+0.0.0.0 16f77cd.1uypagr.com
+0.0.0.0 c0e5.1uypagr.com
+#
+0.0.0.0 hotbrepiye.cc
+0.0.0.0 78b1ba60e3.hotbrepiye.cc
+0.0.0.0 2521da812c.hotbrepiye.cc
+0.0.0.0 8e1f1a9dbb.hotbrepiye.cc
+0.0.0.0 4f9e7ff5af.hotbrepiye.cc
+0.0.0.0 9739e64bf6.hotbrepiye.cc
+0.0.0.0 2609189a34.hotbrepiye.cc
+0.0.0.0 d82d0cee64.hotbrepiye.cc
+0.0.0.0 bd294bf2a6.hotbrepiye.cc
+0.0.0.0 e9464a543a.hotbrepiye.cc
+0.0.0.0 7867f903d2.hotbrepiye.cc
+0.0.0.0 df85e4f819.hotbrepiye.cc
+0.0.0.0 bfeaaffcd9.hotbrepiye.cc
+0.0.0.0 3707a756ab.hotbrepiye.cc
+0.0.0.0 e03c67a934.hotbrepiye.cc
+0.0.0.0 8fe23634d9.hotbrepiye.cc
+0.0.0.0 fd8e32493f.hotbrepiye.cc
+0.0.0.0 fbfc3bdd30.hotbrepiye.cc
+0.0.0.0 caff30f670.hotbrepiye.cc
+0.0.0.0 6e9e44ea42.hotbrepiye.cc
+0.0.0.0 f70bd01080.hotbrepiye.cc
+0.0.0.0 917e880bc6.hotbrepiye.cc
+0.0.0.0 3fd1326933.hotbrepiye.cc
+0.0.0.0 2f88476d4a.hotbrepiye.cc
+0.0.0.0 478351ef2a.hotbrepiye.cc
+0.0.0.0 9912ea9cf4.hotbrepiye.cc
+0.0.0.0 7657c349c3.hotbrepiye.cc
+0.0.0.0 84bed337b9.hotbrepiye.cc
+0.0.0.0 96de50b94d.hotbrepiye.cc
+0.0.0.0 073166ab78.hotbrepiye.cc
+0.0.0.0 8a80213c81.hotbrepiye.cc
+0.0.0.0 10f786e15e.hotbrepiye.cc
+0.0.0.0 bc7547330a.hotbrepiye.cc
+0.0.0.0 1ecf7a3f30.hotbrepiye.cc
+0.0.0.0 f1701a8163.hotbrepiye.cc
+0.0.0.0 e74fe8831e.hotbrepiye.cc
+0.0.0.0 e7abf3eb5c.hotbrepiye.cc
+0.0.0.0 bc4317b8eb.hotbrepiye.cc
+0.0.0.0 315e035e0f.hotbrepiye.cc
+0.0.0.0 7f10a24a88.hotbrepiye.cc
+0.0.0.0 37340c100f.hotbrepiye.cc
+0.0.0.0 3fe43a7520.hotbrepiye.cc
+0.0.0.0 e56dec5eaa.hotbrepiye.cc
+0.0.0.0 954365414c.hotbrepiye.cc
+0.0.0.0 bd45b6940a.hotbrepiye.cc
+0.0.0.0 0600955c77.hotbrepiye.cc
+0.0.0.0 1ab809d9b0.hotbrepiye.cc
+0.0.0.0 3d1ec07ef1.hotbrepiye.cc
+0.0.0.0 4f27aa9e2c.hotbrepiye.cc
+0.0.0.0 6709e02ac5.hotbrepiye.cc
+0.0.0.0 72a3e45236.hotbrepiye.cc
+0.0.0.0 eae6cbf445.hotbrepiye.cc
+0.0.0.0 3ad1ea28bb.hotbrepiye.cc
+0.0.0.0 202d4ec620.hotbrepiye.cc
+0.0.0.0 cb66624450.hotbrepiye.cc
+0.0.0.0 e16c12f45f.hotbrepiye.cc
+0.0.0.0 8a3eaa253d.hotbrepiye.cc
+0.0.0.0 1bafcb2528.hotbrepiye.cc
+0.0.0.0 19a5a1e5de.hotbrepiye.cc
+0.0.0.0 dd30db92ad.hotbrepiye.cc
+0.0.0.0 24221c7819.hotbrepiye.cc
+0.0.0.0 11a2988da6.hotbrepiye.cc
+0.0.0.0 7d7bb7c24e.hotbrepiye.cc
+0.0.0.0 056d69a4a1.hotbrepiye.cc
+0.0.0.0 971d63dd38.hotbrepiye.cc
+0.0.0.0 aa4af04740.hotbrepiye.cc
+0.0.0.0 8468bf767f.hotbrepiye.cc
+0.0.0.0 4f129cfb22.hotbrepiye.cc
+0.0.0.0 8bd39cc33b.hotbrepiye.cc
+0.0.0.0 67265b51e3.hotbrepiye.cc
+0.0.0.0 27c11ee552.hotbrepiye.cc
+0.0.0.0 a7749196e8.hotbrepiye.cc
+#
+0.0.0.0 jin4pals.com
+#
+0.0.0.0 feelwatches.co.uk
+0.0.0.0 www.feelwatches.co.uk
+#
+0.0.0.0 milkionat.com
+0.0.0.0 miki.milkionat.com
+#
+0.0.0.0 marphezis.com
+0.0.0.0 www.marphezis.com
+0.0.0.0 seart.marphezis.com
+0.0.0.0 jfkrt.marphezis.com
+0.0.0.0 nycrt.marphezis.com
+0.0.0.0 brightcombid-ob.marphezis.com
+0.0.0.0 email.marphezis.com
+0.0.0.0 cdn.marphezis.com
+0.0.0.0 brightcombid.marphezis.com
+0.0.0.0 rt.marphezis.com
+#
 
 
 

@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 14.11.2025
+# updated: 18.11.2025
 #
 # ahnlab:
 # see asec.ahnlab.com => daily threats in separate repository file
@@ -17958,3 +17958,27 @@
 0.0.0.0 ww1.poop.com
 0.0.0.0 wall.poop.com
 #
+0.0.0.0 playmypc.com
+0.0.0.0 ackermanshop.com
+0.0.0.0 www.ackermanshop.com
+0.0.0.0 cloudflare.solutions
+0.0.0.0 www.cloudflare.solutions
+0.0.0.0 cdjs.online
+0.0.0.0 www.cdjs.online
+0.0.0.0 ww62.cdjs.online
+0.0.0.0 ww82.cdjs.online
+0.0.0.0 ww92.cdjs.online
+0.0.0.0 cdns.ws
+0.0.0.0 www.cdns.ws
+0.0.0.0 0www.cdns.ws
+0.0.0.0 this.cdns.ws
+0.0.0.0 msdns.online
+0.0.0.0 wordpress-crew.net
+0.0.0.0 www.wordpress-crew.net
+0.0.0.0 mail.wordpress-crew.net
+0.0.0.0 traffic2cash.net
+0.0.0.0 www.traffic2cash.net
+0.0.0.0 Seojokes.net
+
+
+

@@ -1,4 +1,4 @@
-# updated: 17.10.2025
+# updated: 18.11.2025
 # see https://github.com/TheBlockList/Blocklist/blob/master/google
 # changed to be accessible for pi-hole
 # https://raw.githubusercontent.com/sharpu/pi-hole-black-list-domains/refs/heads/main/ghuc-google-domains
@@ -86,6 +86,8 @@
 0.0.0.0 jmt17.google.com
 0.0.0.0 results5.google.com
 0.0.0.0 secret.google.com
+0.0.0.0 www.xn--oogle-wmc.com
+0.0.0.0 secret.xn--oogle-wmc.com
 0.0.0.0 timeline.google.com
 0.0.0.0 userlocation.google.com
 0.0.0.0 www.google.com

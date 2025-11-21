@@ -653,7 +653,7 @@
 # Amatera Stealer: Rebranded ACR Stealer
 # hxxps://proofpoint.com/us/blog/threat-insight; 16.06.2025
 0.0.0.0 amaprox.icu
-0.0.0.0 www,amaprox.icu
+0.0.0.0 www.amaprox.icu
 0.0.0.0 badnesspandemic.shop
 0.0.0.0 suavefrisk.bet
 0.0.0.0 h1.suavefrisk.bet

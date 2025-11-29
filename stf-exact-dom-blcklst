@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 24.11.2025
+# updated: 29.11.2025
 #
 # ahnlab:
 # see asec.ahnlab.com => daily threats in separate repository file
@@ -18119,3 +18119,77 @@
 0.0.0.0 73lx0v.nolermine.com
 0.0.0.0 sho1k0.nolermine.com
 0.0.0.0 18pnky.nolermine.com
+#
+0.0.0.0 my-smart-house1.com
+0.0.0.0 health-smooth-eu2.com
+0.0.0.0 api-microservice-us1.com
+0.0.0.0 cineb.gg
+0.0.0.0 www.cineb.gg
+# added gravity regex filter
+0.0.0.0 appsflyer.com
+0.0.0.0 thinkingdata.cn
+0.0.0.0 www.thinkingdata.cn
+0.0.0.0 receiver-ta-preview.thinkingdata.cn
+0.0.0.0 ta-bot.thinkingdata.cn
+0.0.0.0 demo-ta-test.thinkingdata.cn
+0.0.0.0 idp.thinkingdata.cn
+0.0.0.0 docs-v2.thinkingdata.cn
+0.0.0.0 yugong.thinkingdata.cn
+0.0.0.0 ta-sentry.thinkingdata.cn
+0.0.0.0 ta-preview.thinkingdata.cn
+0.0.0.0 ta-mqys-receiver.thinkingdata.cn
+0.0.0.0 receiver-ta-demo.thinkingdata.cn
+0.0.0.0 yugong-ta-receiver.thinkingdata.cn
+0.0.0.0 te-demo.thinkingdata.cn
+0.0.0.0 ta-sdk-service.thinkingdata.cn
+0.0.0.0 ta-anbian-receiver.thinkingdata.cn
+0.0.0.0 ta-taini-receiver.thinkingdata.cn
+0.0.0.0 ta-hs-receiver.thinkingdata.cn
+0.0.0.0 ta-quhai-receiver.thinkingdata.cn
+0.0.0.0 h5-question.thinkingdata.cn
+0.0.0.0 mail.thinkingdata.cn
+0.0.0.0 receiver-ta-dev.thinkingdata.cn
+0.0.0.0 test.thinkingdata.cn
+0.0.0.0 knowledge-base.thinkingdata.cn
+0.0.0.0 ta-dev.thinkingdata.cn
+0.0.0.0 download.thinkingdata.cn
+0.0.0.0 docs.thinkingdata.cn
+0.0.0.0 demo-ta.thinkingdata.cn
+0.0.0.0 cms.thinkingdata.cn
+0.0.0.0 doc.thinkingdata.cn
+0.0.0.0 image.thinkingdata.cn
+0.0.0.0 ta.thinkingdata.cn
+0.0.0.0 global-receiver-ta.thinkingdata.cn
+0.0.0.0 lastwar.com
+0.0.0.0 www.lastwar.com
+0.0.0.0 lastwar-client-res-counters.lastwar.com
+0.0.0.0 wiki-aws-api.lastwar.com
+0.0.0.0 risk.lastwar.com
+0.0.0.0 wiki-api.lastwar.com
+0.0.0.0 wiki.lastwar.com
+0.0.0.0 redeem.lastwar.com
+0.0.0.0 store.lastwar.com
+0.0.0.0 operation-tools.lastwar.com
+0.0.0.0 te-receiver.lastwar.com
+0.0.0.0 lastwar-platform.lastwar.com
+0.0.0.0 christmaspresale.com
+0.0.0.0 www.christmaspresale.com
+0.0.0.0 ibrahimdeal.com
+0.0.0.0 www.ibrahimdeal.com
+0.0.0.0 checkout.ibrahimdeal.com
+0.0.0.0 dujong.com
+0.0.0.0 www.dujong.com
+#
+0.0.0.0 mail.unetbootin.org
+# unclear source 
+0.0.0.0 ennova-research.com
+0.0.0.0 notifications.ennova-research.com
+0.0.0.0 www.notifications.ennova-research.com
+#
+0.0.0.0 tpdwm.com
+# photo & picture resizer
+0.0.0.0 farluner.com
+0.0.0.0 www.farluner.com
+0.0.0.0 api.farluner.com
+0.0.0.0 dev.farluner.com
+

@@ -61,6 +61,7 @@
 0.0.0.0 sneakylog.store
 0.0.0.0 www.sneakylog.store
 # [a-z0-9]+.aaoepshsq.es
+0.0.0.0 *.aaoepshsq.es
 0.0.0.0 aaoepshsq.es
 0.0.0.0 www.aaoepshsq.es
 0.0.0.0 0ey1d.aaoepshsq.es
@@ -217,6 +218,7 @@
 0.0.0.0 nr3qi.aaoepshsq.es
 0.0.0.0 mail.aaoepshsq.es
 # [a-z0-9]+.eeacukybnpjg.es
+0.0.0.0 *.eeacukybnpjg.es
 0.0.0.0 eeacukybnpjg.es
 0.0.0.0 www.eeacukybnpjg.es
 0.0.0.0 jvhn9.eeacukybnpjg.es
@@ -361,6 +363,7 @@
 0.0.0.0 kiwq.eeacukybnpjg.es
 0.0.0.0 mail.eeacukybnpjg.es
 # [a-z0-9]+.eqpwropc.es
+0.0.0.0 *.eqpwropc.es
 0.0.0.0 eqpwropc.es
 0.0.0.0 www.eqpwropc.es
 0.0.0.0 enxelt.eqpwropc.es
@@ -425,6 +428,7 @@
 0.0.0.0 lswe6o.eqpwropc.es
 0.0.0.0 mail.eqpwropc.es
 # [a-z0-9]+.gkgqfod.es
+0.0.0.0 *.gkgqfod.es
 0.0.0.0 78ok22.gkgqfod.es
 0.0.0.0 u7zt.gkgqfod.es
 0.0.0.0 tf5c8c.gkgqfod.es
@@ -501,6 +505,7 @@
 0.0.0.0 41rqp.gkgqfod.es
 0.0.0.0 mail.gkgqfod.es
 # [a-z0-9]+.grmpimqnat.es
+0.0.0.0 *.grmpimqnat.es
 0.0.0.0 grmpimqnat.es
 0.0.0.0 www.grmpimqnat.es
 0.0.0.0 m3zg.grmpimqnat.es
@@ -592,12 +597,16 @@
 0.0.0.0 1vsfsv.grmpimqnat.es
 0.0.0.0 mail.grmpimqnat.es
 # [a-z0-9]+.hukqpeny.es
+0.0.0.0 *.hukqpeny.es
 0.0.0.0 hukqpeny.es
 # [a-z0-9]+.igzyhagplqy.es
+0.0.0.0 *.igzyhagplqy.es
 0.0.0.0 igzyhagplqy.es
 # [a-z0-9]+.jzgonpxuildt.es
+0.0.0.0 *.jzgonpxuildt.es
 0.0.0.0 jzgonpxuildt.es
 # [a-z0-9]+.kayatbqdqg.es
+0.0.0.0 *.kayatbqdqg.es
 0.0.0.0 kayatbqdqg.es
 #
 

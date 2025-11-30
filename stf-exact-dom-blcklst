@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 29.11.2025
+# updated: 30.11.2025
 #
 # ahnlab:
 # see asec.ahnlab.com => daily threats in separate repository file
@@ -18192,4 +18192,34 @@
 0.0.0.0 www.farluner.com
 0.0.0.0 api.farluner.com
 0.0.0.0 dev.farluner.com
-
+# online casino
+0.0.0.0 winshark.com
+#
+0.0.0.0 nudevista.net
+0.0.0.0 www.nudevista.net
+0.0.0.0 ww.nudevista.net
+0.0.0.0 ww50.nudevista.net
+0.0.0.0 devmapfre.nudevista.net
+0.0.0.0 my.nudevista.net
+0.0.0.0 video.nudevista.net
+0.0.0.0 toomics.com
+0.0.0.0 videosection.com
+0.0.0.0 faphouse.com
+0.0.0.0 linksprf.com
+0.0.0.0 origin.linksprf.com
+0.0.0.0 preview-r.linksprf.com
+0.0.0.0 r.linksprf.com
+0.0.0.0 rr.linksprf.com
+0.0.0.0 welloff-frame.com
+0.0.0.0 lifoutbultic.com
+0.0.0.0 www.lifoutbultic.com
+0.0.0.0 30246.lifoutbultic.com
+0.0.0.0 31825.lifoutbultic.com
+0.0.0.0 2701.lifoutbultic.com
+0.0.0.0 31396.lifoutbultic.com
+0.0.0.0 cdn.lifoutbultic.com
+0.0.0.0 p242.lifoutbultic.com
+0.0.0.0 viiwbpyl.com
+0.0.0.0 s.viiwbpyl.com
+0.0.0.0 u.viiwbpyl.com
+0.0.0.0 rule34video.com

@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 01.12.2025
+# updated: 04.12.2025
 #
 # ahnlab:
 # see asec.ahnlab.com => daily threats in separate repository file
@@ -18414,3 +18414,59 @@
 0.0.0.0 connect.2dgg.com
 0.0.0.0 secure.2dgg.com
 0.0.0.0 d4550e16-e139-4a4e-8404-a8d18587cc36.2dgg.com
+0.0.0.0 dri3d.com
+0.0.0.0 www.dri3d.com
+0.0.0.0 vpn.dri3d.com
+0.0.0.0 remote.dri3d.com
+0.0.0.0 api.dri3d.com
+0.0.0.0 m.dri3d.com
+0.0.0.0 globalsnn1-new.cc
+0.0.0.0 alphazero1-endscape.cc
+0.0.0.0 choos.store
+0.0.0.0 ww38.choos.store
+0.0.0.0 ww25.choos.store
+0.0.0.0 1hegadgethub.com
+0.0.0.0 www.1hegadgethub.com
+0.0.0.0 alexity.store
+0.0.0.0 www.alexity.store
+0.0.0.0 amaozn.com
+0.0.0.0 www.amaozn.com
+0.0.0.0 audreydo.shop
+0.0.0.0 adsdrivemetrics.top
+0.0.0.0 hilbh.adsdrivemetrics.top
+0.0.0.0 ujtee.adsdrivemetrics.top
+0.0.0.0 alvsx.adsdrivemetrics.top
+0.0.0.0 glwxy.adsdrivemetrics.top
+0.0.0.0 abillardiess.com
+0.0.0.0 nq28gu.abillardiess.com
+0.0.0.0 9yje0s.abillardiess.com
+0.0.0.0 cmh34j.abillardiess.com
+0.0.0.0 mvqlau.abillardiess.com
+0.0.0.0 ydyx1z.abillardiess.com
+0.0.0.0 fe3cg5.abillardiess.com
+0.0.0.0 is3qui.abillardiess.com
+0.0.0.0 qzkd8m.abillardiess.com
+0.0.0.0 vcnu6p.abillardiess.com
+0.0.0.0 f4f3wz.abillardiess.com
+0.0.0.0 3ts81w.abillardiess.com
+0.0.0.0 node2-py-store.com
+0.0.0.0 bloxdrop.com
+0.0.0.0 www.bloxdrop.com
+0.0.0.0 notifications-ws.bloxdrop.com
+0.0.0.0 help.bloxdrop.com
+0.0.0.0 chickenattack.bloxdrop.com
+0.0.0.0 auth-storage.bloxdrop.com
+0.0.0.0 tomatorun.bloxdrop.com
+0.0.0.0 ph-kafka.bloxdrop.com
+0.0.0.0 notifications-dashboard.bloxdrop.com
+0.0.0.0 notifications-api.bloxdrop.com
+0.0.0.0 ph.bloxdrop.com
+0.0.0.0 ph-livestream.bloxdrop.com
+0.0.0.0 nowpayments-internal.bloxdrop.com
+0.0.0.0 support.bloxdrop.com
+0.0.0.0 mta-sts.bloxdrop.com
+0.0.0.0 cms.bloxdrop.com
+0.0.0.0 auth-api.bloxdrop.com
+0.0.0.0 realtime.bloxdrop.com
+0.0.0.0 auth-dashboard.bloxdrop.com
+0.0.0.0 cms-media.bloxdrop.com

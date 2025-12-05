@@ -32,3 +32,32 @@
 0.0.0.0 smartgalery.life
 0.0.0.0 lukoil-azs.pro
 0.0.0.0 settings.icu
+# koi.ai/Shady Panda, see hxxps://www.koi.ai/blog/4-million-browsers-infected-inside-shadypanda-7-year-malware-campaign
+# CC domains
+0.0.0.0 extensionplay.com
+0.0.0.0 www.extensionplay.com
+0.0.0.0 chatgpt.extensionplay.com
+0.0.0.0 nxhdywtfdk.extensionplay.com
+0.0.0.0 pkaaa.extensionplay.com
+0.0.0.0 safeswift.extensionplay.com
+0.0.0.0 speedtest-qiniu.extensionplay.com
+0.0.0.0 supergpt.extensionplay.com
+0.0.0.0 wenxin.extensionplay.com
+0.0.0.0 xingqiu.extensionplay.com
+0.0.0.0 api.extensionplay.com
+0.0.0.0 yearnnewtab.com
+0.0.0.0 www.yearnnewtab.com
+0.0.0.0 extension-static.yearnnewtab.com
+0.0.0.0 extension-version.yearnnewtab.com
+0.0.0.0 api.yearnnewtab.com
+0.0.0.0 api.cgatgpt.net
+0.0.0.0 www.cgatgpt.net
+# exfiltration domains
+0.0.0.0 dergoodting.com
+0.0.0.0 nossl.dergoodting.com
+0.0.0.0 cleanmasters.store
+0.0.0.0 api2.cleanmasters.store
+0.0.0.0 api.cleanmasters.store
+0.0.0.0 gotocdn.com
+0.0.0.0 s-85283.gotocdn.com
+0.0.0.0 s-82923.gotocdn.com

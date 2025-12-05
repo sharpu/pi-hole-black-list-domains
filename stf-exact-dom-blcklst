@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 04.12.2025
+# updated: 05.12.2025
 #
 # ahnlab:
 # see asec.ahnlab.com => daily threats in separate repository file
@@ -18421,6 +18421,8 @@
 0.0.0.0 api.dri3d.com
 0.0.0.0 m.dri3d.com
 0.0.0.0 globalsnn1-new.cc
+0.0.0.0 globalsnn2-new.cc
+0.0.0.0 globalsnn10-new.cc
 0.0.0.0 alphazero1-endscape.cc
 0.0.0.0 choos.store
 0.0.0.0 ww38.choos.store
@@ -18470,3 +18472,10 @@
 0.0.0.0 realtime.bloxdrop.com
 0.0.0.0 auth-dashboard.bloxdrop.com
 0.0.0.0 cms-media.bloxdrop.com
+0.0.0.0 probe-portal.com
+0.0.0.0 goog.probe-portal.com
+0.0.0.0 blox.promo
+0.0.0.0 www.blox.promo
+0.0.0.0 www6.blox.promo
+0.0.0.0 ww2.blox.promo
+

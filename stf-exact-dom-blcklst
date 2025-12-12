@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 10.12.2025
+# updated: 12.12.2025
 #
 # ahnlab:
 # see asec.ahnlab.com => daily threats in separate repository file
@@ -253,7 +253,7 @@
 0.0.0.0 www.bongacam.io
 0.0.0.0 sk.bongacams.com
 0.0.0.0 bongacams-indonesia.com
-0.0.0.0 wwwtheadultreviewer.com
+0.0.0.0 www.theadultreviewer.com
 0.0.0.0 chaturbate.com
 0.0.0.0 www.pornhub.com
 0.0.0.0 bongacams8.com
@@ -18603,3 +18603,20 @@
 0.0.0.0 p3mv2p.proadrast.com
 0.0.0.0 zr3033.proadrast.com
 0.0.0.0 udmwn4.proadrast.com
+# gravity db: *.britageens.com
+0.0.0.0 britageens.com
+0.0.0.0 www.britageens.com
+# gravity db: [a-z0-9]+.colutiff.com
+0.0.0.0 colutiff.com
+0.0.0.0 datinggrowthpath.top
+0.0.0.0 e.datinggrowthpath.top
+0.0.0.0 latevideo68.com
+0.0.0.0 www.latevideo68.com
+0.0.0.0 api.latevideo68.com
+0.0.0.0 whm.latevideo68.com
+0.0.0.0 mail.latevideo68.com
+0.0.0.0 nextgeeker.com
+0.0.0.0 www.nextgeeker.com
+0.0.0.0 microservice-update-s1-bucket.cc
+0.0.0.0 microservice-update-s2-bucket.cc
+

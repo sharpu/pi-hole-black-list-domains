@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 12.12.2025
+# updated: 15.12.2025
 #
 # ahnlab:
 # see asec.ahnlab.com => daily threats in separate repository file
@@ -18619,4 +18619,10 @@
 0.0.0.0 www.nextgeeker.com
 0.0.0.0 microservice-update-s1-bucket.cc
 0.0.0.0 microservice-update-s2-bucket.cc
-
+0.0.0.0 fusionchainedge.com
+0.0.0.0 d505h0ghubcc738u4p70.fusionchainedge.com
+0.0.0.0 rl2ed7xvycibva.fusionchainedge.com
+0.0.0.0 d4vgldghubcc7388bc60.fusionchainedge.com
+0.0.0.0 9ozr6lh5vle1nt.fusionchainedge.com
+0.0.0.0 d4vho40hubcc7389ug80.fusionchainedge.com
+0.0.0.0 polystore9-servicebucket.cc

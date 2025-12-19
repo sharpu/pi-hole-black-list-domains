@@ -1,5 +1,5 @@
 # Created: 05.12.2025
-# Updated: 12.12.2025
+# Updated: 20.12.2025
 
 # hunt.io/octoRAT
 0.0.0.0 158.94.210.76
@@ -149,21 +149,22 @@
 0.0.0.0 omvexe.shop
 # Blackforce phishing kit
 0.0.0.0 renew-netfix.com
-telenet-flix.com
-cuenta-renovacion-es.com
-cuenta-renueva.com
-netfx.actualizar.com
-fixmy-nflix.info
-supportnetfiixsavza.com
-obnovintfx.help
-netfliix-uae.com
-myflx-sub.com
-connectrenew-gateway.com
-faq-help-center.com
-centro-de-ayuda-help.com
+0.0.0.0 telenet-flix.com
+0.0.0.0 cuenta-renovacion-es.com
+0.0.0.0 cuenta-renueva.com
+0.0.0.0 netfx.actualizar.com
+0.0.0.0 fixmy-nflix.info
+0.0.0.0 supportnetfiixsavza.com
+0.0.0.0 obnovintfx.help
+0.0.0.0 netfliix-uae.com
+0.0.0.0 myflx-sub.com
+0.0.0.0 connectrenew-gateway.com
+0.0.0.0 faq-help-center.com
+0.0.0.0 centro-de-ayuda-help.com
 # GhostFrame phishing kit
 # gravity db: *.spectrel-a.biz
 0.0.0.0 spectrel-a.biz
 0.0.0.0 www.spectrel-a.biz
-
-
+# greynoise.io CVE-2025-55182 (React2Shell) Opportunistic Exploitation in the wild
+0.0.0.0 23.235.188.3
+# ... more to add

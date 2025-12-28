@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 20.12.2025
+# updated: 28.12.2025
 #
 # ahnlab:
 # see asec.ahnlab.com => daily threats in separate repository file
@@ -18628,3 +18628,10 @@
 0.0.0.0 polystore9-servicebucket.cc
 0.0.0.0 appyrinceaskeda.com
 0.0.0.0 s3-updatehub.cc
+0.0.0.0 newtab.art
+0.0.0.0 special-msg.com
+0.0.0.0 www.special-msg.com
+0.0.0.0 cpanel.special-msg.com
+0.0.0.0 popflip.co.nz
+
+

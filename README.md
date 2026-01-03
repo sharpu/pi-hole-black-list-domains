@@ -14,4 +14,4 @@ List of manually maintained exact/regex blacklisted domains
 
 # Human security
 
-#
+# satori threat intelligence

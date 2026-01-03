@@ -1,5 +1,5 @@
 # Created: 05.12.2025
-# Updated: 28.12.2025
+# Updated: 03.01.2026
 
 # hunt.io/octoRAT
 0.0.0.0 158.94.210.76
@@ -249,6 +249,38 @@
 0.0.0.0 93.95.112.55
 0.0.0.0 93.95.112.59
 0.0.0.0 niggers4sale.fun
+# darkspectre - hxxps://www.koi.ai/blog/darkspectre-unmasking-the-threat-actor-behind-7-8-million-infected-browsers
+# IOC
+# Domains - The Zoom Stealer
+0.0.0.0 meetingtv.us
+0.0.0.0 www.meetingtv.us
+0.0.0.0 webinarstvus.cloudfunctions.net
+0.0.0.0 zoocorder.firebaseio.com
+# New Domains - Shady Panda
+0.0.0.0 infinitynewtab.com
+0.0.0.0 infinitytab.com
+0.0.0.0 static.infinitytab.com
+0.0.0.0 www.infinitytab.com
+0.0.0.0 jt2x.com
+0.0.0.0 api.jt2x.com
+0.0.0.0 zhuayuya.com
+0.0.0.0 www.zhuayuya.com
+0.0.0.0 58.144.143.27
+0.0.0.0 muo.cc
+0.0.0.0 www.muo.cc
+0.0.0.0 websiteshare.cn
+0.0.0.0 diytab.com
+0.0.0.0 www.diytab.com
+0.0.0.0 userscss.top
+0.0.0.0 www.userscss.top
+0.0.0.0 istartnewtab.com
+0.0.0.0 www.istartnewtab.com
+0.0.0.0 letsearchesp.com
+0.0.0.0 policies.extfans.com
+# New Domains - GhostPoster
+0.0.0.0 gmzdaily.com
+0.0.0.0 mail.gmzdaily.com
+0.0.0.0 www.gmzdaily.com
 
 
 

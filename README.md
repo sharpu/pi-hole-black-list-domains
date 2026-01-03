@@ -9,3 +9,9 @@ List of microsoft telemetry domains to be blocked
 
 List of manually maintained exact blacklisted domains
 List of manually maintained exact/regex blacklisted domains
+
+# The hacker news
+
+# Human security
+
+#

@@ -1,5 +1,5 @@
 # Created: 30.09.2025
-# Updated: 17.10.2025
+# Updated: 07.01.2026
 0.0.0.0 ecosystem.adelaidemetrics.com
 0.0.0.0 dapi-d.adelaidemetrics.com
 0.0.0.0 dapi-s.adelaidemetrics.com
@@ -3839,3 +3839,53 @@
 0.0.0.0 oss-rnfb.invertase.io
 0.0.0.0 react-native-firebase.invertase.io
 #
+0.0.0.0 brightadnetwork.com
+0.0.0.0 www.brightadnetwork.com
+#
+0.0.0.0 magnite.com
+0.0.0.0 www.magnite.com
+0.0.0.0 mcp.magnite.com
+0.0.0.0 seller-adcp.magnite.com
+0.0.0.0 mcp-qa.magnite.com
+0.0.0.0 mcp-dev.magnite.com
+0.0.0.0 seller-adcp-dev.magnite.com
+0.0.0.0 application-ai-playground-qa.magnite.com
+0.0.0.0 ai-gateway.magnite.com
+0.0.0.0 ai-gateway-dev.magnite.com
+0.0.0.0 application-ai-playground-dev.magnite.com
+0.0.0.0 common-api.magnite.com
+0.0.0.0 assets.magnite.com
+0.0.0.0 scim.magnite.com
+0.0.0.0 videos.magnite.com
+0.0.0.0 spider.magnite.com
+0.0.0.0 pba-reporting-service.magnite.com
+0.0.0.0 explorer.magnite.com
+0.0.0.0 streaming.magnite.com
+0.0.0.0 sso.magnite.com
+0.0.0.0 vpn.magnite.com
+0.0.0.0 performance-analytics-dashboard-service.magnite.com
+0.0.0.0 pba-columns-service.magnite.com
+0.0.0.0 performance-analytics-user-reports-service.magnite.com
+0.0.0.0 help.magnite.com
+0.0.0.0 mail.magnite.com
+0.0.0.0 careers.magnite.com
+0.0.0.0 performance-analytics-columns-service.magnite.com
+0.0.0.0 performance-analytics-reporting-service.magnite.com
+0.0.0.0 login.magnite.com
+0.0.0.0 resources.magnite.com
+0.0.0.0 buyerhub.magnite.com
+0.0.0.0 event.magnite.com
+0.0.0.0 cta.magnite.com
+0.0.0.0 investor.magnite.com
+# gravity db regex etry: *.pubmatic
+0.0.0.0 pubmatic.com
+# gravity db regex etry: *.inmobi.com
+0.0.0.0 inmobi.com
+#
+# gravity db regex etry: *.applovin.com
+# gravity db regex entry: [a-z0-9]+.applovin.com - not working properly, dash.applovin.com is still open!
+0.0.0.0 applovin.com4
+
+0.0.0.0 info.magnite.com
+0.0.0.0 go.magnite.com
+

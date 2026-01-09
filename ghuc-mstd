@@ -1,4 +1,5 @@
-# Updated: 09.11.2025
+# Created: 22.09.2025
+# Updated: 09.01.2026
 # Reason: Open Office Installation
 # see: https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Win10Telemetry
 # changed to make it accessible for pi-hole
@@ -68,4 +69,16 @@
 0.0.0.0 aiinfrastructure.static.microsoft
 0.0.0.0 connectivity-test.static.microsoft
 0.0.0.0 insights.static.microsoft
-#
+# due to recent edge startpage nuisances
+0.0.0.0 edgestatic.azureedge.net
+0.0.0.0 edgecdn-embza6g8cacagcbn.z01.azurefd.net
+# otx.alienvault.com
+# hxxps://blog.talosintelligence.com/threat-roundup-0429-0506/
+0.0.0.0 goldcentre.ru
+0.0.0.0 www.goldcentre.ru
+# stately taurus - hxxps://unit42.paloaltonetworks.com/stately-taurus-targets-philippines-government-cyberespionage/
+0.0.0.0 wcpstatit.microsoft.com
+0.0.0.0 45.121.146.113
+# smugx
+0.0.0.0 62.233.57.136
+0.0.0.0 45.134.83.29

@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 07.01.2026
+# updated: 10.01.2026
 #
 # ahnlab:
 # see asec.ahnlab.com => daily threats in separate repository file
@@ -18721,3 +18721,18 @@
 0.0.0.0 search.boffoadsfeeds.com
 0.0.0.0 filter.boffoadsfeeds.com
 0.0.0.0 xml.boffoadsfeeds.com
+0.0.0.0 oundhertobeconsist.org
+0.0.0.0 safevirus.info
+0.0.0.0 www.safevirus.info
+# roblox
+0.0.0.0 Bux.guide
+0.0.0.0 binkspin.com
+0.0.0.0 www.binkspin.com
+0.0.0.0 antitrojanwalls.live
+0.0.0.0 www.antitrojanwalls.live
+0.0.0.0 tusewin.cc
+0.0.0.0 www.tusewin.cc
+0.0.0.0 bevexo.cc
+0.0.0.0 www.bevexo.cc
+
+

@@ -18734,5 +18734,11 @@
 0.0.0.0 www.tusewin.cc
 0.0.0.0 bevexo.cc
 0.0.0.0 www.bevexo.cc
-
+# virustotal => hxxps://jkpolice.gov.in.kashmirattack.exposed/service/home/
+0.0.0.0 37.221.64.134
+#
+0.0.0.0 usersync.tiqcdn.net
+0.0.0.0 www.usersync.tiqcdn.net
+0.0.0.0 domain.tiqcdn.net
+0.0.0.0 tags.tiqcdn.net
 

@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 09.02.2026
+# updated: 16.02.2026
 #
 # ahnlab:
 # see asec.ahnlab.com => daily threats in separate repository file
@@ -19184,6 +19184,22 @@
 0.0.0.0 www.vasewin.at
 0.0.0.0 acio-patron.cc
 0.0.0.0 Ms-team-ping4.com
+0.0.0.0 hfswell.com
+0.0.0.0 www.hfswell.com
+0.0.0.0 rel-s.com
+0.0.0.0 www.rel-s.com
+0.0.0.0 m.rel-s.com
+0.0.0.0 grainporn.com
+0.0.0.0 www.grainporn.com
+0.0.0.0 video.grainporn.com
+0.0.0.0 adelorn.com
+0.0.0.0 wshopmall.com
+0.0.0.0 www.wshopmall.com
+0.0.0.0 blxta.com
+0.0.0.0 ww38.blxta.com
+
+
+
 
 
 

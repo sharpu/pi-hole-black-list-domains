@@ -1,5 +1,5 @@
 # Created: 05.12.2025
-# Updated: 23.01.2026
+# Updated: 08.03.2026
 
 # hunt.io/octoRAT
 0.0.0.0 158.94.210.76
@@ -311,7 +311,20 @@
 0.0.0.0 89.144.31.18
 # ????
 0.0.0.0 87.236.177.9
-
-
-
+# malwarebytes/fake huorong
+0.0.0.0 huoronga.com
+0.0.0.0 www.huoronga.com
+0.0.0.0 huorongcn.com
+0.0.0.0 www.huorongcn.com
+0.0.0.0 huorongh.com
+0.0.0.0 www.huorongh.com
+0.0.0.0 huorongpc.com
+0.0.0.0 www.huorongpc.com
+0.0.0.0 huorongs.com
+0.0.0.0 www.huorongs.com
+0.0.0.0 yandibaiji0203.com
+0.0.0.0 hndqiuebgibuiwqdhr.cyou
+0.0.0.0 pub-b7ce0512b9744e2db68f993e355a03f9.r2.dev
+0.0.0.0 161.248.87.250
+#
 

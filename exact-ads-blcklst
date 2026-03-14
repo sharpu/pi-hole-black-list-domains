@@ -1,5 +1,5 @@
 # Created: 30.09.2025
-# Updated: 07.01.2026
+# Updated: 14.03.2026
 0.0.0.0 ecosystem.adelaidemetrics.com
 0.0.0.0 dapi-d.adelaidemetrics.com
 0.0.0.0 dapi-s.adelaidemetrics.com
@@ -3885,7 +3885,24 @@
 # gravity db regex etry: *.applovin.com
 # gravity db regex entry: [a-z0-9]+.applovin.com - not working properly, dash.applovin.com is still open!
 0.0.0.0 applovin.com4
-
+#
 0.0.0.0 info.magnite.com
 0.0.0.0 go.magnite.com
+# fnp.de
+0.0.0.0 werbung.fnp.de
+0.0.0.0 data-f1e447fbcf.fnp.de
+0.0.0.0 anzeigen.rmm.de
+0.0.0.0 anzeige.rmm.de
+0.0.0.0 yumpu.com
+0.0.0.0 www.yumpu.com
+0.0.0.0 cdntrf.com
+0.0.0.0 adstxt.cdntrf.com
+0.0.0.0 abd.cdntrf.com
+0.0.0.0 cmp.cdntrf.com
+0.0.0.0 217.20.54.34
+0.0.0.0 84.17.63.145
+0.0.0.0 opencmp.net
+0.0.0.0 www.opencmp.net
+0.0.0.0 amp.opencmp.net
+0.0.0.0 stats.opencmp.net
 

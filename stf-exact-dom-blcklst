@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 08.03.2026
+# updated: 14.03.2026
 #
 # ahnlab:
 # see asec.ahnlab.com => daily threats in separate repository file
@@ -19368,6 +19368,37 @@
 0.0.0.0 direct.pornhits.com
 0.0.0.0 member.pornhits.com
 0.0.0.0 tn.pornhits.com
+0.0.0.0 alpha-centavr.cc
+0.0.0.0 explorer.vg
+0.0.0.0 beestark.com
+0.0.0.0 www.beestark.com
+0.0.0.0 threatcleaner.info
+0.0.0.0 www.threatcleaner.info
+0.0.0.0 shorturl.at
+0.0.0.0 www.shorturl.at
+0.0.0.0 wwww.shorturl.at
+0.0.0.0 mail.shorturl.at
+0.0.0.0 ftp.shorturl.at
+0.0.0.0 weoklu.com
+0.0.0.0 www.weoklu.com
+0.0.0.0 prow.com
+0.0.0.0 hamstep.com
+0.0.0.0 www.hamstep.com
+0.0.0.0 milfhookup.com
+0.0.0.0 www.milfhookup.com
+0.0.0.0 digitalonlinesafety.com
+0.0.0.0 l.digitalonlinesafety.com
+0.0.0.0 t.digitalonlinesafety.com
+# gravity db regex rule: *.chainbridgeworks.co.in
+0.0.0.0 chainbridgeworks.co.in
+# gravity db regex rule: *.visishized.com
+0.0.0.0 visishized.com
+# gravity db regex rule: *.esslymph.com
+0.0.0.0 esslymph.com
+0.0.0.0 lemongifted.com
+0.0.0.0 www.lemongifted.com
+0.0.0.0 drakeshark.com
+
 
 
 

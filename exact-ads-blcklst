@@ -3902,7 +3902,18 @@
 0.0.0.0 217.20.54.34
 0.0.0.0 84.17.63.145
 0.0.0.0 opencmp.net
+0.0.0.0 cdn.opencmp.net
 0.0.0.0 www.opencmp.net
 0.0.0.0 amp.opencmp.net
 0.0.0.0 stats.opencmp.net
+0.0.0.0 ecr-microfrontend.production.ippen.space
+0.0.0.0 uiwiwidget.production.ippen.space
+0.0.0.0 uiwibff.production.ippen.space
+0.0.0.0 ecr-api.production.ippen.space
+0.0.0.0 benelph.de
+0.0.0.0 hirsung.de
+0.0.0.0 ondemand.revenuereel.com
+0.0.0.0 download.revenuereel.com
+0.0.0.0 playout.revenuereel.com
+0.0.0.0 vg03.met.vgwort.de
 

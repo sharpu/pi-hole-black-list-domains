@@ -1,4 +1,5 @@
 # updated: 18.11.2025
+# updated: 21.03.2026
 # see https://github.com/TheBlockList/Blocklist/blob/master/google
 # changed to be accessible for pi-hole
 # https://raw.githubusercontent.com/sharpu/pi-hole-black-list-domains/refs/heads/main/ghuc-google-domains
@@ -105,3 +106,30 @@
 0.0.0.0 adactivity.ads.gms.android.google.com
 0.0.0.0 adview.ads.gms.android.google.com
 #
+0.0.0.0 1.google.com
+0.0.0.0 profile.google.com
+0.0.0.0 alt-1100431.profile.google.com
+0.0.0.0 alt-66.profile.google.com
+0.0.0.0 alt-49007003.profile.google.com
+0.0.0.0 alt-1441001.profile.google.com
+0.0.0.0 alt-12102710274.profile.google.com
+0.0.0.0 alt-3312.profile.google.com
+0.0.0.0 alt-1100357.profile.google.com
+0.0.0.0 alt-0240522.profile.google.com
+0.0.0.0 alt-200502005.profile.google.com
+0.0.0.0 alt-1121.profile.google.com
+0.0.0.0 alt-12001.profile.google.com
+0.0.0.0 alt-11001102.profile.google.com
+#
+0.0.0.0 ad.google.com
+0.0.0.0 ad2.google.com
+0.0.0.0 ads.google.com
+0.0.0.0 ads1.google.com
+0.0.0.0 adscode.google.com
+0.0.0.0 adsense.google.com
+0.0.0.0 adsdatahub.google.com
+0.0.0.0 adsdataconnector.google.com
+0.0.0.0 adscreativestudio.google.com
+0.0.0.0 adconfig.google.com
+0.0.0.0 admanager.google.com
+0.0.0.0 admob.google.com

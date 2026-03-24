@@ -1,5 +1,5 @@
 # Created: 22.09.2025
-# Updated: 09.01.2026
+# Updated: 24.03.2026
 # Reason: Open Office Installation
 # see: https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Win10Telemetry
 # changed to make it accessible for pi-hole
@@ -82,3 +82,5 @@
 # smugx
 0.0.0.0 62.233.57.136
 0.0.0.0 45.134.83.29
+# ms edge related
+0.0.0.0 lma.npaw.com

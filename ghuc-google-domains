@@ -1,5 +1,5 @@
 # updated: 18.11.2025
-# updated: 21.03.2026
+# updated: 25.03.2026
 # see https://github.com/TheBlockList/Blocklist/blob/master/google
 # changed to be accessible for pi-hole
 # https://raw.githubusercontent.com/sharpu/pi-hole-black-list-domains/refs/heads/main/ghuc-google-domains
@@ -133,3 +133,7 @@
 0.0.0.0 adconfig.google.com
 0.0.0.0 admanager.google.com
 0.0.0.0 admob.google.com
+#
+0.0.0.0 o.pki.goog
+0.0.0.0 pki-goog.l.google.com
+0.0.0.0 ajax.googleapis.com

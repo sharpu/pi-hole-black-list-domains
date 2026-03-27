@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 25.03.2026
+# updated: 27.03.2026
 #
 # ahnlab:
 # see asec.ahnlab.com => daily threats in separate repository file
@@ -19477,6 +19477,23 @@
 0.0.0.0 silverhost.vg
 # gravity.db entry: *.letsdraw.tv
 0.0.0.0 letsdraw.tv
+0.0.0.0 deluxe.gl
+0.0.0.0 robloxsummer.com
+0.0.0.0 www.robloxsummer.com
+0.0.0.0 ww25.robloxsummer.com
+0.0.0.0 ww1.robloxsummer.com
+0.0.0.0 malware.com
+0.0.0.0 www.malware.com
+0.0.0.0 fake-download.malware.com
+0.0.0.0 c2.malware.com
+0.0.0.0 tracking.malware.com
+0.0.0.0 azure-nexus.malware.com
+0.0.0.0 cdn.malware.com
+0.0.0.0 wwww.malware.com
+0.0.0.0 ftp.malware.com
+0.0.0.0 cnc.malware.com
+0.0.0.0 student12.malware.com
+
 
 
 

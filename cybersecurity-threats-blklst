@@ -464,4 +464,22 @@
 0.0.0.0 212.118.55.211
 0.0.0.0 delete.me
 0.0.0.0 covet.me
+# palo alto unit 42 /
+# EggStremeFuel backdoor
+# Masol remote access Trojan (RAT)
+# EggStreme Loader (which delivered the comprehensive Gorem RAT with keylogging)
+# A simple data theft tool we internally label TrackBak stealer
+0.0.0.0 103.15.29.17
+0.0.0.0 103.131.95.107
+0.0.0.0 103.122.164.106
+0.0.0.0 109.248.24.177
+0.0.0.0 120.89.46.135
+0.0.0.0 distrilyy.net
+0.0.0.0 fikksvex.com
+0.0.0.0 laichingte.net
+0.0.0.0 popnike-share.com
+0.0.0.0 shepinspect.com
+0.0.0.0 theuklg.com
+0.0.0.0 webmail.homesmountain.com
+0.0.0.0 webmail.rpcthai.com
 

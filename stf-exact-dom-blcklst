@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 27.03.2026
+# updated: 09.05.2026
 #
 # ahnlab:
 # see asec.ahnlab.com => daily threats in separate repository file
@@ -19493,6 +19493,48 @@
 0.0.0.0 ftp.malware.com
 0.0.0.0 cnc.malware.com
 0.0.0.0 student12.malware.com
+0.0.0.0 Verifyprize.com
+0.0.0.0 www.Verifyprize.com
+0.0.0.0 Bigbrainsholdings.com
+0.0.0.0 flowrentixcore.co.in
+0.0.0.0 d7tptn8hubcc73c1jql0.flowrentixcore.co.in
+0.0.0.0 d7tahb0hubcc73bfq65g.flowrentixcore.co.in
+0.0.0.0 d7tmb7ohubcc73brg1g0.flowrentixcore.co.in
+0.0.0.0 d7tohnohubcc73busfpg.flowrentixcore.co.in
+0.0.0.0 d7tpf20hubcc73c0ncog.flowrentixcore.co.in
+0.0.0.0 9s2ka8yvlqnxph.flowrentixcore.co.in
+0.0.0.0 d7tn628hubcc73bsoosg.flowrentixcore.co.in
+0.0.0.0 d7tdjjohubcc73bjdujg.flowrentixcore.co.in
+0.0.0.0 d7tpibohubcc73c0v46g.flowrentixcore.co.in
+0.0.0.0 9nncz6fpkvfhir.flowrentixcore.co.in
+0.0.0.0 d7t1geghubcc73b2vkqg.flowrentixcore.co.in
+0.0.0.0 ufjwym1iw4t1lj.flowrentixcore.co.in
+0.0.0.0 d7t2iqghubcc73b48j3g.flowrentixcore.co.in
+0.0.0.0 d7t6jnghubcc73b9rdmg.flowrentixcore.co.in
+0.0.0.0 d7se5r0hubcc73a6fd30.flowrentixcore.co.in
+0.0.0.0 x22x2e2sb9lhi4.flowrentixcore.co.in
+0.0.0.0 d7scpcohubcc73a4niv0.flowrentixcore.co.in
+0.0.0.0 d7sfnhohubcc73a8ejm0.flowrentixcore.co.in
+0.0.0.0 d7sbkrghubcc73a33070.flowrentixcore.co.in
+0.0.0.0 d7soi3ohubcc73asg6f0.flowrentixcore.co.in
+0.0.0.0 d7siq5ghubcc73acs4a0.flowrentixcore.co.in
+0.0.0.0 d7sg1u0hubcc73a91650.flowrentixcore.co.in
+0.0.0.0 3gpul6w4xkajlu.flowrentixcore.co.in
+0.0.0.0 d7sbmj8hubcc73a3594g.flowrentixcore.co.in
+0.0.0.0 anikai.to
+0.0.0.0 www.anikai.to
+0.0.0.0 www1.anikai.to
+0.0.0.0 i.anikai.to
+0.0.0.0 static.anikai.to
+0.0.0.0 deezwin.com
+0.0.0.0 www.deezwin.com
+0.0.0.0 play.deezwin.com
+0.0.0.0 bestfreemaps.com
+0.0.0.0 www.bestfreemaps.com
+0.0.0.0 analytics.bestfreemaps.com
+0.0.0.0 www2.bestfreemaps.com
+0.0.0.0 Onegamb.at
+0.0.0.0 www.Onegamb.at
 
 
 

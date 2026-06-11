@@ -1,6 +1,6 @@
 #
 # created: 18.04.2025
-# updated: 09.05.2026
+# updated: 11.06.2026
 #
 # ahnlab:
 # see asec.ahnlab.com => daily threats in separate repository file
@@ -19535,6 +19535,14 @@
 0.0.0.0 www2.bestfreemaps.com
 0.0.0.0 Onegamb.at
 0.0.0.0 www.Onegamb.at
+0.0.0.0 liveramp.de
+0.0.0.0 daa.net
+0.0.0.0 consent.daa.net
+0.0.0.0 saim.de
+0.0.0.0 www.saim.de
+0.0.0.0 claimscompass.saim.de
+0.0.0.0 m.saim.de
+0.0.0.0 hostmaster.saim.de
 
 
 

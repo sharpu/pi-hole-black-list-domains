@@ -482,6 +482,12 @@
 0.0.0.0 theuklg.com
 0.0.0.0 webmail.homesmountain.com
 0.0.0.0 webmail.rpcthai.com
+# havoc
+0.0.0.0 146.190.48.229
+0.0.0.0 pinimg.com
+0.0.0.0 i.pinimg.com
+0.0.0.0 ttwweatterarartgea.ga
+0.0.0.0 time.ttwweatterarartgea.ga
 # poisson
 # hxxps://www.catonetworks.com/blog/cato-ctrl-operation-poisson-analyzing-a-cybercriminals-entire-operation/
 # Havoc C2 teamserver

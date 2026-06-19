@@ -1,5 +1,5 @@
 # Created: 30.09.2025
-# Updated: 11.06.2026
+# Updated: 19.06.2026
 0.0.0.0 ecosystem.adelaidemetrics.com
 0.0.0.0 dapi-d.adelaidemetrics.com
 0.0.0.0 dapi-s.adelaidemetrics.com
@@ -4073,6 +4073,8 @@
 0.0.0.0 autodiscover.rmm.de
 0.0.0.0 www.lystmagasinet.com
 0.0.0.0 lystmagasinet.com
+0.0.0.0 poloptrex.com
+
 
 
 

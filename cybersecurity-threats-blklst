@@ -1,5 +1,5 @@
 # Created: 05.12.2025
-# Updated: 04.04.2026
+# Updated: 19.06.2026
 
 # hunt.io/octoRAT
 0.0.0.0 158.94.210.76
@@ -482,4 +482,143 @@
 0.0.0.0 theuklg.com
 0.0.0.0 webmail.homesmountain.com
 0.0.0.0 webmail.rpcthai.com
+# poisson
+# hxxps://www.catonetworks.com/blog/cato-ctrl-operation-poisson-analyzing-a-cybercriminals-entire-operation/
+# Havoc C2 teamserver
+0.0.0.0 217.154.217.139
+# C2 redirector
+0.0.0.0 217.154.162.45
+# TLS certificate CN for both servers
+0.0.0.0 wawsenti.duckdsn.org
+# payload staging
+0.0.0.0 pois43.s3.eu-central-003.backblazeb2.com
+0.0.0.0 w456w5.s3.eu-central-003.backblazeb2.com
+0.0.0.0 sentiwaw.s3.eu-central-003.backblazeb2.com
+# AI browser extensions
+# RAT
+0.0.0.0 qubecare.ai
+0.0.0.0 www.qubecare.ai
+0.0.0.0 mcp.qubecare.ai
+0.0.0.0 mcp-browser.qubecare.ai
+0.0.0.0 adi.qubecare.ai
+0.0.0.0 analytics.qubecare.ai
+0.0.0.0 app.qubecare.ai
+0.0.0.0 auth.qubecare.ai
+0.0.0.0 browser.qubecare.ai
+0.0.0.0 browser2.qubecare.ai
+0.0.0.0 bug.qubecare.ai
+0.0.0.0 cdn.qubecare.ai
+0.0.0.0 dev.qubecare.ai
+0.0.0.0 livekit-turn.qubecare.ai
+0.0.0.0 livekit.qubecare.ai
+0.0.0.0 livekit2-turn.qubecare.ai
+0.0.0.0 livekit2.qubecare.ai
+0.0.0.0 lowcoder.qubecare.ai
+0.0.0.0 n8n-dev.qubecare.ai
+0.0.0.0 n8n.qubecare.ai
+0.0.0.0 pod.qubecare.ai
+0.0.0.0 proxy.qubecare.ai
+0.0.0.0 s3-admin.qubecare.ai
+0.0.0.0 s3-console.qubecare.ai
+0.0.0.0 s3.qubecare.ai
+0.0.0.0 staging.qubecare.ai
+0.0.0.0 supabase.qubecare.ai
+0.0.0.0 taiga.qubecare.ai
+0.0.0.0 vpn.qubecare.ai
+0.0.0.0 worksace.qubecare.ai
+0.0.0.0 workspace.qubecare.ai
+# supersonic
+0.0.0.0 gosupersonic.email
+0.0.0.0 www.gosupersonic.email
+0.0.0.0 api.gosupersonic.email
+0.0.0.0 reverserecruiting.io
+0.0.0.0 www.reverserecruiting.io
+0.0.0.0 api.reverserecruiting.io
+0.0.0.0 app.reverserecruiting.io
+0.0.0.0 n8n.reverserecruiting.io
+0.0.0.0 scraping.reverserecruiting.io
+# chat ai for chrome
+0.0.0.0 chatgptforchrome.com
+0.0.0.0 www.chatgptforchrome.com
+0.0.0.0 ww1.chatgptforchrome.com
+0.0.0.0 ww12.chatgptforchrome.com
+# brand impersonator: ai photo and video editor
+0.0.0.0 xuix.top
+0.0.0.0 www.xuix.top
+0.0.0.0 admin.xuix.top
+0.0.0.0 backend.xuix.top
+0.0.0.0 testing.xuix.top
+0.0.0.0 panel.xuix.top
+0.0.0.0 apps.xuix.top
+0.0.0.0 app.xuix.top
+0.0.0.0 mail.xuix.top
+0.0.0.0 m.xuix.top
+0.0.0.0 cdn.xuix.top
+0.0.0.0 dev.xuix.top
+0.0.0.0 login.xuix.top
+0.0.0.0 test.xuix.top
+0.0.0.0 newextensioninstallweb.com
+0.0.0.0 www.newextensioninstallweb.com
+0.0.0.0 thankyou2.newextensioninstallweb.com
+0.0.0.0 thankyou1.newextensioninstallweb.com
+0.0.0.0 magic3.newextensioninstallweb.com
+0.0.0.0 huiyiai.net
+0.0.0.0 www.huiyiai.net
+0.0.0.0 cloudapi.huiyiai.net
+0.0.0.0 lenovo.huiyiai.net
+0.0.0.0 pdf.huiyiai.net
+0.0.0.0 cdn.huiyiai.net
+0.0.0.0 ad.huiyiai.net
+0.0.0.0 yiban.io
+0.0.0.0 www.yiban.io
+0.0.0.0 confluence.yiban.io
+0.0.0.0 cloudapi.yiban.io
+0.0.0.0 kf.yiban.io
+0.0.0.0 ad.yiban.io
+0.0.0.0 aiwriter.yiban.io
+0.0.0.0 wxproxy.yiban.io
+0.0.0.0 static.yiban.io
+0.0.0.0 work.yiban.io
+0.0.0.0 gitlab.yiban.io
+0.0.0.0 jira.yiban.io
+0.0.0.0 internalapi.yiban.io
+0.0.0.0 live.yiban.io
+0.0.0.0 kehulaile.yiban.io
+0.0.0.0 tcdn.yiban.io
+0.0.0.0 museum.yiban.io
+0.0.0.0 afflatus-manage.yiban.io
+0.0.0.0 blog.yiban.io
+0.0.0.0 edit.yiban.io
+0.0.0.0 youzan.yiban.io
+0.0.0.0 adminxjb955fuck3.yiban.io
+0.0.0.0 wb.yiban.io
+0.0.0.0 apollo.yiban.io
+0.0.0.0 youzancdn.yiban.io
+0.0.0.0 m.yiban.io
+0.0.0.0 bandu.yiban.io
+0.0.0.0 pic.yiban.io
+0.0.0.0 bookstore.yiban.io
+0.0.0.0 cdn2.yiban.io
+0.0.0.0 editassets.yiban.io
+0.0.0.0 api.yiban.io
+0.0.0.0 mcdn.yiban.io
+0.0.0.0 quizapi.yiban.io
+0.0.0.0 quizapi2.yiban.io
+0.0.0.0 quizws.yiban.io
+0.0.0.0 socket.yiban.io
+0.0.0.0 upload.yiban.io
+0.0.0.0 wximg.yiban.io
+0.0.0.0 note.yiban.io
+0.0.0.0 t.yiban.io
+0.0.0.0 w.yiban.io
+0.0.0.0 xs.yiban.io
+0.0.0.0 assets.yiban.io
+0.0.0.0 ab.yiban.io
+0.0.0.0 notecdn.yiban.io
+0.0.0.0 cdn.yiban.io
+# affiliate hijacking campaign
+0.0.0.0 10xprofit.io
+0.0.0.0 www.10xprofit.io
+0.0.0.0 app.10xprofit.io
+
 

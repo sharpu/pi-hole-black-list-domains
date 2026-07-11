@@ -1,5 +1,5 @@
 # Created: 30.09.2025
-# Updated: 30.06.2026
+# Updated: 11.07.2026
 0.0.0.0 ecosystem.adelaidemetrics.com
 0.0.0.0 dapi-d.adelaidemetrics.com
 0.0.0.0 dapi-s.adelaidemetrics.com
@@ -4366,7 +4366,100 @@
 0.0.0.0 n.youragemeets.com
 0.0.0.0 track.youragemeets.com
 #
-
-
-
-
+0.0.0.0 de.yahoo.com
+0.0.0.0 www.de.yahoo.com
+0.0.0.0 blumio.de.yahoo.com
+0.0.0.0 wetter.de.yahoo.com
+0.0.0.0 kalkofe.de.yahoo.com
+0.0.0.0 sport.de.yahoo.com
+0.0.0.0 in1.de.yahoo.com
+0.0.0.0 perf.de.yahoo.com
+0.0.0.0 pilot1.de.yahoo.com
+0.0.0.0 qa5.de.yahoo.com
+0.0.0.0 shopping.de.yahoo.com
+0.0.0.0 m.de.yahoo.com
+0.0.0.0 finanzen.de.yahoo.com
+#
+0.0.0.0 amoredate.com
+0.0.0.0 www.amoredate.com
+0.0.0.0 track.amoredate.com
+0.0.0.0 payment.amoredate.com
+0.0.0.0 api.amoredate.com
+0.0.0.0 m.amoredate.com
+0.0.0.0 n.amoredate.com
+0.0.0.0 ru.amoredate.com
+0.0.0.0 de.amoredate.com
+0.0.0.0 en.amoredate.com
+0.0.0.0 fr.amoredate.com
+0.0.0.0 it.amoredate.com
+0.0.0.0 thisromance.com
+0.0.0.0 www.thisromance.com
+0.0.0.0 track.thisromance.com
+0.0.0.0 n.thisromance.com
+0.0.0.0 goldenagesouls.com
+0.0.0.0 www.goldenagesouls.com
+0.0.0.0 track.goldenagesouls.com
+0.0.0.0 n.goldenagesouls.com
+0.0.0.0 callyourdate.com
+0.0.0.0 www.callyourdate.com
+0.0.0.0 track.callyourdate.com
+0.0.0.0 n.callyourdate.com
+0.0.0.0 placetochat.com
+0.0.0.0 www.placetochat.com
+0.0.0.0 track.placetochat.com
+0.0.0.0 community.placetochat.com
+0.0.0.0 m.placetochat.com
+0.0.0.0 api.placetochat.com
+0.0.0.0 n.placetochat.com
+0.0.0.0 funchatt.com
+0.0.0.0 track.funchatt.com
+0.0.0.0 community.funchatt.com
+0.0.0.0 payment.funchatt.com
+0.0.0.0 n.funchatt.com
+0.0.0.0 m.funchatt.com
+0.0.0.0 api.funchatt.com
+0.0.0.0 fudgeterra.com
+#
+0.0.0.0 nuraka.com
+# 0.0.0.0 www.nuraka.com
+0.0.0.0 autodiscover.nuraka.com
+0.0.0.0 ftp.nuraka.com
+0.0.0.0 dc-66d7807bf2af.nuraka.com
+0.0.0.0 cpcontacts.nuraka.com
+0.0.0.0 cpcalendars.nuraka.com
+0.0.0.0 mail.nuraka.com
+0.0.0.0 webdisk.nuraka.com
+0.0.0.0 webmail.nuraka.com
+0.0.0.0 cpanel.nuraka.com
+#
+0.0.0.0 russianwoman.ca
+0.0.0.0 www.russianwoman.ca
+0.0.0.0 amateurmatch.com
+0.0.0.0 www.amateurmatch.com
+0.0.0.0 ad.amateurmatch.com
+0.0.0.0 blog.amateurmatch.com
+0.0.0.0 flirt.amateurmatch.com
+0.0.0.0 graphics.amateurmatch.com
+0.0.0.0 images2.amateurmatch.com
+0.0.0.0 livecams.amateurmatch.com
+0.0.0.0 ms.amateurmatch.com
+0.0.0.0 secure.amateurmatch.com
+0.0.0.0 sendgrid.amateurmatch.com
+0.0.0.0 streams1.amateurmatch.com
+0.0.0.0 streams2.amateurmatch.com
+0.0.0.0 welcome29.amateurmatch.com
+0.0.0.0 www3.amateurmatch.com
+0.0.0.0 mobile.amateurmatch.com
+0.0.0.0 cdn.amateurmatch.com
+0.0.0.0 ads.amateurmatch.com
+0.0.0.0 cdn2.amateurmatch.com
+0.0.0.0 tendermeets.com
+0.0.0.0 maturesinglesnearby.com
+0.0.0.0 www.maturesinglesnearby.com
+0.0.0.0 delivery.maturesinglesnearby.com
+0.0.0.0 api.maturesinglesnearby.com
+0.0.0.0 ajax.maturesinglesnearby.com
+0.0.0.0 json.maturesinglesnearby.com
+0.0.0.0 mail.maturesinglesnearby.com
+0.0.0.0 velmorde.com
+0.0.0.0 www.velmorde.com

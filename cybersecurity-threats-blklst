@@ -1,5 +1,5 @@
 # Created: 05.12.2025
-# Updated: 11.07.2026
+# Updated: 08.08.2026
 
 # hunt.io/octoRAT
 0.0.0.0 158.94.210.76
@@ -910,4 +910,9 @@
 0.0.0.0 faq.packetsdk.com
 0.0.0.0 dashboard.packetsdk.com
 0.0.0.0 api.packetsdk.com
-
+# zbtlink backdoor
+0.0.0.0 zbtctl.epplink.net
+0.0.0.0 endlessdoors.zbtctl.epplink.net
+0.0.0.0 online-string.com
+0.0.0.0 rbdg4nzqadui.wikaba.com # blocked by regex *.wikaba.com
+# 

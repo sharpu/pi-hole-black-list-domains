@@ -1,5 +1,5 @@
 # Created: 05.12.2025
-# Updated: 08.08.2026
+# Updated: 09.08.2026
 
 # hunt.io/octoRAT
 0.0.0.0 158.94.210.76
@@ -915,4 +915,26 @@
 0.0.0.0 endlessdoors.zbtctl.epplink.net
 0.0.0.0 online-string.com
 0.0.0.0 rbdg4nzqadui.wikaba.com # blocked by regex *.wikaba.com
-# 
+# UNC6671 vishing attacks
+0.0.0.0 passkeyhelpdesk.com
+0.0.0.0 moodys.passkeyhelpdesk.com
+0.0.0.0 cmegroup.passkeyhelpdesk.com
+0.0.0.0 dnow.passkeyhelpdesk.com
+0.0.0.0 modernatx.passkeyhelpdesk.com
+0.0.0.0 setupsso.com
+0.0.0.0 loandepot.setupsso.com
+0.0.0.0 cirrus.setupsso.com
+0.0.0.0 idokta.com
+0.0.0.0 www.idokta.com
+0.0.0.0 www1.idokta.com
+0.0.0.0 www6.idokta.com
+0.0.0.0 www42.idokta.com
+0.0.0.0 macerich.idokta.com
+0.0.0.0 gamestop.idokta.com
+0.0.0.0 yelp.idokta.com
+0.0.0.0 suncountry.idokta.com
+0.0.0.0 blockone.idokta.com
+
+
+
+purple.idokta.com

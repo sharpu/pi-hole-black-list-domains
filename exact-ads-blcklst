@@ -1,5 +1,5 @@
 # Created: 30.09.2025
-# Updated: 11.07.2026
+# Updated: 09.08.2026
 0.0.0.0 ecosystem.adelaidemetrics.com
 0.0.0.0 dapi-d.adelaidemetrics.com
 0.0.0.0 dapi-s.adelaidemetrics.com
@@ -4463,3 +4463,36 @@
 0.0.0.0 mail.maturesinglesnearby.com
 0.0.0.0 velmorde.com
 0.0.0.0 www.velmorde.com
+# viralize.tv
+0.0.0.0 viralize.tv
+0.0.0.0 www.viralize.tv
+0.0.0.0 ads.viralize.tv
+0.0.0.0 api-debug-auth.viralize.tv
+0.0.0.0 api.viralize.tv
+0.0.0.0 auth.viralize.tv
+0.0.0.0 cdn-gce.viralize.tv
+0.0.0.0 cdn.viralize.tv
+0.0.0.0 cdn2.viralize.tv
+0.0.0.0 cdn3.viralize.tv
+0.0.0.0 content.viralize.tv
+0.0.0.0 dt.viralize.tv
+0.0.0.0 ftp.viralize.tv
+0.0.0.0 mail.viralize.tv
+0.0.0.0 monetize-static.viralize.tv
+0.0.0.0 monetize-stream.viralize.tv
+0.0.0.0 pop.viralize.tv
+0.0.0.0 rax-cdn.viralize.tv
+0.0.0.0 s2s.viralize.tv
+0.0.0.0 smtp.viralize.tv
+0.0.0.0 static-ci2-eu.viralize.tv
+0.0.0.0 static-gce.viralize.tv
+0.0.0.0 static-qa.viralize.tv
+0.0.0.0 static-qa2-eu.viralize.tv
+0.0.0.0 static-qa2.viralize.tv
+0.0.0.0 static.viralize.tv
+0.0.0.0 static2.viralize.tv
+0.0.0.0 static3.viralize.tv
+0.0.0.0 static4.viralize.tv
+0.0.0.0 test-sh.viralize.tv
+0.0.0.0 test-sh2.viralize.tv
+

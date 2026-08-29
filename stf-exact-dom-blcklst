@@ -1,6 +1,8 @@
 #
 # created: 18.04.2025
-# updated: 11.06.2026
+# updated: 29.08.2026
+#
+# commented 0.0.0.0 stripe.com
 #
 # ahnlab:
 # see asec.ahnlab.com => daily threats in separate repository file
@@ -2648,7 +2650,7 @@
 0.0.0.0 tushy.com
 0.0.0.0 phncdn.com
 0.0.0.0 247jav.net
-0.0.0.0 clubstripes.com
+0.0.0.0 clubs.com
 0.0.0.0 pornhub.org
 0.0.0.0 powerfetish.com
 0.0.0.0 xgroovy.com
@@ -3366,7 +3368,7 @@
 0.0.0.0 securevault.top
 0.0.0.0 website-files.com
 0.0.0.0 lovoo.com
-0.0.0.0 stripe.com
+# 0.0.0.0 stripe.com
 0.0.0.0 cloudflareinsights.com
 0.0.0.0 prizestash.com
 0.0.0.0 pbmsoultions.com

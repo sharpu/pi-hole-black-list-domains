@@ -5,7 +5,7 @@
 # test: *.python-distribute.org
 # => works as regex
 # 0.0.0.0 *.python-distribute.org
-# => does not works!
+# => does not work!
 0.0.0.0 python-distribute.org
 0.0.0.0 www.python-distribute.org
 0.0.0.0 widget.python-distribute.org

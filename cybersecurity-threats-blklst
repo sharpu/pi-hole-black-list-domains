@@ -1,5 +1,5 @@
 # Created: 05.12.2025
-# Updated: 18.09.2026
+# Updated: 08.10.2026
 
 # hunt.io/octoRAT
 0.0.0.0 158.94.210.76
@@ -1021,3 +1021,31 @@
 # phishing
 0.0.0.0 facebookfanpage.com
 0.0.0.0 www.facebookfanpage.com
+# blockchain abuse targeting hotels / cofense[.]com
+# EtherRAT
+0.0.0.0 gateway001kir.com
+0.0.0.0 www.gateway001kir.com
+0.0.0.0 sslgateway001.com
+0.0.0.0 waygatterol002.com
+0.0.0.0 lotus-vista-additions-joshua.trycloudflare.com
+0.0.0.0 perrine90-deltajohnsons.com
+0.0.0.0 www.perrine90-deltajohnsons.com
+0.0.0.0 kadmecnp-643laolmd.com
+0.0.0.0 lermontov-656idlop.com
+0.0.0.0 dns1.southafricanorth.cloudapp.azure.com
+0.0.0.0 allres.southafricanorth.cloudapp.azure.com
+0.0.0.0 luxmaxing.southafricanorth.cloudapp.azure.com
+0.0.0.0 update.norwayeast.cloudapp.azure.com
+0.0.0.0 synctimes.australiaeast.cloudapp.azure.com
+0.0.0.0 fdffofofofo4.com
+0.0.0.0 opencode-setup-al.com
+# TONResolver
+0.0.0.0 amanohuguta.cfd
+0.0.0.0 hsaertyuoang34.sbs
+0.0.0.0 zloapobikahy23.bond
+0.0.0.0 tonajukbhuakpo2.shop
+0.0.0.0 www.tonajukbhuakpo2.shop
+0.0.0.0 onapi.tonajukbhuakpo2.shop
+0.0.0.0 njzlopghznkamkl.cfd
+0.0.0.0 nuypoiaklber.lol
+#

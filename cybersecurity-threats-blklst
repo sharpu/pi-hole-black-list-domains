@@ -1,5 +1,5 @@
 # Created: 05.12.2025
-# Updated: 08.10.2026
+# Updated: 12.10.2026
 
 # hunt.io/octoRAT
 0.0.0.0 158.94.210.76
@@ -1119,3 +1119,7 @@
 0.0.0.0 api.rathat.live
 0.0.0.0 admin.rathat.live
 0.0.0.0 dramaspoolcoa.com
+# 
+0.0.0.0 yfdpcono.com
+0.0.0.0 www.yfdpcono.com
+#

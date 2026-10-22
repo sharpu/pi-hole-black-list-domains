@@ -1,5 +1,5 @@
 # Created: 05.12.2025
-# Updated: 12.10.2026
+# Updated: 22.10.2026
 
 # hunt.io/octoRAT
 0.0.0.0 158.94.210.76
@@ -1122,4 +1122,15 @@
 # 
 0.0.0.0 yfdpcono.com
 0.0.0.0 www.yfdpcono.com
-#
+# aomei
+0.0.0.0 8.210.84.56
+0.0.0.0 8.218.65.184
+0.0.0.0 47.239.60.117
+0.0.0.0 storage-data.com
+0.0.0.0 promotion.storage-data.com
+0.0.0.0 www.storage-data.com
+0.0.0.0 aomei.storage-data.com
+
+
+
+

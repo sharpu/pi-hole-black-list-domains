@@ -1,5 +1,5 @@
 # Created: 30.09.2025
-# Updated: 09.08.2026
+# Updated: 22.10.2026
 0.0.0.0 ecosystem.adelaidemetrics.com
 0.0.0.0 dapi-d.adelaidemetrics.com
 0.0.0.0 dapi-s.adelaidemetrics.com
@@ -4495,4 +4495,34 @@
 0.0.0.0 static4.viralize.tv
 0.0.0.0 test-sh.viralize.tv
 0.0.0.0 test-sh2.viralize.tv
-
+# fnp related
+0.0.0.0 insteadjell.com
+0.0.0.0 www.insteadjell.com
+0.0.0.0 tail.insteadjell.com
+0.0.0.0 stg.tail.insteadjell.com
+0.0.0.0 0.tail.insteadjell.com
+0.0.0.0 1.tail.insteadjell.com
+0.0.0.0 2.tail.insteadjell.com
+0.0.0.0 3.tail.insteadjell.com
+0.0.0.0 4.tail.insteadjell.com
+0.0.0.0 5.tail.insteadjell.com
+0.0.0.0 6.tail.insteadjell.com
+0.0.0.0 7.tail.insteadjell.com
+0.0.0.0 8.tail.insteadjell.com
+0.0.0.0 9.tail.insteadjell.com
+0.0.0.0 v.tail.insteadjell.com
+0.0.0.0 whatfastfen.com
+0.0.0.0 www.whatfastfen.com
+0.0.0.0 jump.whatfastfen.com
+0.0.0.0 stg.jump.whatfastfen.com
+0.0.0.0 0.stg.jump.whatfastfen.com
+0.0.0.0 1.stg.jump.whatfastfen.com
+0.0.0.0 2.stg.jump.whatfastfen.com
+0.0.0.0 3.stg.jump.whatfastfen.com
+0.0.0.0 4.stg.jump.whatfastfen.com
+0.0.0.0 5.stg.jump.whatfastfen.com
+0.0.0.0 6.stg.jump.whatfastfen.com
+0.0.0.0 7.stg.jump.whatfastfen.com
+0.0.0.0 8.stg.jump.whatfastfen.com
+0.0.0.0 9.stg.jump.whatfastfen.com
+0.0.0.0 v.stg.jump.whatfastfen.com

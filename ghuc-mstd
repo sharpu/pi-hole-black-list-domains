@@ -1,5 +1,5 @@
 # Created: 22.09.2025
-# Updated: 24.03.2026
+# Updated: 25.10.2026
 # Reason: Open Office Installation
 # see: https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Win10Telemetry
 # changed to make it accessible for pi-hole
@@ -84,3 +84,6 @@
 0.0.0.0 45.134.83.29
 # ms edge related
 0.0.0.0 lma.npaw.com
+# msn.com
+0.0.0.0 msn.com
+0.0.0.0 www.msn.com
